@@ -411,15 +411,13 @@ NewTV金牌综艺,http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
 NewTV魅力潇湘,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=4
 NewTV东北热剧,http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8
 NewTV欢乐剧场,http://39.134.66.66/PLTV/88888888/224/3221225682/index.m3u8
-?音乐,#genre#
 MusicJapanTV,P2p://135.148.104.228:19806/7bbfd7a0233d4861943f8488dc21e075
-?少儿,#genre#
+少儿,#genre#
 星空卫视,P2p://135.148.104.228:19806/28563539dfd04ac3b0bd7f138c645232
 动漫秀场,P2p://135.148.104.228:19806/1b00c8eba9624626852599a2a8383aa4
 Astro小太阳,P2p://135.148.104.228:19806/42484e48715c4d92a6b98afa3e640f42
 AstroCeria,P2p://135.148.104.228:19806/b3f53402401e49ff886522b1ca81179d
 Boomerang,P2p://135.148.104.228:19806/a7d1c6858f5845589fe59fea2e3a61a2
-少儿,#genre#
 CCTV-14,http://222.128.98.255:4000/rtp/239.3.1.65:8132
 CCTV-14,http://live.qiyuevod.com/csmtv/bstv6.php?id=cctvsehd8m/8000000
 CCTV-14,http://live.qiyuevod.com/csmtv/bstv.php?id=cctvsehd8m/8000000
@@ -645,13 +643,12 @@ CCTV-14,http://live.qiyuevod.com/csmtv/astv.php?id=cctv14hd
 剧集_武林外传,http://mmitv.top/pltv/huya.php?id=21059598
 剧集_地下交通站,http://mmitv.top/pltv/huya.php?id=11342433
 剧集_邻里一家亲,http://mmitv.top/pltv/huya.php?id=11342426
-?电影,#genre#
+电影,#genre#
 天映频道,P2p://135.148.104.228:19806/4b5e8ec28cf24208baa663599d6cc1f5
 天映经典,P2p://135.148.104.228:19806/c7cf6992ae514b7e9a92164e4cac30e2
 tvNMoviesHD,P2p://135.148.104.228:19806/e44fe8b971a04543a11e412959693f7a
 BOO,P2p://135.148.104.228:19806/bae5e94ab17846f09ab44d39ce6b162d
 HITSMovies,P2p://135.148.104.228:19806/873a153ee838437fa797e4b3c401d958
-斗鱼,#genre#
 周星驰,http://mmitv.top/test/douyu.php?id=122402
 刘德华,http://mmitv.top/test/douyu.php?id=2516864
 好先生,http://mmitv.top/test/douyu.php?id=9650792
@@ -826,7 +823,8 @@ Pop Hits,http://rfcmedia.streamguys1.com/newpophitspremium.mp3
 Relax & Unwind,http://rfcmedia.streamguys1.com/relaxationpremium.mp3
 Smooth Jazz,http://rfcmedia.streamguys1.com/smoothjazzpremium.mp3
 The Hit List,http://rfcmedia.streamguys1.com/srhitlist.mp3
-岗苔,#genre#
+
+港台,#genre#
 凤凰中文,http://www.pr666.site:4040/udp/239.255.30.50:8231
 凤凰中文,http://e2.woc.iiiya.cn:8888/udp/239.61.5.214:1025
 凤凰中文,https://17186.eu.org/php/phtv/fhzw.flv
@@ -860,76 +858,7 @@ The Hit List,http://rfcmedia.streamguys1.com/srhitlist.mp3
 翡翠台,http://113.64.147.126:8081/hls/67/index.m3u8
 翡翠台,http://113.64.147.162:8081/hls/67/index.m3u8
 翡翠台,http://113.64.147.203:8081/hls/67/index.m3u8
-TVB 星河,http://nsszds.f3322.net:8081/hls/135/index.m3u8
-TVB 星河,http://113.64.147.126:8081/hls/135/index.m3u8
-TVB 星河,http://113.64.147.162:8081/hls/135/index.m3u8
-TVB 星河,http://113.64.147.203:8081/hls/135/index.m3u8
-无线新闻,https://www.xhzb.tw/hls/tvb.php?id=1
-无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
-无线财经,https://www.xhzb.tw/hls/tvb.php?id=2
-无线财经,http://live.cooltv.top/tv/tvb.php?id=2
-台视,http://live.qiyuevod.com/csmtv/tw.php?id=1
-台视,rtmp://219.80.97.77/sat/tv071
-中视,http://live.qiyuevod.com/csmtv/tw.php?id=2
-中视,rtmp://219.80.97.77/sat/tv091
-民视,http://live.qiyuevod.com/csmtv/tw.php?id=3
-民视,rtmp://219.80.97.77/sat/tv051
-华视,http://live.qiyuevod.com/csmtv/tw.php?id=4
-华视,rtmp://219.80.97.77/sat/tv111
-公视,http://awes.qiyuevod.com/csmzb/live.php?id=23
-台视新闻,http://awes.qiyuevod.com/csmzb/live.php?id=4
-中视新闻,http://awes.qiyuevod.com/csmzb/live.php?id=6
-民视新闻,http://awes.qiyuevod.com/csmzb/live.php?id=13
-镜新闻,http://awes.qiyuevod.com/csmzb/live.php?id=11
-TVBS,http://awes.qiyuevod.com/csmzb/live.php?id=1
-TVBS News,http://awes.qiyuevod.com/csmzb/live.php?id=19
-TVBS新闻,http://live.qiyuevod.com/csmtv/tw.php?id=5
-TVBS新闻,http://awes.qiyuevod.com/csmzb/live.php?id=0
-TVBS新闻,rtmp://219.80.97.77/sat/tv551
-TVBS欢乐,http://live.qiyuevod.com/csmtv/tw.php?id=6
-TVBS欢乐,rtmp://219.80.97.77/sat/tv421
-东森LIVE,http://awes.qiyuevod.com/csmzb/live.php?id=2
-东森新闻,http://awes.qiyuevod.com/csmzb/live.php?id=28
-东森财经,http://awes.qiyuevod.com/csmzb/live.php?id=7
-东森财经,rtmp://219.80.97.77/sat/tv571
-东森超视,rtmp://219.80.97.77/sat/tv331
-东森幼幼,http://awes.qiyuevod.com/csmzb/live.php?id=46
-中天新闻,http://awes.qiyuevod.com/csmzb/live.php?id=3
-寰宇新闻,http://awes.qiyuevod.com/csmzb/live.php?id=5
-寰宇新闻台湾,http://awes.qiyuevod.com/csmzb/live.php?id=20
-三立LIVE,http://awes.qiyuevod.com/csmzb/live.php?id=8
-三立iNEWS,http://awes.qiyuevod.com/csmzb/live.php?id=9
-三立iNEWS+,http://awes.qiyuevod.com/csmzb/live.php?id=10
-新唐人亞太,http://awes.qiyuevod.com/csmzb/live.php?id=14
-纬来日本,http://live.qiyuevod.com/csmtv/tw.php?id=8
-纬来日本,rtmp://219.80.97.77/sat/tv771
-纬来育乐,http://live.qiyuevod.com/csmtv/tw.php?id=9
-纬来育乐,rtmp://219.80.97.77/sat/tv701
-纬来体育,http://live.qiyuevod.com/csmtv/tw.php?id=10
-纬来体育,rtmp://219.80.97.77/sat/tv721
-壹电影,http://103.112.191.9:880/LAOSAT1085.m3u8
-东森电影,http://120.84.96.21:808/hls/32/index.m3u8
-东森电影,http://103.112.191.9:880/LAOSAT1017.m3u8
-东森洋片,http://120.84.96.21:808/hls/33/index.m3u8
-东森洋片,http://103.112.191.9:880/LAOSAT1018.m3u8
-龙祥时代,http://120.84.96.21:808/hls/35/index.m3u8
-龙祥时代,http://103.112.191.9:880/LAOSAT1084.m3u8
-好莱坞电影,http://120.84.96.21:808/hls/24/index.m3u8
-天映频道,http://103.112.191.9:880/LAOSAT1029.m3u8
-天映经典,http://120.84.96.21:808/hls/85/index.m3u8
-私人影院,http://171.108.239.109:8181/tsfile/live/1014_1.m3u8
-MOMO综合,rtmp://219.80.97.77/sat/tv761
-ELEVEN1,http://live.qiyuevod.com/csmtv/tw.php?id=11
-ELEVEN1,rtmp://219.80.97.77/sat/tv731
-ELEVEN2,http://live.qiyuevod.com/csmtv/tw.php?id=12
-ELEVEN2,rtmp://219.80.97.77/sat/tv741
-番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-大爱1台,https://pulltv2.wanfudaluye.com/live/tv1.m3u8
-大爱2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-华语流行 Radio,http://awes.qiyuevod.com/csmzb/live.php?id=35
-华语经典 Radio,http://awes.qiyuevod.com/csmzb/live.php?id=40
+
 港剧,#genre#
 埋堆堆01,http://mmitv.top/pltv/huya.php?id=23749096
 埋堆堆02,http://mmitv.top/pltv/huya.php?id=23735126
