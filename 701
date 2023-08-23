@@ -54,6 +54,10 @@ CCTV2,http://gslbserv.itv.cmvideo.cn:80/6000000001000014161/index.m3u8?channel-i
 CCTV3,http://gslbserv.itv.cmvideo.cn:80/6000000001000022313/index.m3u8?channel-id=wasusyt&Contentid=6000000001000022313&livemode=1&stbId=3
 CCTV5+,http://gslbserv.itv.cmvideo.cn:80/6000000001000015875/index.m3u8?channel-id=wasusyt&Contentid=6000000001000015875&livemode=1&stbId=3
 
+CCTV15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+CCTV16,http://172.16.149.176:9090/live/1617_4500.m3u8?t=A5ZjU2OThiNjAxMzExMTBkN==&u=freeuser&p=1&pid=&cid=1332&d=b60131110d72d53&sid=tjDrELH40rX6WTGp4ct+HQ==&r=20230320203128&e=20230321023133&nc=CdcTzRl4bov0&a=7&v=2&isSuma=1&hlsSessionID=7824443072382603336&srch
+CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+
 安徽卫视,http://gslbserv.itv.cmvideo.cn:80/6000000001000009954/index.m3u8?channel-id=wasusyt&Contentid=6000000001000009954&livemode=1&stbId=3
 北京卫视,http://gslbserv.itv.cmvideo.cn:80/6000000001000020451/index.m3u8?channel-id=wasusyt&Contentid=6000000001000020451&livemode=1&stbId=3
 广东卫视,http://gslbserv.itv.cmvideo.cn:80/6000000001000031076/index.m3u8?channel-id=wasusyt&Contentid=6000000001000031076&livemode=1&stbId=3
@@ -80,15 +84,6 @@ CCTV5+,http://gslbserv.itv.cmvideo.cn:80/6000000001000015875/index.m3u8?channel-
 浙江卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 安徽卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 湖北卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001347/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-体育休闲,http://111.20.105.60:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-金鹰纪实,http://111.20.105.60:6060/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-纪实人文,http://111.20.105.60:6060/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-多台同显,http://111.20.105.60:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-多台同显,http://111.20.105.60:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-宝鸡1,http://111.20.105.60:6060/yinhe/2/ch00000090990000001829/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-综合1,http://111.20.105.60:6060/yinhe/2/ch00000090990000001721/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-南洛1,http://111.20.105.60:6060/yinhe/2/ch00000090990000001734/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-宝鸡2,http://111.20.105.60:6060/yinhe/2/ch00000090990000001737/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 172源
 CCTV1,http://172.16.149.176:9090/live/1402_4500.m3u8?t=A5ZjU2OThiNjAxMzExMTBkN==&u=freeuser&p=1&pid=&cid=1332&d=b60131110d72d53&sid=tjDrELH40rX6WTGp4ct+HQ==&r=20230320203128&e=20230321023133&nc=CdcTzRl4bov0&a=7&v=2&isSuma=1&hlsSessionID=7824443072382603336&srch
 CCTV3,http://172.16.149.176:9090/live/1603_4500.m3u8?t=A5ZjU2OThiNjAxMzExMTBkN==&u=freeuser&p=1&pid=&cid=1332&d=b60131110d72d53&sid=tjDrELH40rX6WTGp4ct+HQ==&r=20230320203128&e=20230321023133&nc=CdcTzRl4bov0&a=7&v=2&isSuma=1&hlsSessionID=7824443072382603336&srch
@@ -100,7 +95,6 @@ CCTV7,http://172.16.149.176:9090/live/1607_4500.m3u8?t=A5ZjU2OThiNjAxMzExMTBkN==
 CCTV8,http://172.16.149.176:9090/live/1608_4500.m3u8?t=A5ZjU2OThiNjAxMzExMTBkN==&u=freeuser&p=1&pid=&cid=1332&d=b60131110d72d53&sid=tjDrELH40rX6WTGp4ct+HQ==&r=20230320203128&e=20230321023133&nc=CdcTzRl4bov0&a=7&v=2&isSuma=1&hlsSessionID=7824443072382603336&srch
 CCTV10,http://172.16.149.176:9090/live/1610_4500.m3u8?t=A5ZjU2OThiNjAxMzExMTBkN==&u=freeuser&p=1&pid=&cid=1332&d=b60131110d72d53&sid=tjDrELH40rX6WTGp4ct+HQ==&r=20230320203128&e=20230321023133&nc=CdcTzRl4bov0&a=7&v=2&isSuma=1&hlsSessionID=7824443072382603336&srch
 CCTV13,http://172.16.149.176:9090/live/1613_4500.m3u8?t=A5ZjU2OThiNjAxMzExMTBkN==&u=freeuser&p=1&pid=&cid=1332&d=b60131110d72d53&sid=tjDrELH40rX6WTGp4ct+HQ==&r=20230320203128&e=20230321023133&nc=CdcTzRl4bov0&a=7&v=2&isSuma=1&hlsSessionID=7824443072382603336&srch
-CCTV16,http://172.16.149.176:9090/live/1617_4500.m3u8?t=A5ZjU2OThiNjAxMzExMTBkN==&u=freeuser&p=1&pid=&cid=1332&d=b60131110d72d53&sid=tjDrELH40rX6WTGp4ct+HQ==&r=20230320203128&e=20230321023133&nc=CdcTzRl4bov0&a=7&v=2&isSuma=1&hlsSessionID=7824443072382603336&srch
 广东卫视,http://172.16.149.176:9090/live/1401_4500.m3u8?t=A5ZjU2OThiNjAxMzExMTBkN==&u=freeuser&p=1&pid=&cid=1332&d=b60131110d72d53&sid=tjDrELH40rX6WTGp4ct+HQ==&r=20230320203128&e=20230321023133&nc=CdcTzRl4bov0&a=7&v=2&isSuma=1&hlsSessionID=7824443072382603336&srch
 海南卫视,http://172.16.149.176:9090/live/1451_4500.m3u8?t=A5ZjU2OThiNjAxMzExMTBkN==&u=freeuser&p=1&pid=&cid=1332&d=b60131110d72d53&sid=tjDrELH40rX6WTGp4ct+HQ==&r=20230320203128&e=20230321023133&nc=CdcTzRl4bov0&a=7&v=2&isSuma=1&hlsSessionID=7824443072382603336&srch
 河北卫视,http://172.16.149.176:9090/live/1426_4500.m3u8?t=A5ZjU2OThiNjAxMzExMTBkN==&u=freeuser&p=1&pid=&cid=1332&d=b60131110d72d53&sid=tjDrELH40rX6WTGp4ct+HQ==&r=20230320203128&e=20230321023133&nc=CdcTzRl4bov0&a=7&v=2&isSuma=1&hlsSessionID=7824443072382603336&srch
@@ -110,7 +104,7 @@ CCTV16,http://172.16.149.176:9090/live/1617_4500.m3u8?t=A5ZjU2OThiNjAxMzExMTBkN=
 天津卫视,http://172.16.149.176:9090/live/1415_4500.m3u8?t=A5ZjU2OThiNjAxMzExMTBkN==&u=freeuser&p=1&pid=&cid=1332&d=b60131110d72d53&sid=tjDrELH40rX6WTGp4ct+HQ==&r=20230320203128&e=20230321023133&nc=CdcTzRl4bov0&a=7&v=2&isSuma=1&hlsSessionID=7824443072382603336&srch
 
 
-dbiptv源5M
+dbiptv源
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
@@ -132,8 +126,6 @@ CCTV11,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
 CCTV12,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
 CCTV13,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 CCTV14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-CCTV15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
-CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 CGTN,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
@@ -191,6 +183,17 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 央视文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
 
+
+体育休闲,http://111.20.105.60:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+金鹰纪实,http://111.20.105.60:6060/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+纪实人文,http://111.20.105.60:6060/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+多台同显,http://111.20.105.60:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+多台同显,http://111.20.105.60:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+宝鸡1,http://111.20.105.60:6060/yinhe/2/ch00000090990000001829/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+综合1,http://111.20.105.60:6060/yinhe/2/ch00000090990000001721/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+南洛1,http://111.20.105.60:6060/yinhe/2/ch00000090990000001734/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+宝鸡2,http://111.20.105.60:6060/yinhe/2/ch00000090990000001737/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
 央视卫视,#genre#
 
 CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8
@@ -208,6 +211,7 @@ CCTV11,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m
 CCTV12,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226723/1.m3u8?
 CCTV13,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226717/1.m3u8
 CCTV14,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226663/1.m3u8
+CCTV15,http://lovegfs.top:8000/udp/239.120.1.167:9060
 CCTV16,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8?$8M1080
 CCTV17,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m3u8?
 安徽卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226655/1.m3u8
@@ -264,7 +268,6 @@ CCTV13,http://lovegfs.top:8000/udp/239.120.1.165:9048
 CCTV13,http://lovegfs.top:8000/udp/239.120.2.102:5141
 CCTV14,http://lovegfs.top:8000/udp/239.120.1.193:8284
 CCTV14,http://lovegfs.top:8000/udp/239.120.2.103:5141
-CCTV15,http://lovegfs.top:8000/udp/239.120.1.167:9060
 CCTV15,http://lovegfs.top:8000/udp/239.120.2.104:5141
 CCTV16,http://lovegfs.top:8000/udp/239.120.1.252:9554
 CCTV16,http://lovegfs.top:8000/udp/239.120.2.105:5141
