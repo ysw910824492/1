@@ -1823,11 +1823,11 @@ MTV,P2p://135.148.104.228:19806/15683e7c18794b389ca5f5e6df4059bf
 
 
 电台,#genre#,http://sk.cri.cn/am846.m3u8
-CRI 环球资讯广播,https://sk.cri.cn/905.m3u8
-CRI 华语环球广播,http://sk.cri.cn/hyhq.m3u8
-CRI 南海之声,https://sk.cri.cn/nhzs.m3u8
-CRI 世界华声,http://sk.cri.cn/hxfh.m3u8
-CRI 轻松调频,http://sk.cri.cn/915.m3u8
+ 环球资讯广播,https://sk.cri.cn/905.m3u8
+ 华语环球广播,http://sk.cri.cn/hyhq.m3u8
+ 南海之声,https://sk.cri.cn/nhzs.m3u8
+ 世界华声,http://sk.cri.cn/hxfh.m3u8
+ 轻松调频,http://sk.cri.cn/915.m3u8
 CityFM 台南知音,http://fm971.cityfm.tw:8080/971.mp3
 98 新闻电台,http://n12.rcs.revma.com/55tyxsy4qtzuv
 958,https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
@@ -1916,25 +1916,25 @@ M,http://play.redefine.ltd/Stream1/FM1058-1.m3u8
 私家车999,https://stream.hndt.com/live/sijiache/playlist.m3u8
 河南教育广播,https://stream.hndt.com/live/jiaoyu/playlist.m3u8
 河南信息广播,https://stream.hndt.com/live/leling/playlist.m3u,https://stream.hndt.com/live/gudian/playlist.m3u8
-CRI环球资讯广播,https://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
-CRI华语环球广播,http://sk.cri.cn/hyhq.m3u8
-CRI英语环球广播 China,http://sk.cri.cn/am846.m3u8
-CRI外语教学广播 China,http://sk.cri.cn/am1008.m3u8
-CRI南海之声,http://sk.cri.cn/nhzs.m3u8
-CRI轻松调频,http://sk.cri.cn/915.m3u8
-CRI粤语国际,http://sk.cri.cn/hxfh.m3u8
-CNR中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
-CNR经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
-CNR文艺之声,http://audiows010.cnr.cn/live/wyzs192/playlist.m3u8
-CNR阅读之声,http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
-CNR台海之声,http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
-CNR乡村之声,http://ngcdn017.cnr.cn/live/xczs/index.m3u8
-CNR老年之声,http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
-CNR民族之声,http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
-CNR香港之声,http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
-CNR大湾区之声,http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
-CNR神州之声,http://ngcdn006.cnr.cn/live/szzs/index.m3u8
-CNR中国交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+环球资讯广播,https://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
+华语环球广播,http://sk.cri.cn/hyhq.m3u8
+英语环球广播 China,http://sk.cri.cn/am846.m3u8
+外语教学广播 China,http://sk.cri.cn/am1008.m3u8
+南海之声,http://sk.cri.cn/nhzs.m3u8
+轻松调频,http://sk.cri.cn/915.m3u8
+粤语国际,http://sk.cri.cn/hxfh.m3u8
+中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+文艺之声,http://audiows010.cnr.cn/live/wyzs192/playlist.m3u8
+阅读之声,http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+台海之声,http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+乡村之声,http://ngcdn017.cnr.cn/live/xczs/index.m3u8
+老年之声,http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+民族之声,http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+香港之声,http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+大湾区之声,http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+神州之声,http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+中国交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 上海长三角之声,https://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
 上海第一财经广播,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 天津静海区综合广播·交通广播网,http://starfish.bj.aliyun.001.qingting.fm:8000/jingdianFM1008
@@ -2144,8 +2144,8 @@ CNR中国交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 湖南文艺广播·摩登音乐台,https://satellitepull.cnr.cn/live/wx32hunwygb/playlist.m3u8
 惠州音乐广播,http://stream.hztvmg.com/test17/playlist.m3u8
 宜昌音乐生活广播,http://playfmaliyun.3xgd.com/fm/qct.m3u8
-江西旅游广播iFM97.4,http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv_pyhgb_aac.m3u8
-江西故事广播·潮台969,http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv_myfm969_aac.m3u8
+江西旅游广播,http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv_pyhgb_aac.m3u8
+江西故事广播,http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv_myfm969_aac.m3u8
 山西音乐广播,htlive.sxrtv.com/live/yinyue/playlist.m3u8
 内蒙古音乐之声,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 湖北经典音乐广播,https://satellitepull.cnr.cn/live/wx32hubyygb/playlist.m3u8
