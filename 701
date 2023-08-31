@@ -1219,7 +1219,8 @@ IVPV6
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 
 
-电台,#genre#,http://sk.cri.cn/am846.m3u8
+电台,#genre#
+
  环球资讯广播,https://sk.cri.cn/905.m3u8
  华语环球广播,http://sk.cri.cn/hyhq.m3u8
  南海之声,https://sk.cri.cn/nhzs.m3u8
@@ -1281,17 +1282,7 @@ MG之音,http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
 摇滚天空,http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
 国乐悠扬,http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
 南投广播,http://fm997.cityfm.tw:8080/997a.mp3
-1,http://rfcmedia.streamguys1.com/alternativehitspremium.mp3
-2,http://rfcmedia.streamguys1.com/countryhitspremium.mp3
-3,http://rfcmedia.streamguys1.com/countryroadspremium.mp3
-4,http://rfcmedia.streamguys1.com/coffeehousepremium.mp3
-5,http://rfcmedia.streamguys1.com/srdanceone.mp3
-6,http://rfcmedia.streamguys1.com/srdiscobeats.mp3
-7,http://rfcmedia.streamguys1.com/MusicPulsePremium.mp3
-8,http://rfcmedia.streamguys1.com/srtodayscountryhits.mp3
-9,http://rfcmedia.streamguys1.com/newpophitspremium.mp3
-10,http://rfcmedia.streamguys1.com/relaxationpremium.mp3
-11,http://rfcmedia.streamguys1.com/smoothjazzpremium.mp3
+
 12,http://rfcmedia.streamguys1.com/srhitlist.mp3
 
 
