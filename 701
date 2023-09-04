@@ -1219,7 +1219,7 @@ IVPV6
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 
 
-电台,#genre#
+电台
 
  环球资讯广播,https://sk.cri.cn/905.m3u8
  华语环球广播,http://sk.cri.cn/hyhq.m3u8
@@ -1257,7 +1257,6 @@ MG之音,http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
 台湾古典音乐电台,http://59.120.88.155:8000/live.mp3
 台北都会音乐电台,https://onair.bravo913.com.tw:9130/live.mp3
 国立教育电台,http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8
-天籁之音-国风,http:/-stream3.hndt.com/now/UzPxbRaT/playlist.m3u8
 店头音乐,http://livestream.1766.today:1781/live2.mp3
 私房音乐,http://livestream.1766.today:1769/live1.mp3
 飞碟电台,http://n08.rcs.revma.com/em90w4aeewzuv
