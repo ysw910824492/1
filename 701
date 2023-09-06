@@ -977,7 +977,7 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 云南卫视,https://cntv.sbs/tv/v6.php?id=ynws
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?fmmv6青海卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000320/index.m3u8?fmmv6
 
-央视,#genre#
+央视标清
 
 CCTV1,http://cyz32.livehbindex.hbcatv.cn/live/50000020935c4d59965a1cbf159c9be9.m3u8?bitrate=2300&pt=5
 CCTV1,https://dispatchnew.ulivetv.net/v/live/cgn2nfkwmp4w.m3u8?stream_id=cgn2nfkwmp4w&token=c0vzuc7wqkzk
@@ -998,7 +998,6 @@ CCTV14HD,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226663/1
 CCTV16HD,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8?$8M1080
 CCTV17HD,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m3u8?
 
-卫视,#genre#
 北京卫视,https://dispatchnew.ulivetv.net/v/live/cgwvkn768jwg.m3u8?stream_id=cgwvkn768jwg&token=c0vzuc7wqkzk
 湖南卫视,https://dispatchnew.ulivetv.net/v/live/cgwvl62c4og0.m3u8?stream_id=cgwvl62c4og0&token=c0vzuc7wqkzk
 浙江卫视,https://dispatchnew.ulivetv.net/v/live/cgwvlwcmnw74.m3u8?stream_id=cgwvlwcmnw74&token=c0vzuc7wqkzk
