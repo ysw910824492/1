@@ -1052,7 +1052,6 @@ CCTV17,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m
 
 广东台,#genre#
 大湾区卫视,http://222.217.246.236:8181/tsfile/live/1002_1.m3u8
-广东体育标清,http://222.217.246.236:8181/tsfile/live/1001_1.m3u8
 经济科教,http://222.217.246.236:8181/tsfile/live/1003_1.m3u8
 广东新闻,http://222.217.246.236:8181/tsfile/live/1004_1.m3u8
 广东民生,http://222.217.246.236:8181/tsfile/live/1007_1.m3u8
@@ -1239,7 +1238,7 @@ GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0
 佛山影视,http://www.namewee.xyz/gudou.php?id=foshanyingshiHD_4500
 佛山南海,http://www.namewee.xyz/gudou.php?id=nanhaiHD_4500
 佛山顺德,http://www.namewee.xyz/gudou.php?id=shundeHD_4500
-
+广东体育,http://222.217.246.236:8181/tsfile/live/1001_1.m3u8
 
 更新源
 广东卫视,https://php.17186.eu.org/gdtv/web/lizhi.m3u8
