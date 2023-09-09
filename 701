@@ -1733,17 +1733,11 @@ IVPV6
 
 电台,#genre#
 
- 环球资讯广播,https://sk.cri.cn/905.m3u8
- 华语环球广播,http://sk.cri.cn/hyhq.m3u8
- 南海之声,https://sk.cri.cn/nhzs.m3u8
- 世界华声,http://sk.cri.cn/hxfh.m3u8
- 轻松调频,http://sk.cri.cn/915.m3u8
-CityFM 台南知音,http://fm971.cityfm.tw:8080/971.mp3
-98 新闻电台,http://n12.rcs.revma.com/55tyxsy4qtzuv
-958,https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
-938,https://14033.live.streamtheworld.com/938NOW_PREM.aac
-933,https://22393.live.streamtheworld.com/YES933_PREM.aac
-972,https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
+环球资讯广播,https://sk.cri.cn/905.m3u8
+华语环球广播,http://sk.cri.cn/hyhq.m3u8
+南海之声,https://sk.cri.cn/nhzs.m3u8
+世界华声,http://sk.cri.cn/hxfh.m3u8
+轻松调频,http://sk.cri.cn/915.m3u8
 中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
 中华之声,http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
@@ -1751,7 +1745,6 @@ CityFM 台南知音,http://fm971.cityfm.tw:8080/971.mp3
 香港之声,http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
 民族之声,http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
 乡村之声,http://ngcdn017.cnr.cn/live/xczs/index.m3u8
-藏语广播,http://ngcdn012.cnr.cn/live/zygb/index.m3u8
 维语广播,http://ngcdn013.cnr.cn/live/wygb/index.m3u8
 交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 哈语广播,http://ngcdn025.cnr.cn/live/hygb/index.m3u8
@@ -1766,8 +1759,6 @@ MG之音,http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
 环宇广播,http://stream.rcs.revma.com/srn5f9kmwxhvv
 全,http://stream.rcs.revma.com/044q61ha7a0uv
 飞扬,http://stream.rcs.revma.com/e0tdah74hv8uv
-台湾古典音乐电台,http://59.120.88.155:8000/live.mp3
-台北都会音乐电台,https://onair.bravo913.com.tw:9130/live.mp3
 国立教育电台,http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8
 店头音乐,http://livestream.1766.today:1781/live2.mp3
 私房音乐,http://livestream.1766.today:1769/live1.mp3
@@ -1778,8 +1769,6 @@ MG之音,http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
 天籁古典,http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
 动感音乐,http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
 摇滚天空,http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
-国乐悠扬,http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
-南投广播,http://fm997.cityfm.tw:8080/997a.mp3
 
 
 
