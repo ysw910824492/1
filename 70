@@ -416,7 +416,7 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 南洛1,http://111.20.105.60:6060/yinhe/2/ch00000090990000001734/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 宝鸡2,http://111.20.105.60:6060/yinhe/2/ch00000090990000001737/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-央视卫视,#genre#
+长效源,#genre#
 
 
 CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8
@@ -459,7 +459,6 @@ CCTV17,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m
 辽宁卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226689/1.m3u8
 纪实人文,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226694/1.m3u8
 
-央视
 CCTV3,http://222.217.246.236:8181/tsfile/live/1014_1.m3u8
 CCTV5,http://222.217.246.236:8181/tsfile/live/1016_1.m3u8
 CCTV6,http://222.217.246.236:8181/tsfile/live/1017_1.m3u8
@@ -471,7 +470,7 @@ CCTV14,http://222.217.246.236:8181/tsfile/live/1026_1.m3u8
 CCTV5+,http://222.217.246.236:8181/tsfile/live/1028_1.m3u8
 CCTV17,http://222.217.246.236:8181/tsfile/live/1029_1.m3u8
 
-卫视
+
 江苏卫视,http://222.217.246.236:8181/tsfile/live/1011_1.m3u8
 河南卫视,http://222.217.246.236:8181/tsfile/live/1015_1.m3u8
 北京卫视,http://222.217.246.236:8181/tsfile/live/1027_1.m3u8
@@ -566,7 +565,7 @@ CCTV17,http://lovegfs.top:8000/udp/239.120.1.68:8370
 CCTV17,http://lovegfs.top:8000/udp/239.120.2.106:5141
 CTV1,http://lovegfs.top:8000/udp/239.120.2.54:5141
 CTV1,http://lovegfs.top:8000/udp/239.120.2.67:5141
-卫视
+
 安多卫视,http://lovegfs.top:8000/udp/239.120.1.40:8214
 安多卫视,http://lovegfs.top:8000/udp/239.120.2.6:5141
 安多卫视,http://lovegfs.top:8000/udp/239.120.2.163:5141
@@ -974,7 +973,7 @@ CCTV16 4K,https://cntv.sbs/tv/v6.php?id=CCTV-16-4K_8000
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 
 
-央视频道
+
 CCTV1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 CCTV2,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
 CCTV3,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u8
@@ -997,7 +996,7 @@ CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-卫视频道
+
 北京卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001029/index.m3u8
 湖南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8
 东方卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001013/index.m3u8
@@ -1120,7 +1119,7 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 云南卫视,https://cntv.sbs/tv/v6.php?id=ynws
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?fmmv6青海卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000320/index.m3u8?fmmv6
 
-央视标清
+标清
 
 CCTV1,https://dispatchnew.ulivetv.net/v/live/cgn2nfkwmp4w.m3u8?stream_id=cgn2nfkwmp4w&token=c0vzuc7wqkzk
 CCTV2,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8?
