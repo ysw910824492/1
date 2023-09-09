@@ -1206,6 +1206,15 @@ CCTV17,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m
 广东影视,http://61.143.45.150:9901/tsfile/live/1014_1.m3u8
 广东少儿,http://61.143.45.150:9901/tsfile/live/1015_1.m3u8
 
+古豆
+珠江频道,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=gdzhujiangHD_7500
+广东体育,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=1413
+经济科教,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=GDjingjikejiaoHD_7000
+佛山综合,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=foshanzongheHD_4500
+佛山公共,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=foshangonggongHD_4500
+佛山影视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=foshanyingshiHD_4500
+佛山南海,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=nanhaiHD_4500
+佛山顺德,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=shundeHD_4500广州新闻,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=gznews_1500
 
 大湾区卫视,http://222.217.246.236:8181/tsfile/live/1002_1.m3u8
 经济科教,http://222.217.246.236:8181/tsfile/live/1003_1.m3u8
@@ -1241,20 +1250,6 @@ CCTV17,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m
 广州新闻,https://justsometime.gztv.com/sec/xinwen.m3u8
 深圳电视剧,http://171.38.25.240:8181/tsfile/live/1097_1.m3u8
 
-
-古豆
-珠江频道,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=gdzhujiangHD_7500
-广东体育,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=1413
-经济科教,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=GDjingjikejiaoHD_7000
-佛山综合,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=foshanzongheHD_4500
-佛山公共,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=foshangonggongHD_4500
-佛山影视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=foshanyingshiHD_4500
-佛山南海,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=nanhaiHD_4500
-佛山顺德,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=shundeHD_4500广州新闻,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=gznews_1500
-
-
-
-广州新闻,http://222.217.246.236:8181/tsfile/live/1086_1.m3u8
 
 广东体育,http://r.jdshipin.com/LiYdg
 明珠台,http://r.jdshipin.com/ZQ4kN
