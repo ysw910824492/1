@@ -18,7 +18,7 @@ CCTV16 4K,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/bestv.php?id=cctv16hd
 虎牙魔兽世界4K,http://159.75.85.63:35455/huya/shangdi
 
 
-广东电信4K
+广东4K
 
 欢笑剧场,http://183.65.9.200:8888/udp/235.254.196.150:7980
 欢笑剧场,http://125.82.171.210:8888/udp/235.254.196.150:7980
@@ -52,7 +52,7 @@ CHC动作电影,http://106.39.160.148/live.aishang.ctlcdn.com/00000110240324_1/e
 CHC家庭影院,http://106.39.160.148/live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240323_1
 CHC高清电影,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=CHCHD_7000
 
-古豆HEVC,#genre#
+古豆,#genre#
 
 CCTV1,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=CCTV1HD_7000
 CCTV2,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=CCTV2HD_7000
@@ -99,7 +99,7 @@ CCTV17,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHD
 魅力足球,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=meiliyinyueHD_7000
 劲爆体育,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=jinbaotiyuHD_7000
 
-重庆有线
+
 欢笑剧场4K,http://hls.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
 CCTV4K,http://hls.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 CCTV16-4K,http://hls.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
@@ -242,7 +242,7 @@ CBN-幸福娱乐,http://113.248.216.97:8888/udp/235.254.199.195:7980#http://113.
 茶频道,http://113.248.216.97:8888/udp/235.254.199.198:7980#http://113.249.0.4:8888/udp/235.254.199.198:7980#http://125.80.198.133:8888/udp/235.254.199.198:7980
 快乐垂钓,http://113.248.216.97:8888/udp/235.254.199.191:7980#http://113.249.0.4:8888/udp/235.254.199.191:7980#http://125.80.198.133:8888/udp/235.254.199.191:7980
 CETV1,http://113.248.216.97:8888/udp/235.254.199.196:7980#http://113.249.0.4:8888/udp/235.254.199.196:7980#http://125.80.198.133:8888/udp/235.254.199.196:7980
-city都市剧场,http://113.248.216.97:8888/udp/235.254.197.151:7980#http://113.249.0.4:8888/udp/235.254.197.151:7980#http://125.80.198.133:8888/udp/235.254.197.151:7980
+剧场,http://113.248.216.97:8888/udp/235.254.197.151:7980#http://113.249.0.4:8888/udp/235.254.197.151:7980#http://125.80.198.133:8888/udp/235.254.197.151:7980
 动漫秀场,http://113.248.216.97:8888/udp/235.254.197.152:7980#http://113.249.0.4:8888/udp/235.254.197.152:7980#http://125.80.198.133:8888/udp/235.254.197.152:7980
 法治天地,http://113.248.216.97:8888/udp/235.254.197.154:7980#http://113.249.0.4:8888/udp/235.254.197.154:7980#http://125.80.198.133:8888/udp/235.254.197.154:7980
 金色学堂,http://113.248.216.97:8888/udp/235.254.197.157:7980#http://113.249.0.4:8888/udp/235.254.197.157:7980#http://125.80.198.133:8888/udp/235.254.197.157:7980
@@ -326,7 +326,7 @@ CCTV13,http://172.16.149.176:9090/live/1613_4500.m3u8?t=A5ZjU2OThiNjAxMzExMTBkN=
 天津卫视,http://172.16.149.176:9090/live/1415_4500.m3u8?t=A5ZjU2OThiNjAxMzExMTBkN==&u=freeuser&p=1&pid=&cid=1332&d=b60131110d72d53&sid=tjDrELH40rX6WTGp4ct+HQ==&r=20230320203128&e=20230321023133&nc=CdcTzRl4bov0&a=7&v=2&isSuma=1&hlsSessionID=7824443072382603336&srch
 
 
-dbiptv源
+
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
@@ -348,7 +348,7 @@ CCTV11,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
 CCTV12,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
 CCTV13,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 CCTV14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-CGTN,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
+CCTV,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
@@ -498,7 +498,7 @@ CCTV17,http://222.217.246.236:8181/tsfile/live/1029_1.m3u8
 海南卫视,http://222.217.246.236:8181/tsfile/live/1072_1.m3u8
 云南卫视,http://222.217.246.236:8181/tsfile/live/1092_1.m3u8
 
-CGTN,http://222.217.246.236:8181/tsfile/live/1087_1.m3u8
+国际,http://222.217.246.236:8181/tsfile/live/1087_1.m3u8
 快乐崔钓,http://222.217.246.236:8181/tsfile/live/1096_1.m3u8
 茶频道,http://222.217.246.236:8181/tsfile/live/1097_1.m3u8
 兵器科教,http://222.217.246.236:8181/tsfile/live/1098_1.m3u8
@@ -523,7 +523,7 @@ CGTN,http://222.217.246.236:8181/tsfile/live/1087_1.m3u8
 文化生活,http://222.217.246.236:8181/tsfile/live/1071_1.m3u8
 MV歌曲,http://222.217.246.236:8181/tsfile/live/1075_1.m3u8
 MV歌曲,http://222.217.246.236:8181/tsfile/live/1080_1.m3u8
-CETV早期教育,http://222.217.246.236:8181/tsfile/live/1079_1.m3u8
+早期教育,http://222.217.246.236:8181/tsfile/live/1079_1.m3u8
 
 
 
@@ -564,8 +564,8 @@ CCTV16,http://lovegfs.top:8000/udp/239.120.1.252:9554
 CCTV16,http://lovegfs.top:8000/udp/239.120.2.105:5141
 CCTV17,http://lovegfs.top:8000/udp/239.120.1.68:8370
 CCTV17,http://lovegfs.top:8000/udp/239.120.2.106:5141
-CETV1,http://lovegfs.top:8000/udp/239.120.2.54:5141
-CETV1,http://lovegfs.top:8000/udp/239.120.2.67:5141
+CTV1,http://lovegfs.top:8000/udp/239.120.2.54:5141
+CTV1,http://lovegfs.top:8000/udp/239.120.2.67:5141
 卫视
 安多卫视,http://lovegfs.top:8000/udp/239.120.1.40:8214
 安多卫视,http://lovegfs.top:8000/udp/239.120.2.6:5141
@@ -677,10 +677,6 @@ CETV1,http://lovegfs.top:8000/udp/239.120.2.67:5141
 游戏风云,http://lovegfs.top:8000/udp/239.120.1.215:9312
 游戏风云,http://lovegfs.top:8000/udp/239.120.2.27:5141
 游戏风云,http://lovegfs.top:8000/udp/239.120.2.133:5141
-
-
-
-
 39源
 
 CCTV1,http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221225726/1/index.m3u8?fmt=ts2hls
@@ -795,7 +791,7 @@ CCTV15,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/32212257
 CCTV16,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226283/1/index.m3u8?fmt=ts2hls
 CCTV17,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls
 CETV1,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225723/1/index.m3u8?fmt=ts2hls
-CGTN,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226297/1/index.m3u8?fmt=ts2hls
+CCTV,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226297/1/index.m3u8?fmt=ts2hls
 电视指南,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225673/1/index.m3u8?fmt=ts2hls
 女性时尚,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls
 风云音乐,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225698/1/index.m3u8?fmt=ts2hls
@@ -809,11 +805,11 @@ CGTN,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226297
 风云足球,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
 央视台球,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226156/1/index.m3u8?fmt=ts2hls
 CETV4,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226338/1/index.m3u8?fmt=ts2hls
-CGTN法语,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226265/1/index.m3u8?fmt=ts2hls
-CGTN纪录,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226271/1/index.m3u8?fmt=ts2hls
-CGTN葡萄牙语,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226278/1/index.m3u8?fmt=ts2hls
-CGTN阿拉伯语,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226281/1/index.m3u8?fmt=ts2hls
-CGTN西班牙语,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226284/1/index.m3u8?fmt=ts2hls
+CCTV法语,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226265/1/index.m3u8?fmt=ts2hls
+CCTV纪录,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226271/1/index.m3u8?fmt=ts2hls
+CCTV葡萄,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226278/1/index.m3u8?fmt=ts2hls
+CCTV阿拉,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226281/1/index.m3u8?fmt=ts2hls
+CCTV牙语,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226284/1/index.m3u8?fmt=ts2hls
 北京卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225754/1/index.m3u8?fmt=ts2hls
 天津卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225756/1/index.m3u8?fmt=ts2hls
 湖南卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225707/1/index.m3u8?fmt=ts2hls
@@ -909,12 +905,12 @@ CCTV16,http://1.183.178.135:8097/udp/239.29.1.146:5000
 CCTV16,http://1.183.178.135:8097/udp/239.29.1.149:5000
 CCTV17,http://1.183.178.135:8097/udp/239.29.1.145:5000
 CETV1,http://1.183.178.135:8097/udp/239.29.0.95:5000
-CGTN,http://1.183.178.135:8097/udp/239.29.1.138:5000
-CGTN,http://1.183.178.135:8097/udp/239.29.1.141:5000
-CGTN,http://1.183.178.135:8097/udp/239.29.1.140:5000
-CGTN,http://1.183.178.135:8097/udp/239.29.1.137:5000
-CGTN,http://1.183.178.135:8097/udp/239.29.1.139:5000
-CGTN,http://1.183.178.135:8097/udp/239.29.1.143:5000
+CCTV,http://1.183.178.135:8097/udp/239.29.1.138:5000
+CCTV,http://1.183.178.135:8097/udp/239.29.1.141:5000
+CCTV,http://1.183.178.135:8097/udp/239.29.1.140:5000
+CCTV,http://1.183.178.135:8097/udp/239.29.1.137:5000
+CCTV,http://1.183.178.135:8097/udp/239.29.1.139:5000
+CCTV,http://1.183.178.135:8097/udp/239.29.1.143:5000
 内蒙古卫视,http://1.183.178.135:8097/udp/239.29.0.2:5000
 北京卫视,http://1.183.178.135:8097/udp/239.29.0.108:5000
 天津卫视,http://1.183.178.135:8097/udp/239.29.0.98:5000
@@ -967,7 +963,7 @@ CGTN,http://1.183.178.135:8097/udp/239.29.1.143:5000
 IPV6,#genre#
 
 CCTV-4K,https://cntv.sbs/tv/v6.php?id=ys4Kcq_2000
-CCTV16-4K,https://cntv.sbs/tv/v6.php?id=CCTV-16-4K_8000
+CCTV16 4K,https://cntv.sbs/tv/v6.php?id=CCTV-16-4K_8000
 欢笑剧场4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 纯享超清,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
@@ -1303,9 +1299,6 @@ CCTV17,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m
 GRTN文化,https://php.17186.eu.org/gdtv/web/wenhua.m3u8
 GRTN健康,https://php.17186.eu.org/gdtv/web/health.m3u8
 GRTN生活,https://php.17186.eu.org/gdtv/web/life.m3u8
-
-
-
 
 广东民生,http://gmxw.7766.org:808/hls/1/index.m3u8
 广东体育,http://gmxw.7766.org:808/hls/2/index.m3u8
@@ -1747,7 +1740,7 @@ IVPV6
 亚洲音乐,http://asiafm.hk:8000/asiahd
 亚洲粤语,http://asiafm.net:8000/asiafmyyt
 亚洲电台,http://stream.rcs.revma.com/xpgtqc74hv8uv
-MG之音,http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
+之音,http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
 环宇广播,http://stream.rcs.revma.com/srn5f9kmwxhvv
 全,http://stream.rcs.revma.com/044q61ha7a0uv
 飞扬,http://stream.rcs.revma.com/e0tdah74hv8uv
