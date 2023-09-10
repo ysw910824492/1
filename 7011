@@ -69,9 +69,9 @@
 海北,http://lovegfs.top:8000/udp/239.120.1.200:8404
 海北,http://lovegfs.top:8000/udp/239.120.2.129:5141
 海北,http://lovegfs.top:8000/udp/239.120.2.234:5141
-海东综合,http://lovegfs.top:8000/udp/239.120.1.102:8328
-海东综合,http://lovegfs.top:8000/udp/239.120.2.8:5141
-海东综合,http://lovegfs.top:8000/udp/239.120.2.198:5141
+海东,http://lovegfs.top:8000/udp/239.120.1.102:8328
+海东,http://lovegfs.top:8000/udp/239.120.2.8:5141
+海东,http://lovegfs.top:8000/udp/239.120.2.198:5141
 欢笑剧场,http://lovegfs.top:8000/udp/239.120.1.216:9316
 欢笑剧场,http://lovegfs.top:8000/udp/239.120.2.47:5141
 欢笑剧场,http://lovegfs.top:8000/udp/239.120.2.136:5141
@@ -104,7 +104,7 @@
 西宁生活,http://lovegfs.top:8000/udp/239.120.1.248:9440
 西宁生活服务,http://lovegfs.top:8000/udp/239.120.2.171:5141
 西宁新闻,http://lovegfs.top:8000/udp/239.120.1.249:9444
-西宁新闻综合,http://lovegfs.top:8000/udp/239.120.2.172:5141
+西宁新闻,http://lovegfs.top:8000/udp/239.120.2.172:5141
 游戏风云,http://lovegfs.top:8000/udp/239.120.1.215:9312
 游戏风云,http://lovegfs.top:8000/udp/239.120.2.27:5141
 游戏风云,http://lovegfs.top:8000/udp/239.120.2.133:5141
@@ -193,7 +193,7 @@
 卡酷少儿,http://111.40.196.30:443/PLTV/88888888/224/3221225645/1.m3u8
 北京纪实8K,http://159.75.85.63:6798
 东方影视,http://jiandjh.51vip.biz:5678/bestv.php?id=dfyshd8m/8000000
-新闻综合,http://jiandjh.51vip.biz:5678/bestv.php?id=xwzhhd8m/8000000
+新闻,http://jiandjh.51vip.biz:5678/bestv.php?id=xwzhhd8m/8000000
 上海纪实,http://jiandjh.51vip.biz:5678/bestv.php?id=jspdhd/4000000
 五星体育,http://jiandjh.51vip.biz:5678/bestv.php?id=wxtyhd8m/8000000
 上海都市,http://jiandjh.51vip.biz:5678/bestv.php?id=dshd8m/8000000
@@ -281,7 +281,7 @@ CGTN西班牙语,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/22
 天元围棋,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226341/1/index.m3u8?fmt=ts2hls
 金鹰纪实,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225671/1/index.m3u8?fmt=ts2hls
 金鹰纪实,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226064/1/index.m3u8?fmt=ts2hls
-黔西综合,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225693/1/index.m3u8?fmt=ts2hls
+黔西,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225693/1/index.m3u8?fmt=ts2hls
 贵州-2,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225682/1/index.m3u8?fmt=ts2hls
 贵州-3,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225704/1/index.m3u8?fmt=ts2hls
 贵州-4,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225740/1/index.m3u8?fmt=ts2hls
@@ -291,9 +291,9 @@ CGTN西班牙语,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/22
 人文贵州,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226142/1/index.m3u8?fmt=ts2hls
 开放贵州,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226306/1/index.m3u8?fmt=ts2hls
 贵阳-1,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225743/1/index.m3u8?fmt=ts2hls
-黔西南综合,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225995/1/index.m3u8?fmt=ts2hls
+黔西南,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225995/1/index.m3u8?fmt=ts2hls
 黔西南公共,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226003/1/index.m3u8?fmt=ts2hls
-黔东南综合,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226033/1/index.m3u8?fmt=ts2hls
+黔东南,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226033/1/index.m3u8?fmt=ts2hls
 黔南-1,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226022/1/index.m3u8?fmt=ts2hls
 黔南-2,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226025/1/index.m3u8?fmt=ts2hls
 黔中,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226299/1/index.m3u8?fmt=ts2hls
@@ -302,10 +302,10 @@ CGTN西班牙语,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/22
 六盘水-1,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225772/1/index.m3u8?fmt=ts2hls
 安顺2,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226034/1/index.m3u8?fmt=ts2hls
 安顺公共,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226276/1/index.m3u8?fmt=ts2hls
-遵义综合,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226026/1/index.m3u8?fmt=ts2hls
+遵义,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226026/1/index.m3u8?fmt=ts2hls
 遵义公共,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226028/1/index.m3u8?fmt=ts2hls
 遵义都市,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226051/1/index.m3u8?fmt=ts2hls
-雷山综合,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225998/1/index.m3u8?fmt=ts2hls
+雷山,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225998/1/index.m3u8?fmt=ts2hls
 瓮安电视台,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226294/1/index.m3u8?fmt=ts2hls
 
 
