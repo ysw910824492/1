@@ -953,6 +953,23 @@ GRTN生活,https://php.17186.eu.org/gdtv/web/life.m3u8
 明珠台,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1351_4500
 明珠台,http://radius.8866.org:800/hls/84/index.m3u8
 
+
+
+台视,http://162.19.247.76:22222/live/taishi/index.m3u8
+台湾中视,http://162.19.247.76:22222/live/zhongshi/index.m3u8
+东森戏剧,http://162.19.247.76:22222/live/dsxj/index.m3u8
+东森电影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
+东森洋片,http://162.19.247.76:22222/live/dsypt/index.m3u8
+华视,http://162.19.247.76:22222/live/huashi/index.m3u8
+中天娱乐,http://162.19.247.76:22222/live/ztyl/index.m3u8
+俄罗斯中文台,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+寰宇新聞台,http://tv.redrainl.site:9500/live.m3u8?c=22
+美国CNBC,http://61.221.81.93:8078/hls/24/80/cnbc90.m3u8
+韩国SBS,http://1.245.74.5:1935/live/tv/.m3u8
+HBO,http://185.188.188.235/live/hbo/playlist.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+翡翠台,http://r.jdshipin.com/n90gt
+
 标清
 明珠台,http://113.117.74.22:8081/hls/26/index.m3u8
 明珠台,http://113.117.74.20:8081/hls/26/index.m3u8
@@ -964,6 +981,10 @@ GRTN生活,https://php.17186.eu.org/gdtv/web/life.m3u8
 
 凤凰中文,http://hls.live.cqccn.com/__cl/cg:live/__c/xfjcHD/__op/default/__f/index.m3u8
 凤凰资讯,http://hls.live.cqccn.com/__cl/cg:live/__c/xfylHD/__op/default/__f/index.m3u8
+
+
+
+
 
 IVPV6
 凤凰中文,https://cntv.sbs/tv/v6.php?id=test1
