@@ -405,7 +405,7 @@ CCTV回看,http://106.86.9.97:8888/udp/235.254.198.147:1866
 
 
 
-央视,#genre#
+央卫,#genre#
 
 CCTV1,http://39.134.32.108:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT
 CCTV2,http://39.134.32.108:6610/270000001111/1110000302/index.m3u8?IASHttpSessionId=OTT
@@ -417,7 +417,7 @@ CCTV8,http://39.134.32.108:6610/270000001111/1110000309/index.m3u8?IASHttpSessio
 CCTV13,http://39.134.32.108:6610/270000001111/1110000314/index.m3u8?IASHttpSessionId=OTT
 甘肃卫视,http://39.134.32.108:6610/270000001111/1110000322/index.m3u8?IASHttpSessionId=OTT
 
-央视卫视,#genre#
+
 
 CCTV1,http://123.125.172.130:808/hls/1/index.m3u8
 CCTV11,http://123.125.172.130:808/hls/183/index.m3u8
@@ -610,7 +610,7 @@ CGTN西班牙语,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/22
 
 
 
-无效源,#genre#
+备用,#genre#
 CCTV1,http://lovegfs.top:8000/udp/239.120.1.120:8778
 CCTV1,http://lovegfs.top:8000/udp/239.120.1.52:8350
 CCTV1,http://lovegfs.top:8000/udp/239.120.1.119:8260
@@ -652,7 +652,7 @@ CCTV17,http://lovegfs.top:8000/udp/239.120.2.106:5141
 CETV1,http://lovegfs.top:8000/udp/239.120.2.54:5141
 CETV1,http://lovegfs.top:8000/udp/239.120.2.67:5141
 
-卫视
+
 安多卫视,http://lovegfs.top:8000/udp/239.120.1.40:8214
 安多卫视,http://lovegfs.top:8000/udp/239.120.2.6:5141
 安多卫视,http://lovegfs.top:8000/udp/239.120.2.163:5141
