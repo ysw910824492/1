@@ -858,8 +858,6 @@ CHC电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000000206
 甘肃卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001298/index.m3u8
 吉林卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001225/index.m3u8
 云南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001223/index.m3u8
-三沙卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001185/index.m3u8
-青海卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001082/index.m3u8
 
 
 以下正常
@@ -936,13 +934,11 @@ CHC电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000000206
 安徽卫视,https://cntv.sbs/tv/v6.php?id=ahwsH265
 山东卫视,https://cntv.sbs/tv/v6.php?id=sdwsH265
 广东卫视,https://cntv.sbs/tv/v6.php?id=gdwsH265
-广西卫视,https://cntv.sbs/tv/v6.php?id=gxws
 江苏卫视,https://cntv.sbs/tv/v6.php?id=jswsH265
 江西卫视,https://cntv.sbs/tv/v6.php?id=jxwsH265
 河北卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001229/index.m3u8?
 河南卫视,https://cntv.sbs/tv/v6.php?id=hnws35
 浙江卫视,https://cntv.sbs/tv/v6.php?id=zjwsH265
-海南卫视,https://cntv.sbs/tv/v6.php?id=hnws
 深圳卫视,https://cntv.sbs/tv/v6.php?id=szwsH265
 湖北卫视,https://cntv.sbs/tv/v6.php?id=hbwsH265
 东南卫视,https://cntv.sbs/tv/v6.php?id=dnwsfjwsH265
@@ -950,9 +946,7 @@ CHC电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000000206
 辽宁卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001035/index.m3u8?
 重庆卫视,https://cntv.sbs/tv/v6.php?id=cqwsH265
 黑龙江卫视,https://cntv.sbs/tv/v6.php?id=hljwsH265
-甘肃卫视,https://cntv.sbs/tv/v6.php?id=gsws
 吉林卫视,https://cntv.sbs/tv/v6.php?id=jlwsH265
-云南卫视,https://cntv.sbs/tv/v6.php?id=ynws
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?fmmv6青海卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000320/index.m3u8?fmmv6
 
 
