@@ -1368,7 +1368,7 @@ IVPV6
 凤凰资讯,https://cntv.sbs/tv/v6.php?id=test2
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 
-代理台湾,#genre#
+移动网-港澳,#genre#
 民视,mitv://generationnexxxt.com:19806/2923338a99ed4f3a8a926f991db63f91
 台视,mitv://generationnexxxt.com:19806/cfe8fbcc016c43f0a13a14e99590b830
 大爱,mitv://generationnexxxt.com:19806/58578ac6e259476f9a6cbaea925ec44e
@@ -1541,7 +1541,7 @@ EYE TV戏剧�?,mitv://generationnexxxt.com:19806/b85365b9033d4b02b546fd5faa0b5
 镜新�?,mitv://generationnexxxt.com:19806/6b81258434064738b956e4103cb9b222
 MTV,mitv://generationnexxxt.com:19806/8e03ea5ba41b467d95bd0f0192872e15
 
-代理港澳,#genre#
+代理港澳
 
 港台電視31,mitv://generationnexxxt.com:19806/12b5eea072e34abbaf7adfd950404b67
 港台电视32,mitv://generationnexxxt.com:19806/8ab3331324eb460789c1dfb4ccd904eb
@@ -1574,7 +1574,7 @@ now财经�?,mitv://generationnexxxt.com:19806/fb6cb4940d924709aaeac5ecb71e8b76
 Hands Up,mitv://generationnexxxt.com:19806/e78b4e2900154414a93f2ccd57a18d04
 粤语片台,mitv://generationnexxxt.com:19806/887df0bf0d8d492d95b9c2fdf6cc9694
 
-代理海外,#genre#
+代理海外
 亚洲剧台,mitv://generationnexxxt.com:19806/ddd1f7ef6ccc486eb861a1215115d7d2
 功夫�?,mitv://generationnexxxt.com:19806/4c3f27dd7eb44be289557ccfb7c410b3
 HOY资讯�?,mitv://generationnexxxt.com:19806/175efe3d1ab64b21ad55a51bc57a2078
@@ -1946,7 +1946,7 @@ Animax,mitv://generationnexxxt.com:19806/28f217c762214322ac9ce7addb19e50a
 Nick Jr.,mitv://generationnexxxt.com:19806/6b70fe65c5de42518652f0f20dd7b8e6
 Hands Up,mitv://generationnexxxt.com:19806/e78b4e2900154414a93f2ccd57a18d04
 
-代理港澳电影,#genre#
+代理港澳电影
 CCTV6,mitv://generationnexxxt.com:19806/6ba86ebf6131449da50828be35158d55
 天映频道,mitv://generationnexxxt.com:19806/4b5e8ec28cf24208baa663599d6cc1f5
 天映经典,mitv://generationnexxxt.com:19806/c7cf6992ae514b7e9a92164e4cac30e2
