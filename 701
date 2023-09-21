@@ -972,8 +972,8 @@ CHC电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000000206
 广州新闻,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=gznews_1500
 
 大湾区卫视,http://www.namewee.xyz/gudou.php?id=1456_4500$HD
-广东珠江,http://www.namewee.xyz/gudou.php?id=gdzhujiangHD_7500
-广东珠江,http://r.jdshipin.com/sE5vO
+,http://www.namewee.xyz/gudou.php?id=gdzhujiangHD_7500
+,http://r.jdshipin.com/sE5vO
 广东民生,http://www.namewee.xyz/gudou.php?id=1455_4500$HD
 广东民生,https://php.17186.eu.org/gdtv/web/gdgg.m3u8
 广东民生,http://183.49.44.99:81/hls/51/index.m3u8
@@ -1263,11 +1263,9 @@ GRTN生活,https://php.17186.eu.org/gdtv/web/life.m3u8
 
 
 
-～港督,#genre#
+港督,#genre#
 
 
-凤凰中文,http://171.88.68.209:8888/udp/239.93.0.162:2192
-凤凰资讯,http://171.88.68.209:8888/udp/239.93.0.118:2191
 
 凤凰资讯,http://113.117.74.31:8081/hls/36/index.m3u8
 凤凰中文,http://113.117.74.31:8081/hls/37/index.m3u8
@@ -1311,6 +1309,7 @@ TVB无线新闻,http://107.167.12.58:27347/livehttpplay?channel_id=30024
 凤凰中文,http://gxfrg007.8800.org:8282/tsfile/live/0108_1.m3u8
 凤凰资讯,http://gxfrg007.8800.org:8282/tsfile/live/1064_1.m3u8
 凤凰香港,http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8
+FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 
 凤凰中文,http://iptv.weai.love/10010/88888888/gxgg.play?tvid=fhzw
 凤凰资讯,http://iptv.weai.love/10010/88888888/gxgg.play?tvid=fhzx
@@ -1379,6 +1378,10 @@ TVB无线新闻,http://107.167.12.58:27347/livehttpplay?channel_id=30024
 HBO,http://185.188.188.235/live/hbo/playlist.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 翡翠台,http://r.jdshipin.com/n90gt
+
+凤凰中文,http://171.88.68.209:8888/udp/239.93.0.162:2192
+凤凰资讯,http://171.88.68.209:8888/udp/239.93.0.118:2191
+
 
 标清
 明珠台,http://113.117.74.22:8081/hls/26/index.m3u8
