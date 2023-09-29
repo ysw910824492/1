@@ -40,6 +40,34 @@ CCTV-4K,https://cntv.sbs/tv/v6.php?id=ys4Kcq_2000
 CCTV16 4K,https://cntv.sbs/tv/v6.php?id=CCTV-16-4K_8000
 CCTV16 4K,http://58.20.202.43:808/hls/17/index.m3u8
 
+贵州移动线路,//贵州移动线路
+CCTV美洲,http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221226269/1/index.m3u8?fmt=ts2hls
+CCTV欧洲,http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221226268/1/index.m3u8?fmt=ts2hls
+陕西移动线路,//陕西移动线路
+凤凰中文-标清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
+凤凰资讯-标清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+欢笑剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
+谷豆线路测试,//谷豆线路测试
+翡翠台,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=1350_4500
+广东体育,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=1413_4500
+百视通线路测试,//百视通线路测试
+劲爆体育,http://jiandjh.51vip.biz:5678/bestv.php?id=jbtyhd8m/8000000
+新视觉HD,http://jiandjh.51vip.biz:5678/bestv.php?id=xsjhd8m/8000000
+CCTV4K,http://jiandjh.51vip.biz:5678/bestv.php?id=cctv4k/15000000
+蜀小果线路测试,//蜀小果线路测试
+CCTV奥运4K,http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
+CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
+咪咕直播线路,//咪咕直播线路
+V4-易视腾域名线路,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
+V4-易视腾IP线路,http://111.40.196.27:443/0000000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
+V4-肇庆域名线路,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226938/1.m3u8
+V4-肇庆IP线路,http://120.196.232.124:8088/PLTV/13/224/3221227945/1.m3u8
+V4-贵州线路,http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226223/1/index.m3u8?fmt=ts2hls
+V6-易视腾线路1,http://[2409:8087:7001:20:1000::82]:6610/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
+V6-易视腾线路2,http://[2409:8087:7001:20:1000::95]:6610/000000001000/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3
+V6-易视腾线路3,http://[2409:8087:7000:20:1000::22]:6060/000000001000/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3
+V6-黑龙江线路,http://[2409:8087:1a01:df::4050]/PLTV/88888888/224/3221225768/index.m3u8
+V6-江苏线路,http://[2409:8087:2001:20:2800:0:df6e:eb0f]:80/PLTV/1/224/3221230854/1.m3u8
 
 
 HEVC央卫,#genre#
