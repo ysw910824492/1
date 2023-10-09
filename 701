@@ -1040,20 +1040,17 @@ HOB,http://185.188.188.235/live/hbo/playlist.m3u8
 凤凰资讯,http://hls.live.cqccn.com/__cl/cg:live/__c/xfylHD/__op/default/__f/index.m3u8
 
 莲花卫视,http://anren.live/HK/BiIOU11uLA.m3u8
-J2台,http://107.167.12.58:27347/livehttpplay?channel_id=30023
+J2台,http://107.167.12.58:27347/livehttpplay?channel_id=20122#http://107.167.12.58:27347/livehttpplay?channel_id=30023
 翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20127
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 VIUTV,http://r.jdshipin.com/vSJvl
 无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0
-无线财经台,http://107.167.12.58:27347/livehttpplay?channel_id=20121
+无线资讯台,http://107.167.12.58:27347/livehttpplay?channel_id=30019#http://107.167.12.58:27347/livehttpplay?channel_id=20121
 港澳2
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w325767490.m3u8
 澳门莲花,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/lotus.php
-J2高清,http://107.167.12.58:27347/livehttpplay?channel_id=20122
-无线资讯台,http://107.167.12.58:27347/livehttpplay?channel_id=30019
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-香港卫视,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 创世电视,https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
 
 凤凰资讯v6,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
