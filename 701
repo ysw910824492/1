@@ -882,6 +882,13 @@ CGTN,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/ind
 
 
 广港澳,#genre#
+
+凤凰资讯,http://113.117.74.31:8081/hls/36/index.m3u8
+凤凰中文,http://113.117.74.31:8081/hls/37/index.m3u8
+翡翠台,http://r.jdshipin.com/qClQf
+凤凰香港,http://113.117.74.31:8081/hls/38/index.m3u8
+
+南国都市,https://justsometime.gztv.com/sec/shenghuos.m3u8
 广东体育,http://183.236.13.168:808/hls/55/index.m3u8
 珠江频道,http://183.236.13.168:808/hls/52/index.m3u8
 大湾区卫视,http://183.6.93.159:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -940,13 +947,9 @@ namewee
 广东综艺,https://php.17186.eu.org/gdtv/web/jilupian.m3u8
 广东影视,https://php.17186.eu.org/gdtv/web/gdys.m3u8
 广东体育,https://php.17186.eu.org/gdtv/web/gdty.m3u8
-广东国际,https://php.17186.eu.org/gdtv/web/gdgj.m3u8
 广东少儿,https://php.17186.eu.org/gdtv/web/gdse.m3u8
 广东4K超高清,https://php.17186.eu.org/gdtv/web/gdzy.m3u8
 嘉佳卡通,https://php.17186.eu.org/gdtv/web/jjkt.m3u8
-岭南戏曲,https://php.17186.eu.org/gdtv/web/lnxq.m3u8
-现代教育,https://php.17186.eu.org/gdtv/web/xdjy.m3u8
-广东移动,https://php.17186.eu.org/gdtv/web/ydpd.m3u8
 GRTN文化,https://php.17186.eu.org/gdtv/web/wenhua.m3u8
 GRTN健康,https://php.17186.eu.org/gdtv/web/health.m3u8
 GRTN生活,https://php.17186.eu.org/gdtv/web/life.m3u8
@@ -955,7 +958,6 @@ justsometime
 广州综合,https://justsometime.gztv.com/sec/zhonghe.m3u8
 广州影视,https://justsometime.gztv.com/sec/yingshi.m3u8
 广州新闻,https://justsometime.gztv.com/sec/xinwen.m3u8
-南国都市,https://justsometime.gztv.com/sec/shenghuos.m3u8
 广州法治,https://justsometime.gztv.com/sec/fazhi.m3u8
 广州竞赛,https://justsometime.gztv.com/sec/jingsai.m3u8
 gmxw
