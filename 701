@@ -1013,6 +1013,7 @@ gmxw
 凤凰香港,http://nsszds.f3322.net:8081/hls/38/index.m3u8
 凤凰香港,http://www.pr666.site:4040/udp/239.255.30.123:8231
 TVB星河,http://angtv.cc/jd/gdjx.php?id=xht
+
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20127
 翡翠台,http://113.117.74.26:8081/hls/67/index.m3u8
@@ -1020,11 +1021,10 @@ TVB星河,http://angtv.cc/jd/gdjx.php?id=xht
 翡翠台,http://r.jdshipin.com/qrfbg
 明珠台,http://107.167.12.58:27347/livehttpplay?channel_id=20125
 明珠台,http://radius.8866.org:800/hls/84/index.m3u8
-TVB无线新闻,http://107.167.12.58:27347/livehttpplay?channel_id=30024
-俄罗斯(中文),https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
+俄罗斯中文,https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
 新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 台视,http://162.19.247.76:22222/live/taishi/index.m3u8
 台湾中视,http://162.19.247.76:22222/live/zhongshi/index.m3u8
 东森戏剧,http://162.19.247.76:22222/live/dsxj/index.m3u8
@@ -1034,10 +1034,10 @@ FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 中天娱乐,http://162.19.247.76:22222/live/ztyl/index.m3u8
 俄罗斯中文台,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 寰宇新聞台,http://tv.redrainl.site:9500/live.m3u8?c=22
-美国CNBC,http://61.221.81.93:8078/hls/24/80/cnbc90.m3u8
-韩国SBS,http://1.245.74.5:1935/live/tv/.m3u8
-HBO,http://185.188.188.235/live/hbo/playlist.m3u8
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+美国,http://61.221.81.93:8078/hls/24/80/cnbc90.m3u8
+韩国,http://1.245.74.5:1935/live/tv/.m3u8
+2,http://185.188.188.235/live/hbo/playlist.m3u8
+亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 
 佛山综合,http://www.namewee.xyz/gudou.php?id=foshanzongheHD_4500
 佛山公共,http://www.namewee.xyz/gudou.php?id=foshangonggongHD_4500
