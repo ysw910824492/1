@@ -1145,16 +1145,14 @@ CCTV17,https://live.goodiptv.club/api/sxg.php?id=CCTV-17_4000
 电信代理
 广东卫视,http://www.namewee.xyz/gudou.php?id=364&id=1401
 广东体育,http://www.namewee.xyz/gudou.php?id=364&id=1413_4500
-梅州1高清-A,http://p2.vzan.com/slowlive/403126774572750089/live.m3u8
-梅州1高清-B,http://www.namewee.xyz/gudou.php?id=364&id=meizhou1HD_4500
-梅州2高清-A,http://p2.vzan.com/slowlive/645350022315428297/live.m3u8
-梅州2高清-B,http://www.namewee.xyz/gudou.php?id=364&id=meizhou2HD_4500
+梅州1,http://www.namewee.xyz/gudou.php?id=364&id=meizhou1HD_4500
+梅州2,http://www.namewee.xyz/gudou.php?id=364&id=meizhou2HD_4500
 梅州导视,http://www.namewee.xyz/gudou.php?id=364&id=meizhoudaoshiHD
 梅县综合,http://www.namewee.xyz/gudou.php?id=364&id=meixianHD_4500
 珠江频道,http://www.namewee.xyz/gudou.php?id=364&id=gdzhujiangHD_7500
 广东新闻,http://www.namewee.xyz/gudou.php?id=364&id=1454_4500
 广东民生,http://www.namewee.xyz/gudou.php?id=364&id=1455_4500
-广东经济科教,http://www.namewee.xyz/gudou.php?id=364&id=GDjingjikejiaoHD_7000
+经济科教,http://www.namewee.xyz/gudou.php?id=364&id=GDjingjikejiaoHD_7000
 大湾区卫视,http://www.namewee.xyz/gudou.php?id=364&id=1456_4500
 广东影视,http://www.namewee.xyz/gudou.php?id=364&id=1458_4500
 嘉佳卡通,http://www.namewee.xyz/gudou.php?id=364&id=1459_4500
@@ -1280,7 +1278,11 @@ gmxw
 无线财经台,http://sc2022.stream-link.org/tv2306.php?id=h05
 来宾综合,http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8
 
-
+凤凰资讯,https://pull-f5-spe.ixigua.com/live/YesLiveTV-7306201e-5583-4cfa-9018-7eaf1171a208/index.m3u8?by=yeslivetv.com
+凤凰中文,https://pull-f5-spe.ixigua.com/live/YesLiveTV-9500585d-11b7-404b-9967-6639d66246e3/index.m3u8?by=yeslivetv.com
+TVB翡翠台https://pull-f5-spe.ixigua.com/live/YesLiveTV-2c2cad7b-e934-467f-a395-f82513de9a8e/index.m3u8?by=yeslivetv.com
+viutv,https://pull-f5-spe.ixigua.com/live/YesLiveTV-93d53b1a-bb73-4ea0-be17-5c76f5b81e85/index.m3u8?by=yeslivetv.com
+HOY资讯台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8?by=yeslivetv.com
 
 凤凰资讯,http://angtv.cc/jd/gdjx.php?id=fhzx
 凤凰资讯,http://183.250.157.35:8880/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
