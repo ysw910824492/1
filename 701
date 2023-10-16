@@ -1328,17 +1328,14 @@ gmxw
 翡翠台,http://www.namewee.xyz/gudou.php?id=364&id=1350_4500
 明珠台,http://www.namewee.xyz/gudou.php?id=364&id=1351_4500
 凤凰中文,http://www.namewee.xyz/gudou.php?id=364&id=fhzw_1500
-亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 无线资讯台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-1294969b-d12a-4471-809b-c017bdd5a70c/index.m3u8?by=yeslivetv.com#http://107.167.12.58:27347/livehttpplay?channel_id=20121
-无线财经台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxNR4FqM3EgPoN7yqNVDCIzY/ts
-无线财经台,http://sc2022.stream-link.org/tv2306.php?id=h05
 来宾综合,http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8
 
 无线新闻台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-77e291b2-4abc-4a95-8da7-a22ebf402964/index.m3u8?by=yeslivetv.com
 凤凰资讯,https://pull-f5-spe.ixigua.com/live/YesLiveTV-7306201e-5583-4cfa-9018-7eaf1171a208/index.m3u8?by=yeslivetv.com
 凤凰中文,https://pull-f5-spe.ixigua.com/live/YesLiveTV-9500585d-11b7-404b-9967-6639d66246e3/index.m3u8?by=yeslivetv.com
 翡翠台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-2c2cad7b-e934-467f-a395-f82513de9a8e/index.m3u8?by=yeslivetv.com
-viutv,https://pull-f5-spe.ixigua.com/live/YesLiveTV-93d53b1a-bb73-4ea0-be17-5c76f5b81e85/index.m3u8?by=yeslivetv.com
+VIUTV,https://pull-f5-spe.ixigua.com/live/YesLiveTV-93d53b1a-bb73-4ea0-be17-5c76f5b81e85/index.m3u8?by=yeslivetv.com
 HOY资讯台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8?by=yeslivetv.com
 
 凤凰资讯,http://angtv.cc/jd/gdjx.php?id=fhzx
@@ -1379,8 +1376,6 @@ HOY资讯台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac
 翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20127
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/qrfbg
-明珠台,http://107.167.12.58:27347/livehttpplay?channel_id=20125
-明珠台,http://radius.8866.org:800/hls/84/index.m3u8
 俄罗斯中文台,https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
 新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -1401,7 +1396,6 @@ HOB,http://185.188.188.235/live/hbo/playlist.m3u8
 凤凰资讯,http://hls.live.cqccn.com/__cl/cg:live/__c/xfylHD/__op/default/__f/index.m3u8
 
 莲花卫视,http://anren.live/HK/BiIOU11uLA.m3u8
-J2台,http://107.167.12.58:27347/livehttpplay?channel_id=20122#http://107.167.12.58:27347/livehttpplay?channel_id=30023
 翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20127
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 VIUTV,http://r.jdshipin.com/vSJvl
@@ -1409,10 +1403,8 @@ VIUTV,http://r.jdshipin.com/vSJvl
 无线资讯台,http://107.167.12.58:27347/livehttpplay?channel_id=30019#http://107.167.12.58:27347/livehttpplay?channel_id=20121
 港澳2
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w325767490.m3u8
-澳门莲花,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/lotus.php
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-创世电视,https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
 
 凤凰资讯v6,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰香港v6,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
