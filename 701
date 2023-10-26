@@ -33,6 +33,7 @@ CCTV1,http://58.20.243.177:808/hls/1/index.m3u8
 CCTV2,http://58.20.243.177:808/hls/2/index.m3u8
 CCTV3,http://58.20.243.177:808/hls/3/index.m3u8
 CCTV4,http://58.20.243.177:808/hls/4/index.m3u8
+CCTV5,http://111.40.196.27:443/0000000000001000/6000000001000016431/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=600000000100001643
 CCTV6,http://58.20.243.177:808/hls/5/index.m3u8
 CCTV5,http://58.20.243.177:808/hls/6/index.m3u8
 CCTV7,http://58.20.243.177:808/hls/8/index.m3u8
@@ -129,7 +130,7 @@ CCTV1,http://jiandjh.51vip.biz:5678/bestv.php?id=cctv1hd8m/8000000
 CCTV2,http://jiandjh.51vip.biz:5678/bestv.php?id=cctv2hd8m/8000000
 CCTV3,http://jiandjh.51vip.biz:5678/bestv.php?id=cctv3hd8m/8000000
 CCTV4,http://jiandjh.51vip.biz:5678/bestv.php?id=cctv4hd8m/8000000
-CCTV5,http://jiandjh.51vip.biz:5678/bestv.php?id=cctv5hd8m/8000000
+CCTV5+,http://jiandjh.51vip.biz:5678/bestv.php?id=cctv5hd8m/8000000
 CCTV6,http://jiandjh.51vip.biz:5678/bestv.php?id=cctv6hd8m/8000000
 CCTV7,http://jiandjh.51vip.biz:5678/bestv.php?id=cctv7hd8m/8000000
 CCTV8,http://jiandjh.51vip.biz:5678/bestv.php?id=cctv8hd8m/8000000
@@ -192,7 +193,7 @@ CCTV16,http://183.6.93.159:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&au
 
 
 
-移动源
+电信源
 CCTV1,http://111.40.196.27:443/0000000000001000/1000000001000018602/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000018602
 CCTV1,http://111.40.196.27:443/0000000000001000/6000000001000029752/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000001000029752
 CCTV2,http://111.40.196.27:443/0000000000001000/1000000001000023315/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000023315
@@ -202,7 +203,6 @@ CCTV3,http://111.40.196.27:443/0000000000001000/1000000001000013682/index.m3u8?l
 CCTV3,http://111.40.196.27:443/0000000000001000/6000000001000022313/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000001000022313
 CCTV4,http://111.40.196.27:443/0000000000001000/5000000011000031102/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031102
 CCTV5,http://111.40.196.27:443/0000000000001000/1000000005000025222/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000025222
-CCTV5,http://111.40.196.27:443/0000000000001000/6000000001000016431/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000001000016431
 CCTV5+,http://111.40.196.27:443/0000000000001000/1000000001000018504/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000018504
 CCTV5+,http://111.40.196.27:443/0000000000001000/6000000001000015875/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000001000015875
 CCTV5+,http://111.40.196.27:443/0000000000001000/5000000011000031127/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031127
