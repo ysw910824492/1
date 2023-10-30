@@ -30,7 +30,7 @@ CCTV16 4K,http://58.20.202.43:808/hls/17/index.m3u8
 
 
 综合央卫,#genre#
-电信代理央卫
+电信央卫
 CCTV1,http://58.20.243.177:808/hls/1/index.m3u8
 CCTV2,http://58.20.243.177:808/hls/2/index.m3u8
 CCTV3,http://58.20.243.177:808/hls/3/index.m3u8
@@ -72,14 +72,6 @@ CCTV16,http://58.20.243.177:808/hls/18/index.m3u8
 江西卫视,http://124.234.172.107:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://124.234.172.107:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://124.234.172.107:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
-
-
-
-
-
-
 
 电信源
 CCTV1,http://111.40.196.27:443/0000000000001000/1000000001000018602/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000018602
