@@ -27,7 +27,7 @@ CCTV16 4K,http://58.20.202.43:808/hls/17/index.m3u8
 英超直播,https://vodm2lzexwq.vod.126.net/vodm2lzexwq/a1yrR1W7_8607710566_sd.mp4?resId=254486990bfa2cd7aa860229db639341_8607710566_1&authSign=2b42f1ea6c3b185ded8bef3ce41e8cc1d9cdddc2&authTime=1699119146
 英超直播,https://vodm2lzexwq.vod.126.net/vodm2lzexwq/a1yrR1W7_8607710566_sd.mp4?resId=254486990bfa2cd7aa860229db639341_8607710566_1&authSign=2b42f1ea6c3b185ded8bef3ce41e8cc1d9cdddc2&authTime=1699119146
 
-电信央卫,#genre#
+重庆央卫,#genre#
 CCTV1,http://58.20.243.177:808/hls/1/index.m3u8
 CCTV2,http://58.20.243.177:808/hls/2/index.m3u8
 CCTV3,http://58.20.243.177:808/hls/3/index.m3u8
@@ -170,7 +170,7 @@ CCTV17,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m
 山东卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226693/1.m3u8
 重庆卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226680/1.m3u8
 
-中国央卫,#genre#
+地方央卫,#genre#
 CCTV1,http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221225726/1/index.m3u8?fmt=ts2hls
 CCTV1,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225726/1/index.m3u8?fmt=ts2hls
 CCTV2,http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls
@@ -434,7 +434,7 @@ CCTV16,http://www.namewee.xyz/gudou.php?id=364&id=1617_4500
 CCTV17,http://www.namewee.xyz/gudou.php?id=364&id=CCTV17HD
 
 
-移动联通,#genre#
+移动联通专享,#genre#
 CCTV1,http://111.20.105.60:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV1,http://gslbserv.itv.cmvideo.cn:80/6000000001000029752/index.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=3
 CCTV2,http://111.20.105.60:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
