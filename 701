@@ -29,7 +29,7 @@ CCTV16 4K,http://58.20.202.43:808/hls/17/index.m3u8
 
 
 
-综合央卫,#genre#
+电信央卫,#genre#
 电信央卫
 CCTV1,http://58.20.243.177:808/hls/1/index.m3u8
 CCTV2,http://58.20.243.177:808/hls/2/index.m3u8
@@ -175,7 +175,8 @@ CCTV17,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m
 江西卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226726/1.m3u8
 山东卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226693/1.m3u8
 重庆卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226680/1.m3u8
-39
+
+央视卫视,#genre#
 CCTV1,http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221225726/1/index.m3u8?fmt=ts2hls
 CCTV1,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225726/1/index.m3u8?fmt=ts2hls
 CCTV2,http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls
