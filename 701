@@ -27,7 +27,7 @@ CCTV16 4K,http://58.20.202.43:808/hls/17/index.m3u8
 英超直播,https://vodm2lzexwq.vod.126.net/vodm2lzexwq/a1yrR1W7_8607710566_sd.mp4?resId=254486990bfa2cd7aa860229db639341_8607710566_1&authSign=2b42f1ea6c3b185ded8bef3ce41e8cc1d9cdddc2&authTime=1699119146
 英超直播,https://vodm2lzexwq.vod.126.net/vodm2lzexwq/a1yrR1W7_8607710566_sd.mp4?resId=254486990bfa2cd7aa860229db639341_8607710566_1&authSign=2b42f1ea6c3b185ded8bef3ce41e8cc1d9cdddc2&authTime=1699119146
 
-综合央卫,#genre#
+中国央卫,#genre#
 CCTV1,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225726/1/index.m3u8?fmt=ts2hls
 CCTV2,http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls
 CCTV2,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls
@@ -69,7 +69,7 @@ CCTV16,http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/322122630
 CCTV16,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226283/1/index.m3u8?fmt=ts2hls
 CCTV17,http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls
 CCTV17,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls
-
+120
 CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8
 CCTV2,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8?
 CCTV3,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
@@ -105,7 +105,7 @@ CCTV17,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m
 江西卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226726/1.m3u8
 山东卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226693/1.m3u8
 重庆卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226680/1.m3u8
-
+124
 吉林卫视,http://124.234.172.107:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://124.234.172.107:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://124.234.172.107:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -127,7 +127,7 @@ CCTV17,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m
 江西卫视,http://124.234.172.107:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://124.234.172.107:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://124.234.172.107:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-
+39
 CCTV1,http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221225726/1/index.m3u8?fmt=ts2hls
 重庆卫视,http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221225686/1/index.m3u8?fmt=ts2hls
 重庆卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225686/1/index.m3u8?fmt=ts2hls
@@ -195,9 +195,8 @@ CCTV美洲,http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/32212
 106
 东南卫视,http://106.39.160.148/live.aishang.ctlcdn.com/00000110240588_1/playlist.m3u8?CONTENTID=00000110240588_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvb
 天津卫视,http://106.39.160.148/live.aishang.ctlcdn.com/00000110240136_1/playlist.m3u8?CONTENTID=00000110240136_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvb
-
-其他源
 江西卫视,http://106.39.160.148/live.aishang.ctlcdn.com/00000110240398_1/encoder/0/playlist.m3u8?CONTENTID=00000110240398_1
+其他
 海南卫视,http://jiandjh.51vip.biz:5678/bestv.php?id=hainanwshd8m/8000000
 广西卫视,http://222.217.246.236:8181/tsfile/live/1030_1.m3u8
 云南卫视,http://jiandjh.51vip.biz:5678/bestv.php?id=ynwshd8m/8000000
@@ -205,8 +204,6 @@ CCTV美洲,http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/32212
 山西卫视,http://httpdvb.slave.shuliyun.com:13164/playurl?playtype=live&protocol=hls&accesstoken=G8E222BE4V21307D1TBC062A6JF7E607ABM7B61CDEDID068875K98BDB0&playtoken=31607WESMAQDI&programid=4200000166.m3u8
 宁夏卫视,https://hls.ningxiahuangheyun.com/tv/nxws.flv
 西藏卫视,http://zgntv.icu/live/xztv.php?id=0
-
-
 重庆有线
 CCTV1,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
 CCTV2,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
@@ -245,7 +242,6 @@ CCTV17,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f/inde
 辽宁卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/liaoningHD/__op/default/__f/index.m3u8
 重庆卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/chongqingHD/__op/default/__f/index.m3u8
 黑龙江卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/heilongjiangHD/__op/default/__f/index.m3u8
-
 风云剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/shandongHD/__op/default/__f/index.m3u8
 风云剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
 风云音乐,http://hls.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
@@ -255,7 +251,6 @@ CCTV17,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f/inde
 怀旧剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
 第一剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8
 兵器科技,http://hls.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
-
 CCTV1,http://124.234.172.107:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://124.234.172.107:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://124.234.172.107:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -272,8 +267,7 @@ CCTV13,http://124.234.172.107:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1
 CCTV14,http://124.234.172.107:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://124.234.172.107:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 英语,http://124.234.172.107:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
+58
 CCTV1,http://58.20.202.43:808/hls/1/index.m3u8
 CCTV2,http://58.20.202.43:808/hls/2/index.m3u8
 CCTV3,http://58.20.202.43:808/hls/3/index.m3u8
@@ -328,8 +322,7 @@ CCTV17,http://58.20.202.43:808/hls/18/index.m3u8
 金鹰纪实,http://58.20.202.43:808/hls/25/index.m3u8
 湖南教育,http://58.20.202.43:808/hls/26/index.m3u8
 湖南经视,http://58.20.202.43:808/hls/27/index.m3u8
-
-
+namewee
 CCTV1,http://www.namewee.xyz/gudou.php?id=364&id=1402_4500
 CCTV2,http://www.namewee.xyz/gudou.php?id=364&id=CCTV2HD_7000
 CCTV3,http://www.namewee.xyz/gudou.php?id=364&id=1603
@@ -348,7 +341,6 @@ CCTV14,http://www.namewee.xyz/gudou.php?id=364&id=CCTV14HD_7000
 CCTV15,http://www.namewee.xyz/gudou.php?id=364&id=CCTV-15HD_7500
 CCTV16,http://www.namewee.xyz/gudou.php?id=364&id=1617_4500
 CCTV17,http://www.namewee.xyz/gudou.php?id=364&id=CCTV17HD
-
 
 移动联通专享,#genre#
 CCTV1,http://111.20.105.60:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
