@@ -28,7 +28,6 @@ CCTV16 4K,http://58.20.202.43:808/hls/17/index.m3u8
 英超直播,https://vodm2lzexwq.vod.126.net/vodm2lzexwq/a1yrR1W7_8607710566_sd.mp4?resId=254486990bfa2cd7aa860229db639341_8607710566_1&authSign=2b42f1ea6c3b185ded8bef3ce41e8cc1d9cdddc2&authTime=1699119146
 
 中国央卫,#genre#
-
 CCTV1,http://58.20.202.43:808/hls/1/index.m3u8
 CCTV2,http://58.20.202.43:808/hls/2/index.m3u8
 CCTV3,http://58.20.202.43:808/hls/3/index.m3u8
