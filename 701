@@ -144,7 +144,50 @@ CCTV14,https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
 CCTV15,https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
 CCTV16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
 CCTV17,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
+东南卫视,http://117.59.116.36/__cl/cg:live/__c/dongnanHD/__op/default/__f/index.m3u8
+东方卫视,http://117.59.116.36/__cl/cg:live/__c/shanghaiHD/__op/default/__f/index.m3u8
+云南卫视,http://117.59.116.36/__cl/cg:live/__c/yunnanSD/__op/default/__f/index.m3u8
+北京卫视,http://117.59.116.36/__cl/cg:live/__c/beijingHD/__op/default/__f/index.m3u8
+吉林卫视,http://117.59.116.36/__cl/cg:live/__c/jilinHD/__op/default/__f/index.m3u8
+四川卫视,http://117.59.116.36/__cl/cg:live/__c/sichuanHD/__op/default/__f/index.m3u8
+天津卫视,http://117.59.116.36/__cl/cg:live/__c/tianjinHD/__op/default/__f/index.m3u8
+宁夏卫视,http://117.59.116.36/__cl/cg:live/__c/ningxia/__op/default/__f/index.m3u8
+安徽卫视,http://117.59.116.36/__cl/cg:live/__c/anhuiSD/__op/default/__f/index.m3u8
+山西卫视,http://117.59.116.36/__cl/cg:live/__c/shanxiSD/__op/default/__f/index.m3u8
+广东卫视,http://117.59.116.36/__cl/cg:live/__c/guangdongHD/__op/default/__f/index.m3u8
+广西卫视,http://117.59.116.36/__cl/cg:live/__c/guangxiHD/__op/default/__f/index.m3u8
+新疆卫视,http://117.59.116.36/__cl/cg:live/__c/xinjiangSD/__op/default/__f/index.m3u8
+江苏卫视,http://117.59.116.36/__cl/cg:live/__c/jiangsuHD/__op/default/__f/index.m3u8
+江西卫视,http://117.59.116.36/__cl/cg:live/__c/jiangxiHD/__op/default/__f/index.m3u8
+河北卫视,http://117.59.116.36/__cl/cg:live/__c/hebeiSD/__op/default/__f/index.m3u8
+河南卫视,http://117.59.116.36/__cl/cg:live/__c/henanHD/__op/default/__f/index.m3u8
+浙江卫视,http://117.59.116.36/__cl/cg:live/__c/zhejiangHD/__op/default/__f/index.m3u8
+海南卫视,http://117.59.116.36/__cl/cg:live/__c/hainanSD/__op/default/__f/index.m3u8
+深圳卫视,http://117.59.116.36/__cl/cg:live/__c/shenzhenHD/__op/default/__f/index.m3u8
+湖北卫视,http://117.59.116.36/__cl/cg:live/__c/hubeiSD/__op/default/__f/index.m3u8
+湖南卫视,http://117.59.116.36/__cl/cg:live/__c/hunanHD/__op/default/__f/index.m3u8
 
+
+106
+东南卫视,http://106.39.160.148/live.aishang.ctlcdn.com/00000110240588_1/playlist.m3u8?CONTENTID=00000110240588_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvb
+天津卫视,http://106.39.160.148/live.aishang.ctlcdn.com/00000110240136_1/playlist.m3u8?CONTENTID=00000110240136_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvb
+江西卫视,http://106.39.160.148/live.aishang.ctlcdn.com/00000110240398_1/encoder/0/playlist.m3u8?CONTENTID=00000110240398_1
+海南卫视,http://jiandjh.51vip.biz:5678/bestv.php?id=hainanwshd8m/8000000
+广西卫视,http://222.217.246.236:8181/tsfile/live/1030_1.m3u8
+云南卫视,http://jiandjh.51vip.biz:5678/bestv.php?id=ynwshd8m/8000000
+新疆卫视,http://router2.youguess.site:8000/udp/238.125.3.174:5140
+山西卫视,http://httpdvb.slave.shuliyun.com:13164/playurl?playtype=live&protocol=hls&accesstoken=G8E222BE4V21307D1TBC062A6JF7E607ABM7B61CDEDID068875K98BDB0&playtoken=31607WESMAQDI&programid=4200000166.m3u8
+宁夏卫视,https://hls.ningxiahuangheyun.com/tv/nxws.flv
+西藏卫视,http://zgntv.icu/live/xztv.php?id=0
+风云剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/shandongHD/__op/default/__f/index.m3u8
+风云剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
+风云音乐,http://hls.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
+世界地理,http://hls.live.cqccn.com/__cl/cg:live/__c/sjdlHD/__op/default/__f/index.m3u8
+风云足球,http://hls.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
+风云台球,http://hls.live.cqccn.com/__cl/cg:live/__c/ystqHD/__op/default/__f/index.m3u8
+怀旧剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
+第一剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8
+兵器科技,http://hls.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
 
 CCTV1,http://www.namewee.xyz/gudou.php?id=364&id=1402_4500
 CCTV2,http://www.namewee.xyz/gudou.php?id=364&id=CCTV2HD_7000
@@ -165,6 +208,54 @@ CCTV15,http://www.namewee.xyz/gudou.php?id=364&id=CCTV-15HD_7500
 CCTV16,http://www.namewee.xyz/gudou.php?id=364&id=1617_4500
 CCTV17,http://www.namewee.xyz/gudou.php?id=364&id=CCTV17HD
 CCTV5,http://111.40.196.27:443/0000000000001000/1000000005000025222/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000025222
+
+CCTV1 ,http://120.196.232.19:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8
+CCTV2 ,http://120.196.232.54:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8
+CCTV3 ,http://120.196.232.50:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
+CCTV4 ,http://120.196.232.27:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226725/1.m3u8
+CCTV5 ,http://120.196.232.31:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8
+CCTV5+ ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3u8
+CCTV6 ,http://120.196.232.25:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226699/1.m3u8
+CCTV8 ,http://120.196.232.17:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226715/1.m3u8
+CCTV9 ,http://120.196.232.36:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226651/1.m3u8
+CCTV9 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226651/1.m3u8
+CCTV10 ,http://120.196.232.27:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226708/1.m3u8
+CCTV11 ,http://120.196.232.55:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8
+CCTV12 ,http://120.196.232.51:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226723/1.m3u8
+CCTV13 ,http://120.196.232.21:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226717/1.m3u8
+CCTV14 ,http://120.196.232.27:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226645/1.m3u8
+CCTV14 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226645/1.m3u8
+CCTV17 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m3u8
+山东卫视,http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226693/1.m3u8
+辽宁卫视,http://120.196.232.21:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226689/1.m3u8
+湖北卫视,http://120.196.232.55:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226713/1.m3u8
+江西卫视,http://120.196.232.38:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226682/1.m3u8
+四川卫视,http://120.196.232.18:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226659/1.m3u8
+贵州卫视,http://120.196.232.23:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226672/1.m3u8
+东南卫视,http://120.196.232.29:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226670/1.m3u8
+北京卫视,http://120.196.232.46:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226719/1.m3u8
+黑龙江卫视,http://120.196.232.24:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226716/1.m3u8
+重庆卫视,http://120.196.232.28:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226680/1.m3u8
+天津卫视,http://120.196.232.41:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226686/1.m3u8
+河北卫视,http://120.196.232.55:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226684/1.m3u8
+海南卫视,http://120.196.232.25:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226679/1.m3u8
+湖南卫视,http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8
+江苏卫视,http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226692/1.m3u8
+浙江卫视,http://120.196.232.22:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226690/1.m3u8
+安徽卫视,http://120.196.232.45:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226655/1.m3u8
+东方卫视,http://120.196.232.54:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226734/1.m3u8
+云南卫视,http://120.196.232.52:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226709/1.m3u8
+河南卫视,http://120.196.232.29:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226668/1.m3u8
+深圳卫视,http://120.196.232.36:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226688/1.m3u8
+厦门卫视,http://120.196.232.41:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226695/1.m3u8
+吉林卫视,http://120.196.232.25:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226671/1.m3u8
+广西卫视,http://120.196.232.54:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226681/1.m3u8
+山西卫视,http://120.196.232.19:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226704/1.m3u8
+陕西卫视,http://120.196.232.55:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226707/1.m3u8
+宁夏卫视,http://120.196.232.45:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226691/1.m3u8
+西藏卫视,http://120.196.232.44:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226710/1.m3u8
+新疆卫视,http://120.196.232.37:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226700/1.m3u8
+兵团卫视,http://120.196.232.38:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226661/1.m3u8
 
 
 
@@ -822,6 +913,25 @@ CCTV17,http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw483903016_-673532
 
 广东台,#genre#
 
+珠江台,http://zeng0227.tk/gdyx.php?id=gdzhujiangHD_7500
+广州综合,http://zeng0227.tk/gdyx.php?id=1432_4500
+广东新闻,http://zeng0227.tk/gdyx.php?id=1454_4500
+广州新闻,http://zeng0227.tk/gdyx.php?id=1433_4500
+广东卫视,http://zeng0227.tk/gdyx.php?id=1401
+珠江台,http://zeng0227.tk/xsj.php?id=gdzj&proxy
+珠江台,http://zeng0227.tk/jd.php?vid=21&id=2
+岭南戏曲,http://zeng0227.tk/gdyx.php?id=1460_4500
+广州影视,http://zeng0227.tk/gdyx.php?id=gzfilms_1500
+广东民生,http://zeng0227.tk/gdyx.php?id=1455_4500
+大湾区卫视,http://zeng0227.tk/gdyx.php?id=1456_4500
+广东经济科教,http://zeng0227.tk/gdyx.php?id=GDjingjikejiaoHD_7000
+广东少儿,http://zeng0227.tk/gdyx.php?id=1457_4500
+广东影视,http://zeng0227.tk/gdyx.php?id=1458_4500
+广州法治,http://zeng0227.tk/gdyx.php?id=gzeconomic_1500
+嘉佳卡通,http://zeng0227.tk/gdyx.php?id=1459_4500
+
+
+
 
 珠江台,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&
 珠江台,http://39.134.19.229:6410/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&IASHttpSessionId=RR503720231124053529907980
@@ -856,25 +966,6 @@ TVB翡翠,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 
 
 
-广东珠江,http://zeng0227.tk/gdyx.php?id=gdzhujiangHD_7500
-广州综合,http://zeng0227.tk/gdyx.php?id=1432_4500
-广东新闻,http://zeng0227.tk/gdyx.php?id=1454_4500
-广州新闻,http://zeng0227.tk/gdyx.php?id=1433_4500
-广东卫视,http://zeng0227.tk/gdyx.php?id=1401
-广东珠江,http://zeng0227.tk/xsj.php?id=gdzj&proxy
-广东珠江,http://zeng0227.tk/jd.php?vid=21&id=2
-岭南戏曲,http://zeng0227.tk/gdyx.php?id=1460_4500
-广州影视.576,http://zeng0227.tk/gdyx.php?id=gzfilms_1500
-广东民生,http://zeng0227.tk/gdyx.php?id=1455_4500
-大湾区卫视,http://zeng0227.tk/gdyx.php?id=1456_4500
-广东经济科教,http://zeng0227.tk/gdyx.php?id=GDjingjikejiaoHD_7000
-广东少儿,http://zeng0227.tk/gdyx.php?id=1457_4500
-广东影视,http://zeng0227.tk/gdyx.php?id=1458_4500
-广州法治.576,http://zeng0227.tk/gdyx.php?id=gzeconomic_1500
-嘉佳卡通,http://zeng0227.tk/gdyx.php?id=1459_4500
-广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
-广东综艺4K,http://zeng0227.tk/gdyx.php?id=GDZYHD4K_38000
-G导视高清,http://zeng0227.tk/gdyx.php?id=GHDdaoshi_7500
 广东珠江,http://dl.xiaoqitv.link/dl/cdxw.php?id=1183
 南方卫视,http://dl.xiaoqitv.link/dl/cdxw.php?id=1197
 广东新闻,http://dl.xiaoqitv.link/dl/cdxw.php?id=1186
