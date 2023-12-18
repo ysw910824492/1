@@ -1158,6 +1158,12 @@ CHC高清电影,http://zeng0227.tk/gdyx.php?id=CHCHD_7000
 翡翠台hd,http://zeng0227.tk/gdyx.php?id=1350_4500
 TVB 翡翠台,http://zeng0227.tk/xsj.php?id=feicui&proxy
 
+凤凰中文,http://zeng0227.tk/xsj.php?id=phtv-cn&proxy
+凤凰资讯,http://zeng0227.tk/xsj.php?id=phtv-info&proxy
+凤凰中文,http://111.221.137.154:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
+
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=1&hq
+J2,http://zeng0227.tk/xsj.php?id=j2&proxy
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/PLTV/3/224/3221228530/1.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
@@ -1174,30 +1180,27 @@ TRT世界,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 环球纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 
 翡翠台,http://111.221.137.154:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
-明珠台 HD,http://154.216.191.59/ycdz/hgmktv.php?id=3
-明珠台ᴴᴰ,http://zeng0227.tk/gdyx.php?id=1351_4500
+明珠台,http://154.216.191.59/ycdz/hgmktv.php?id=3
+明珠台,http://zeng0227.tk/gdyx.php?id=1351_4500
 明珠台,http://tv.sevenlive.top/gt2cd/gtiptv2.php?id=3
 明珠台,http://zeng0227.tk/jd.php?vid=22&id=84
-TVB 明珠台,http://zeng0227.tk/xsj.php?id=pearl&proxy
+明珠台,http://zeng0227.tk/xsj.php?id=pearl&proxy
 明珠台,http://111.221.137.154:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
-凤凰中文台,http://s7.s100.vip:24034/stream/channelid/2101637957
-凤凰中文台,http://tv.sevenlive.top/gt2cd/gtiptv2.php?id=182
-凤凰卫视 中文台,http://zeng0227.tk/xsj.php?id=phtv-cn&proxy
-凤凰中文高清,http://60.255.59.180:9090/live/test1_4000.m3u8?&vhost=live2.rxip.sc96655.com
-凤凰资讯台,http://s7.s100.vip:24034/stream/channelid/831247105
-凤凰资讯台,http://tv.sevenlive.top/gt2cd/gtiptv2.php?id=183
-凤凰卫视 资讯台,http://zeng0227.tk/xsj.php?id=phtv-info&proxy
-凤凰资讯高清,http://60.255.59.180:9090/live/test2_4000.m3u8?&vhost=live2.rxip.sc96655.com
-凤凰香港台,http://s7.s100.vip:24034/stream/channelid/218194821
-凤凰香港台,http://tv.sevenlive.top/gt2cd/gtiptv2.php?id=184
-凤凰卫视 香港台,http://zeng0227.tk/xsj.php?id=phtv-hk&proxy
-凤凰卫视,http://zeng0227.tk/xsj.php?id=phtv&proxy
-凤凰资讯台(高清),http://zeng0227.eu.org:8027/jiudian.php?id=live3291
-凤凰中文台（高清）,http://zeng0227.eu.org:8027/jiudian.php?id=live3292
-凤凰香港台（高清）,http://zeng0227.eu.org:8027/jiudian.php?id=live3293
-凤凰资讯台,http://zeng0227.eu.org:8027/jiudian.php?id=live3213
-凤凰中文台,http://zeng0227.eu.org:8027/jiudian.php?id=live2974
-凤凰卫视中文台,http://111.221.137.154:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
+凤凰中文,http://s7.s100.vip:24034/stream/channelid/2101637957
+凤凰中文,http://tv.sevenlive.top/gt2cd/gtiptv2.php?id=182
+凤凰中文,http://60.255.59.180:9090/live/test1_4000.m3u8?&vhost=live2.rxip.sc96655.com
+凤凰资讯,http://s7.s100.vip:24034/stream/channelid/831247105
+凤凰资讯,http://tv.sevenlive.top/gt2cd/gtiptv2.php?id=183
+凤凰资讯,http://60.255.59.180:9090/live/test2_4000.m3u8?&vhost=live2.rxip.sc96655.com
+凤凰香港,http://s7.s100.vip:24034/stream/channelid/218194821
+凤凰香港,http://tv.sevenlive.top/gt2cd/gtiptv2.php?id=184
+凤凰 香港,http://zeng0227.tk/xsj.php?id=phtv-hk&proxy
+凤凰,http://zeng0227.tk/xsj.php?id=phtv&proxy
+凤凰资讯,http://zeng0227.eu.org:8027/jiudian.php?id=live3291
+凤凰中文,http://zeng0227.eu.org:8027/jiudian.php?id=live3292
+凤凰香港,http://zeng0227.eu.org:8027/jiudian.php?id=live3293
+凤凰资讯,http://zeng0227.eu.org:8027/jiudian.php?id=live3213
+凤凰中文,http://zeng0227.eu.org:8027/jiudian.php?id=live2974
 ViuTVsix,http://zeng0227.tk/jd.php?vid=22&id=85
 ViuTV,http://zeng0227.tk/jd.php?vid=22&id=86
 ViuTV FHD,http://154.216.191.59/ycdz/hgmktv.php?id=19
@@ -1207,10 +1210,8 @@ viuTV,http://tv.sevenlive.top/gt2cd/gtiptv2.php?id=19
 ViuTV,http://zeng0227.tk/xsj.php?id=viutv&proxy
 viuTV6,http://tv.sevenlive.top/gt2cd/gtiptv2.php?id=20
 无线新闻,http://hkfrp.881488.xyz:9981/stream/channelid/1225438562
-无线新闻,http://live.cooltv.top/tv/tvb.php?id=1&hq
-J2 FHD,http://154.216.191.59/ycdz/hgmktv.php?id=5
+J2,http://154.216.191.59/ycdz/hgmktv.php?id=5
 J2,http://tv.sevenlive.top/gt2cd/gtiptv2.php?id=5
-J2,http://zeng0227.tk/xsj.php?id=j2&proxy
 mytv戏曲,http://27.102.128.25:8080/live/G-xq.m3u8
 粤语片,http://27.102.128.25:8080/live/G-yueyu.m3u8
 武功台,http://27.102.128.25:8080/live/G-gongfu.m3u8
@@ -1368,7 +1369,7 @@ TVBS HD,http://zeng0227.tk/xsj.php?id=tvbs-hd&proxy
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/n90gt
 标清
-凤凰卫视中文台,http://php.17186.eu.org/phtv/fhzw.m3u8
+凤凰中文台,http://php.17186.eu.org/phtv/fhzw.m3u8
 凤凰资讯,http://111.20.40.166:80/PLTV/88888893/224/3221226546/index.m3u8
 韩国-KBS World,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 韩国-EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
