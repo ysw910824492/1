@@ -520,11 +520,10 @@ CGTN,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
 
 
 IPV6,#genre#
-CHC-动作电影,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC-电影,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC-家庭影院,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC动作电影,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC电影,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC家庭影院,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 欢笑剧场4K,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-8K,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 
 3
 CCTV1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
@@ -1137,12 +1136,6 @@ HOY 资讯台,http://zeng0227.tk/xsj.php?id=hoy-info&proxy
 
 翡翠台,https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-翡翠台,http://103.45.68.47:666/gy/gy_ZNq@kp/豆豆.php?id=1350_4500
-明珠台,http://103.45.68.47:666/gy/gy_ZNq@kp/豆豆.php?id=1351_4500
-凤凰中文,http://103.45.68.47:666/gy/gy_ZNq@kp/豆豆.php?id=fhzw_1500
-星空卫视,http://103.45.68.47:666/gy/gy_ZNq@kp/豆豆.php?id=xingkong_1500
-澳视澳门,http://103.45.68.47:666/gy/gy_ZNq@kp/豆豆.php?id=1352_4500
-澳亚卫视,http://103.45.68.47:666/gy/gy_ZNq@kp/豆豆.php?id=aoya_1500
 星河台,http://113.117.74.12:8081/hls/135/index.m3u8
 星河台,https://epg.pw/stream/2ae9d3adffcd812e2fb733cb386cefd244d083a98b3e1a297da907017ea8804e.m3u8
 
