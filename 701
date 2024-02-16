@@ -335,7 +335,6 @@ CCTV14,http://58.19.13.92:9901/tsfile/live/1013_1.m3u8
 
 
 移动联通专享,#genre#
-
 ottrrs
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
@@ -744,6 +743,24 @@ NewTV精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/
 
 
 广东台,#genre#
+广东卫视,http://qyxydn.cn:1233/rtp/239.77.1.19:5146
+广东卫视,http://qyxydn.cn:1233/rtp/239.77.1.152:5146
+广东卫视,http://qyxydn.cn:1233/rtp/239.77.0.84:5146
+广东珠江,http://qyxydn.cn:1233/rtp/239.77.0.1:5146
+广东新闻,http://qyxydn.cn:1233/rtp/239.77.0.173:5146
+广东民生,http://qyxydn.cn:1233/rtp/239.77.0.225:5146
+广东经济科教,http://qyxydn.cn:1233/rtp/239.77.0.85:5146
+大湾区卫视,http://qyxydn.cn:1233/rtp/239.77.0.215:5146
+广东影视,http://qyxydn.cn:1233/rtp/239.77.0.217:5146
+广东少儿,http://qyxydn.cn:1233/rtp/239.77.0.250:5146
+嘉佳卡通,http://qyxydn.cn:1233/rtp/239.77.0.179:5146
+广州综合,http://qyxydn.cn:1233/rtp/239.253.43.71:5146
+广州新闻,http://qyxydn.cn:1233/rtp/239.253.43.72:5146
+广州影视,http://qyxydn.cn:1233/rtp/239.253.43.73:5146
+广州法治,http://qyxydn.cn:1233/rtp/239.253.43.74:5146
+
+
+
 
 广东体育,http://202.168.187.208:2024/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 广州竞赛,http://202.168.187.208:2024/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -932,6 +949,7 @@ CHC电影,http://zeng0227.tk/gdyx.php?id=CHCHD_7000
 
 
 港澳代理,#genre#
+民视,mitv://generationnexxxt.com:19806/7b046996e7d5417eb4a619194072bbc0
 凤凰中文台,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
 凤凰资讯台,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
 凤凰香港台,mitv://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
