@@ -54,24 +54,6 @@ CCTV5+,http://115.171.216.46:4000/udp/225.1.8.20:8004
 江西卫视,http://115.171.216.46:4000/udp/225.1.8.171:8166
 重庆卫视,http://115.171.216.46:4000/udp/225.1.8.172:8162
 
-高码率
-CCTV1,http://mtw.so/5UqsjP
-CCTV2,http://mtw.so/69sStd
-CCTV3,http://mtw.so/6gZ5xU
-CCTV4,http://mtw.so/6oviAZ
-CCTV5,http://mtw.so/5x7cQz
-CCTV5+,http://mtw.so/6pfT4t
-CCTV7,http://mtw.so/5M9CJP
-CCTV8,http://mtw.so/5UqsjZ
-CCTV9,http://mtw.so/61WFoG
-CCTV10,http://mtw.so/69sStn
-CCTV11,http://mtw.so/6gZ5ws
-CCTV12,http://mtw.so/6w1vFQ
-CCTV13,http://mtw.so/5x7cQJ
-CCTV14,http://mtw.so/5EDpFi
-CCTV15,http://mtw.so/5MUffs
-CCTV16,http://mtw.so/5Uqsk9
-CCTV17,http://mtw.so/61WFoQ
 
 
 CCTV5+http://14.212.185.138:9901/tsfile/live/0001_11.m3u8
@@ -298,6 +280,26 @@ CCTV16,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 山东卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
+
+高码率
+CCTV1,http://mtw.so/5UqsjP
+CCTV2,http://mtw.so/69sStd
+CCTV3,http://mtw.so/6gZ5xU
+CCTV4,http://mtw.so/6oviAZ
+CCTV5,http://mtw.so/5x7cQz
+CCTV5+,http://mtw.so/6pfT4t
+CCTV7,http://mtw.so/5M9CJP
+CCTV8,http://mtw.so/5UqsjZ
+CCTV9,http://mtw.so/61WFoG
+CCTV10,http://mtw.so/69sStn
+CCTV11,http://mtw.so/6gZ5ws
+CCTV12,http://mtw.so/6w1vFQ
+CCTV13,http://mtw.so/5x7cQJ
+CCTV14,http://mtw.so/5EDpFi
+CCTV15,http://mtw.so/5MUffs
+CCTV16,http://mtw.so/5Uqsk9
+CCTV17,http://mtw.so/61WFoQ
+
 
 移动联通专享,#genre#
 ottrrs
