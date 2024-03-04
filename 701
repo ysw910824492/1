@@ -1,12 +1,7 @@
 4k频道,#genre#
 
-CCTV4K,http://mtw.so/69sSrV
 CCTV4K,http://112.17.52.85/PLTV/88888888/224/3221233679/index.m3u8
-CCTV8K,http://mtw.so/5xRPVl
-广东综艺4k,http://119.123.216.156:808/hls/9/index.m3u8
-CCTV4K,http://ainm.cc/a/play/php/cctv4k.php?id=4khd
 苏州4K,http://liveshowbak2.kan0512.com/ksznorecord/csztv4k_4k.m3u8
-CCTV8K,http://159.75.85.63:8654/xx8k50fps.php
 
 欢笑剧场4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 华数影视4K,http://[2409:8087:7001:20:1000::96]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&amp;Contentid=6000000003000004748&amp;livemode=1&amp;stbId=3
@@ -1990,12 +1985,12 @@ YY舞蹈小影,http://mmitv.top/pltv/yy.php?id=1349695640
 斗鱼电影10,http://epg.112114.xyz/douyu/8475821
 斗鱼电影11,http://epg.112114.xyz/douyu/338759
 斗鱼电影11,http://epg.112114.xyz/douyu/8770422
-斗鱼电影粤语2,http://epg.112114.xyz/douyu/2436390
-斗鱼电影粤语2,http://epg.112114.xyz/douyu/2793084
+斗鱼电影12,http://epg.112114.xyz/douyu/2436390
+斗鱼电影12,http://epg.112114.xyz/douyu/2793084
 斗鱼电影13,http://epg.112114.xyz/douyu/218859
 斗鱼电影13,http://epg.112114.xyz/douyu/5067952
 斗鱼电影14,http://epg.112114.xyz/douyu/413573
-斗鱼电影15,http://epg.112114.xyz/douyu/5033502
+斗鱼电影粤语2,http://epg.112114.xyz/douyu/5033502
 斗鱼电影16,http://epg.112114.xyz/douyu/1504768
 斗鱼电影16,http://epg.112114.xyz/douyu/426517
 斗鱼电影17,http://epg.112114.xyz/douyu/1274132
@@ -2025,9 +2020,7 @@ YY舞蹈小影,http://mmitv.top/pltv/yy.php?id=1349695640
 斗鱼电影37,http://epg.112114.xyz/douyu/6537888
 斗鱼电影38,http://epg.112114.xyz/douyu/6003761
 斗鱼电影39,http://epg.112114.xyz/douyu/9683979
-斗鱼电影40,http://epg.112114.xyz/douyu/1226741
-斗鱼电影41,http://epg.112114.xyz/douyu/59612
-斗鱼电影42,http://epg.112114.xyz/douyu/925724
+斗鱼电影粤语3,http://epg.112114.xyz/douyu/1226741
 
 
 韩国MV,#genre#
