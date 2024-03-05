@@ -2,7 +2,8 @@
 
 CCTV4K,http://112.17.52.85/PLTV/88888888/224/3221233679/index.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksznorecord/csztv4k_4k.m3u8
-
+CCTV4K,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv4k.m3u8
+CCTV4K,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv4k.m3u8
 欢笑剧场4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 华数影视4K,http://[2409:8087:7001:20:1000::96]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&amp;Contentid=6000000003000004748&amp;livemode=1&amp;stbId=3
 
@@ -73,7 +74,6 @@ CCTV14,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv14.m3u8
 CCTV15,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv15.m3u8
 CCTV16,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv16.m3u8
 CCTV17,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv17.m3u8
-CCTV4K,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv4k.m3u8
 61
 CCTV1,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv1.m3u8
 CCTV2,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv2.m3u8
@@ -92,7 +92,6 @@ CCTV14,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv14.m3u8
 CCTV15,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv15.m3u8
 CCTV16,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv16.m3u8
 CCTV17,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv17.m3u8
-CCTV4K,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv4k.m3u8
 
 yuju
 广东卫视,http://yuju666888.x3322.net:808/hls/2/index.m3u8
