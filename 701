@@ -1213,74 +1213,6 @@ CCTV16,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226413/1.m3u8
 云南卫视,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001223/1.m3u8
 
 
-CCTV1 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
-CCTV1 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-CCTV1 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226583/index.m3u8
-CCTV1 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
-CCTV2 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-CCTV2 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
-CCTV3 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
-CCTV4 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-CCTV4 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
-CCTV5 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV5+ ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-CCTV5+ ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
-CCTV6 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
-CCTV6 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
-CCTV7 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-CCTV8 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
-CCTV8 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-CCTV9 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-CCTV10 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-CCTV11 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
-CCTV12 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
-CCTV13 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-CCTV14 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-CCTV15 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
-CCTV16 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-CCTV17 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
-
-
-
-广东台,#genre#
-凤凰中文,http://125.71.250.138:8899/udp/239.93.0.162:2192#http://125.71.250.138:8899/udp/239.93.1.9:2192
-凤凰资讯,http://125.71.250.138:8899/udp/239.93.0.118:2191#http://125.71.250.138:8899/udp/239.93.1.4:2191
-深圳卫视,http://14.212.185.138:9901/tsfile/live/0001_16.m3u8
-广东卫视,http://14.212.185.138:9901/tsfile/live/0001_13.m3u8
-广东卫视,http://ci.emdoor.tech:8080/touchtv.php?pk=1182
-广东民生,http://14.212.185.138:9901/tsfile/live/0001_48.m3u8
-广东珠江,http://14.212.185.138:9901/tsfile/live/0001_40.m3u8
-广东珠江,http://www.22803189.xyz:8001/rtp/239.77.0.1:5146
-广东珠江,http://6f155.x3322.net:8001/rtp/239.77.0.1:5146
-广东珠江,http://sxd.nyxg.vip:40000/udp/239.77.0.1:5146
-广东珠江,http://sxd.nyxg.vip:40000/udp/239.77.0.3:5146
-广东珠江,http://iptv.eatuo.com:9901/tsfile/live/1001_1.m3u8
-广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
-广东珠江,http://gmxw.7766.org:808/hls/83/index.m3u8
-广东珠江,https://list.iptvcat.com/my_list/s/84d304d66f4ca5f4ceb3ded42b70242a.m3u8
-广东少儿,http://14.212.185.138:9901/tsfile/live/0001_46.m3u8
-广东少儿,http://ci.emdoor.tech:8080/touchtv.php?pk=1200
-广东新闻,http://14.212.185.138:9901/tsfile/live/0001_47.m3u8
-广东新闻,http://gmxw.7766.org:808/hls/5/index.m3u8
-广东影视,http://14.212.185.138:9901/tsfile/live/0001_44.m3u8
-广东影视,http://gmxw.7766.org:808/hls/6/index.m3u8
-广东体育,http://14.212.185.138:9901/tsfile/live/0001_32.m3u8
-广东体育,http://6f155.x3322.net:8001/rtp/239.77.0.112:5146
-广东体育,http://gmxw.7766.org:808/hls/2/index.m3u8
-大湾区卫视,http://6f155.x3322.net:8001/rtp/239.77.0.215:5146
-大湾区卫视,http://sxd.nyxg.vip:40000/udp/239.77.0.215:5146
-大湾区卫视,http://www.22803189.xyz:8001/rtp/239.77.0.215:5146
-大湾区卫视,https://epg.pw/stream/a97a516f7363243adcf989db5a8ec00df8ecec1f7446e083d9b48c6952378cee.m3u8
-大湾区卫视,http://glive.grtn.cn/live/lizhi.m3u8
-大湾区卫视,http://gmxw.7766.org:808/hls/132/index.m3u8
-大湾区卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
-岭南戏曲,http://gmxw.7766.org:808/hls/16/index.m3u8
-岭南戏曲,http://qwas.eatuo.com:9901/tsfile/live/1074_1.m3u8
-广东经济科教,http://ci.emdoor.tech:8080/touchtv.php?pk=1196
-经济科教,http://gmxw.7766.org:808/hls/4/index.m3u8
-嘉佳卡通,http://gmxw.7766.org:808/hls/8/index.m3u8
-
-
 港澳台,#genre#
 凤凰中文,http://125.71.250.138:8899/udp/239.93.0.162:2192
 凤凰资讯,http://125.71.250.138:8899/udp/239.93.0.118:2191
@@ -1584,10 +1516,6 @@ CF,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAuth=63d571
 王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=f73077d85e523eb95b6ce1ea3581b46b&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18db3c111c4e3c14350afd2dcaf43d0ef60&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pl
 网易第五人格,http://tc-tct.douyucdn2.cn/dyliveflv1a/3226194r73pCQamR_2000.flv?wsAuth=50ba16bb9998ec281101f2a5d8975be6&token=cpn-androidmpro-0-3226194-1c055b38aa29e2877292a9ffa392a948c894567c5e4b79ff&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost
 永劫无间,http://tc-tct.douyucdn2.cn/dyliveflv1a/9662891rlaeIAP3A_2000.flv?wsAuth=07d3125e1ec93068330e14be22a09454&token=cpn-androidmpro-0-9662891-7de7dc707e1a51dddb241f8ecad4f36806d04b45752cbbd8&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost
-yy小品,http://mmitv.top/pltv/yy.php?id=1354931503
-yy小品2,http://mmitv.top/pltv/yy.php?id=1382741642
-yy小品3,http://mmitv.top/pltv/yy.php?id=1354936198
-陈翔六点半,http://mmitv.top/test/douyu.php?id=2132902
 斗鱼舞蹈小甜甜,http://mmitv.top/test/douyu.php?id=10458633
 YY舞蹈993,http://mmitv.top/pltv/yy.php?id=22490906
 YY歌曲991,http://mmitv.top/pltv/yy.php?id=54880976
@@ -1599,17 +1527,17 @@ YY舞蹈小影,http://mmitv.top/pltv/yy.php?id=1349695640
 花椒轮播直播点击切换,http://mmitv.top/test/hjzb.php?id=top
 快手轮播直播点击切换,http://mmitv.top/test/ks.php
 6间房轮播直播点击切换,http://mmitv.top/test/6room.php?id=top
-
-在线音乐,#genre#
 网络热门歌曲点击切换,https://api.vvhan.com/api/rand.music?sort=%E7%83%AD%E6%AD%8C%E6%A6%9C
-
-
 
 斗鱼电影,#genre#
 斗鱼4K,http://epg.112114.xyz/douyu/9249162
 斗鱼电影粤语1,http://epg.112114.xyz/douyu/6566671
 斗鱼电影粤语2,http://epg.112114.xyz/douyu/5033502
 斗鱼电影粤语3,http://epg.112114.xyz/douyu/1226741
+yy小品,http://mmitv.top/pltv/yy.php?id=1354931503
+yy小品2,http://mmitv.top/pltv/yy.php?id=1382741642
+yy小品3,http://mmitv.top/pltv/yy.php?id=1354936198
+陈翔六点半,http://mmitv.top/test/douyu.php?id=2132902
 斗鱼搞笑1,http://epg.112114.xyz/douyu/9220456
 斗鱼搞笑2,http://epg.112114.xyz/douyu/9067836
 斗鱼搞笑3,http://epg.112114.xyz/douyu/8737695
@@ -1669,24 +1597,3 @@ YY舞蹈小影,http://mmitv.top/pltv/yy.php?id=1349695640
 斗鱼电影39,http://epg.112114.xyz/douyu/9683979
 
 
-韩国MV,#genre#
-DJ Soda Remix 2021,https://vd3.bdstatic.com/mda-mev3hw0htz28h5wn/1080p/cae_h264/1622343504467773766/mda-mev3hw0htz28h5wn.mp4
-佳仁-ParadiseLost,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgy9j64wUogPOGEQ.mp4
-僵尸舞,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw5Cv4gUoiZqZ4wE.mp4
-朴孝敏–SKETCH,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAguq6r7gUouOyF4gE.mp4
-金泫雅1,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyt_s4gUolOCslAQ.mp4Alan Walker-feat
-1,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9qiM5gUo-tns8Qc.mp4AOA - Excuse Me
-2,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmozg7AUolaeS8gU.mp4AOA - Like A Cat
-3,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtfm95QUok8Wu6AQ.mp4Areia Kpop Remix
-4,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg____4gUopsLtrQQ.mp4DalShabet
-5,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3fq95QUoisPxpAM.mp4DavidJoneshttps://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-vqa4gUotM7X6wc.mp4EXID-UP&DOWN,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzMnG4gUoroOQgQU.mp4Four Ladies-Move,6,
-6,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg85Do5QUow-P-wwI.mp4School-
-初恋,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgn-a24gUouMCswQY.mp4School-Flashback
-13,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_PSc4gUoxOLZ3AM.mp4Stellar-Vibrato
-7,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_O_-4gUo257EIg.mp4StickySticky
-11,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnIS24gUoptqYDQ.mp4TroubleMaker
-12,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2fWv4gUo9JT7DQ.mp4TroubleMaker-Now
-8,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvue_4gUomZa1kQU.mp41
-9,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp42
-10,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239978750464.mp43
-9,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239858729476.mp4
