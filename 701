@@ -1214,6 +1214,15 @@ CCTV16,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226413/1.m3u8
 
 
 港澳台,#genre#
+广东珠江,http://www.22803189.xyz:8001/rtp/239.77.0.1:5146
+广东珠江,http://6f155.x3322.net:8001/rtp/239.77.0.1:5146
+广东珠江,http://sxd.nyxg.vip:40000/udp/239.77.0.1:5146
+广东珠江,http://sxd.nyxg.vip:40000/udp/239.77.0.3:5146
+广东珠江,http://iptv.eatuo.com:9901/tsfile/live/1001_1.m3u8
+广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
+广东珠江,http://gmxw.7766.org:808/hls/83/index.m3u8
+广东珠江,https://list.iptvcat.com/my_list/s/84d304d66f4ca5f4ceb3ded42b70242a.m3u8
+
 凤凰中文,http://125.71.250.138:8899/udp/239.93.0.162:2192
 凤凰资讯,http://125.71.250.138:8899/udp/239.93.0.118:2191
 
