@@ -1194,12 +1194,17 @@ CCTV16,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226413/1.m3u8
 广东珠江,http://gmxw.7766.org:808/hls/83/index.m3u8
 广东珠江,https://list.iptvcat.com/my_list/s/84d304d66f4ca5f4ceb3ded42b70242a.m3u8
 
+
 广东珠江,mitv://generationnexxxt.com:19806/a050c8e736174de681b13b8ebd2ce3c4
 广东影视,mitv://generationnexxxt.com:19806/f2dbc62d3b0b4af3ac2420174eadf202
 广东影视,http://yuju666888.x3322.net:808/hls/24/index.m3u8
 广东体育,http://yuju666888.x3322.net:808/hls/22/index.m3u8
 广东体育,mitv://generationnexxxt.com:19806/bb744a1252da46a6a2ae5546f4da7c72
-
+广州综合,https://yang-1989.eu.org/gz/zh
+广州新闻,https://yang-1989.eu.org/gz/xw
+广州竞赛,https://yang-1989.eu.org/gz/jj
+广州影视,https://yang-1989.eu.org/gz/ys
+广东法治,https://yang-1989.eu.org/gz/fz
 凤凰中文,http://125.71.250.138:8899/udp/239.93.0.162:2192
 凤凰资讯,http://125.71.250.138:8899/udp/239.93.0.118:2191
 
@@ -1548,11 +1553,6 @@ CF,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAuth=63d571
 网易第五人格,http://tc-tct.douyucdn2.cn/dyliveflv1a/3226194r73pCQamR_2000.flv?wsAuth=50ba16bb9998ec281101f2a5d8975be6&token=cpn-androidmpro-0-3226194-1c055b38aa29e2877292a9ffa392a948c894567c5e4b79ff&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost
 永劫无间,http://tc-tct.douyucdn2.cn/dyliveflv1a/9662891rlaeIAP3A_2000.flv?wsAuth=07d3125e1ec93068330e14be22a09454&token=cpn-androidmpro-0-9662891-7de7dc707e1a51dddb241f8ecad4f36806d04b45752cbbd8&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost
 斗鱼舞蹈小甜甜,http://mmitv.top/test/douyu.php?id=10458633
-YY舞蹈993,http://mmitv.top/pltv/yy.php?id=22490906
-YY歌曲991,http://mmitv.top/pltv/yy.php?id=54880976
-YY舞蹈羽毛,http://mmitv.top/pltv/yy.php?id=1453767988
-YY舞蹈小影,http://mmitv.top/pltv/yy.php?id=35340121
-YY舞蹈小影,http://mmitv.top/pltv/yy.php?id=1349695640
 
 轮播直播
 花椒轮播直播点击切换,http://mmitv.top/test/hjzb.php?id=top
@@ -1565,9 +1565,6 @@ YY舞蹈小影,http://mmitv.top/pltv/yy.php?id=1349695640
 斗鱼电影粤语1,http://epg.112114.xyz/douyu/6566671
 斗鱼电影粤语2,http://epg.112114.xyz/douyu/5033502
 斗鱼电影粤语3,http://epg.112114.xyz/douyu/1226741
-yy小品,http://mmitv.top/pltv/yy.php?id=1354931503
-yy小品2,http://mmitv.top/pltv/yy.php?id=1382741642
-yy小品3,http://mmitv.top/pltv/yy.php?id=1354936198
 陈翔六点半,http://mmitv.top/test/douyu.php?id=2132902
 斗鱼搞笑1,http://epg.112114.xyz/douyu/9220456
 斗鱼搞笑2,http://epg.112114.xyz/douyu/9067836
