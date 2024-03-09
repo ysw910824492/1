@@ -1295,32 +1295,21 @@ CCTV16,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226413/1.m3u8
 广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
 广东珠江,http://gmxw.7766.org:808/hls/83/index.m3u8
 广东珠江,https://list.iptvcat.com/my_list/s/84d304d66f4ca5f4ceb3ded42b70242a.m3u8
-
-
 广东珠江,mitv://generationnexxxt.com:19806/a050c8e736174de681b13b8ebd2ce3c4
-广东影视,mitv://generationnexxxt.com:19806/f2dbc62d3b0b4af3ac2420174eadf202
-广东影视,http://yuju666888.x3322.net:808/hls/24/index.m3u8
-广东体育,http://yuju666888.x3322.net:808/hls/22/index.m3u8
-广东体育,mitv://generationnexxxt.com:19806/bb744a1252da46a6a2ae5546f4da7c72
-广州综合,https://yang-1989.eu.org/gz/zh
-广州新闻,https://yang-1989.eu.org/gz/xw
-广州竞赛,https://yang-1989.eu.org/gz/jj
-广州影视,https://yang-1989.eu.org/gz/ys
-广东法治,https://yang-1989.eu.org/gz/fz
+
+
 凤凰资讯,http://110.72.70.55:808/hls/1/index.m3u8
 凤凰资讯,http://110.72.69.205:808/hls/1/index.m3u8
 凤凰资讯,http://106.46.119.236:808/hls/57/index.m3u8
+凤凰中文,http://110.72.70.55:808/hls/83/index.m3u8
+凤凰中文,http://125.71.250.138:8899/udp/239.93.0.162:2192
+凤凰中文,http://125.71.250.138:8899/udp/239.93.1.9:2192
 香港卫视,http://110.72.70.55:808/hls/333/index.m3u8
 香港卫视,http://110.72.69.205:808/hls/333/index.m3u8
-
 凤凰中文,http://125.71.250.138:8899/udp/239.93.0.162:2192
 凤凰资讯,http://125.71.250.138:8899/udp/239.93.0.118:2191
-凤凰资讯台,http://110.72.70.55:808/hls/63/index.m3u8
-凤凰资讯台,http://125.71.250.138:8899/udp/239.93.0.118:2191
-凤凰资讯台,http://125.71.250.138:8899/udp/239.93.1.4:2191
-凤凰中文台,http://110.72.70.55:808/hls/83/index.m3u8
-凤凰中文台,http://125.71.250.138:8899/udp/239.93.0.162:2192
-凤凰中文台,http://125.71.250.138:8899/udp/239.93.1.9:2192
+凤凰资讯,http://110.72.70.55:808/hls/63/index.m3u8
+凤凰资讯,http://125.71.250.138:8899/udp/239.93.1.4:2191
 凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8
 
 
@@ -1402,6 +1391,15 @@ HKC 18台,mitv://generationnexxxt.com:19806/140377dc9e0848678d614d451d69af9e
 @老澳21:32播放,https://vdm6-ali.kavimmensucat.com/live/2032-2.flv
 @老澳21:32播放,https://aa.jmied.com/aa/aa.flv?auth_key=1661059701-0-0-18edbe2ace26cc97f5e86aaee951497e
 @老澳21:32官方,https://vdm6-hwnon.ntnftchain.com/live/2032-2.flv
+广东影视,mitv://generationnexxxt.com:19806/f2dbc62d3b0b4af3ac2420174eadf202
+广东影视,http://yuju666888.x3322.net:808/hls/24/index.m3u8
+广东体育,http://yuju666888.x3322.net:808/hls/22/index.m3u8
+广东体育,mitv://generationnexxxt.com:19806/bb744a1252da46a6a2ae5546f4da7c72
+广州综合,https://yang-1989.eu.org/gz/zh
+广州新闻,https://yang-1989.eu.org/gz/xw
+广州竞赛,https://yang-1989.eu.org/gz/jj
+广州影视,https://yang-1989.eu.org/gz/ys
+广东法治,https://yang-1989.eu.org/gz/fz
 
 港澳代理,#genre#
 [无分类]
