@@ -15,6 +15,45 @@ CCTV4K,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv4k.m3u8
 爱上4K,http://111.193.234.103:8800/rtp/239.3.1.236:2000
 中国央卫,#genre#
 
+CCTV1,http://112.132.181.221:9988/hls/1/index.m3u8
+CCTV2,http://112.132.181.221:9988/hls/2/index.m3u8
+CCTV3,http://112.132.181.221:9988/hls/3/index.m3u8
+CCTV4,http://112.132.181.221:9988/hls/4/index.m3u8
+CCTV5,http://112.132.181.221:9988/hls/5/index.m3u8
+CCTV6,http://112.132.181.221:9988/hls/7/index.m3u8
+CCTV7,http://112.132.181.221:9988/hls/8/index.m3u8
+CCTV8,http://112.132.181.221:9988/hls/9/index.m3u8
+CCTV9,http://112.132.181.221:9988/hls/10/index.m3u8
+CCTV10,http://112.132.181.221:9988/hls/11/index.m3u8
+CCTV11,http://112.132.181.221:9988/hls/12/index.m3u8
+CCTV12,http://112.132.181.221:9988/hls/13/index.m3u8
+CCTV13,http://112.132.181.221:9988/hls/14/index.m3u8
+CCTV14,http://112.132.181.221:9988/hls/15/index.m3u8
+CCTV15,http://112.132.181.221:9988/hls/16/index.m3u8
+CCTV16,http://112.132.181.221:9988/hls/52/index.m3u8
+江苏卫视,http://112.132.181.221:9988/hls/17/index.m3u8
+河北卫视,http://112.132.181.221:9988/hls/18/index.m3u8
+浙江卫视,http://112.132.181.221:9988/hls/19/index.m3u8
+湖北卫视,http://112.132.181.221:9988/hls/21/index.m3u8
+湖南卫视,http://112.132.181.221:9988/hls/22/index.m3u8
+东方卫视,http://112.132.181.221:9988/hls/23/index.m3u8
+北京卫视,http://112.132.181.221:9988/hls/24/index.m3u8
+浙江卫视,http://112.132.181.221:9988/hls/25/index.m3u8
+安徽卫视,http://112.132.181.221:9988/hls/26/index.m3u8
+山东卫视,http://112.132.181.221:9988/hls/27/index.m3u8
+广东卫视,http://112.132.181.221:9988/hls/28/index.m3u8
+贵州卫视,http://112.132.181.221:9988/hls/29/index.m3u8
+辽宁卫视,http://112.132.181.221:9988/hls/30/index.m3u8
+黑龙江卫视,http://112.132.181.221:9988/hls/31/index.m3u8
+甘肃卫视,http://112.132.181.221:9988/hls/35/index.m3u8
+海南卫视,http://112.132.181.221:9988/hls/37/index.m3u8
+吉林卫视,http://112.132.181.221:9988/hls/42/index.m3u8
+东南卫视,http://112.132.181.221:9988/hls/45/index.m3u8
+深圳卫视,http://112.132.181.221:9988/hls/49/index.m3u8
+
+
+
+
 CCTV1,http://110.72.70.55:808/hls/54/index.m3u8
 CCTV1,http://110.72.69.205:808/hls/54/index.m3u8
 CCTV1,http://106.46.119.236:808/hls/1/index.m3u8
@@ -183,9 +222,6 @@ CGTN俄语,http://gzly.hkychina.com:6005/udp/239.252.219.67:5140
 快乐垂钓,http://gzly.hkychina.com:6005/udp/239.252.220.177:5140
 CHC高清,http://gzly.hkychina.com:6005/udp/239.252.219.83:5140
 
-
-
-
 CCTV1,http://111.193.234.103:8800/rtp/239.3.1.129:8008
 CCTV2,http://111.193.234.103:8800/rtp/239.3.1.60:8084
 CCTV3,http://111.193.234.103:8800/rtp/239.3.1.172:8001
@@ -304,41 +340,6 @@ yuju
 金鹰卡通,http://221.232.105.110:8880/udp/239.69.1.248:11130
 
 
-CCTV1,http://112.132.181.221:9988/hls/1/index.m3u8
-CCTV2,http://112.132.181.221:9988/hls/2/index.m3u8
-CCTV3,http://112.132.181.221:9988/hls/3/index.m3u8
-CCTV4,http://112.132.181.221:9988/hls/4/index.m3u8
-CCTV5,http://112.132.181.221:9988/hls/5/index.m3u8
-CCTV6,http://112.132.181.221:9988/hls/7/index.m3u8
-CCTV7,http://112.132.181.221:9988/hls/8/index.m3u8
-CCTV8,http://112.132.181.221:9988/hls/9/index.m3u8
-CCTV9,http://112.132.181.221:9988/hls/10/index.m3u8
-CCTV10,http://112.132.181.221:9988/hls/11/index.m3u8
-CCTV11,http://112.132.181.221:9988/hls/12/index.m3u8
-CCTV12,http://112.132.181.221:9988/hls/13/index.m3u8
-CCTV13,http://112.132.181.221:9988/hls/14/index.m3u8
-CCTV14,http://112.132.181.221:9988/hls/15/index.m3u8
-CCTV15,http://112.132.181.221:9988/hls/16/index.m3u8
-CCTV16,http://112.132.181.221:9988/hls/52/index.m3u8
-江苏卫视,http://112.132.181.221:9988/hls/17/index.m3u8
-河北卫视,http://112.132.181.221:9988/hls/18/index.m3u8
-浙江卫视,http://112.132.181.221:9988/hls/19/index.m3u8
-湖北卫视,http://112.132.181.221:9988/hls/21/index.m3u8
-湖南卫视,http://112.132.181.221:9988/hls/22/index.m3u8
-东方卫视,http://112.132.181.221:9988/hls/23/index.m3u8
-北京卫视,http://112.132.181.221:9988/hls/24/index.m3u8
-浙江卫视,http://112.132.181.221:9988/hls/25/index.m3u8
-安徽卫视,http://112.132.181.221:9988/hls/26/index.m3u8
-山东卫视,http://112.132.181.221:9988/hls/27/index.m3u8
-广东卫视,http://112.132.181.221:9988/hls/28/index.m3u8
-贵州卫视,http://112.132.181.221:9988/hls/29/index.m3u8
-辽宁卫视,http://112.132.181.221:9988/hls/30/index.m3u8
-黑龙江卫视,http://112.132.181.221:9988/hls/31/index.m3u8
-甘肃卫视,http://112.132.181.221:9988/hls/35/index.m3u8
-海南卫视,http://112.132.181.221:9988/hls/37/index.m3u8
-吉林卫视,http://112.132.181.221:9988/hls/42/index.m3u8
-东南卫视,http://112.132.181.221:9988/hls/45/index.m3u8
-深圳卫视,http://112.132.181.221:9988/hls/49/index.m3u8
 
 
 
