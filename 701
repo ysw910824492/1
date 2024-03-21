@@ -1330,10 +1330,9 @@ CCTV16,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226413/1.m3u8
 民視,rtmp://f13h.mine.nu/sat/tv051
 
 
-J2台,https://epg.pw/stream/0538ba224aaf885179ea745b10e19769b9c92ee8cf2e27bd12aa101955da0fcb.cctv#https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.cctv
+J2台,https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.cctv
 Viu TV,https://epg.pw/stream/4c88025ced2e3e2354180f93d2292f6c561ada9c062921993dceea0bd6d8cb2c.ctv
 RTHK31,https://epg.pw/stream/8722fa716c27f2cb06b7e5e358bfeff5217167a47018364fcf05567da8f571e5.ctv
-TVB娱乐新闻台,https://epg.pw/stream/57737ed82a70288e90bca3ef3b9e7ed3e8b896445947908bd76d4ed3c4ba6c43.m3u8
 ATV WORLD,https://epg.pw/stream/de78a5bddc78a16751b32abeef85fd892da97babeef58e21739986cfc5df0371.m3u8
 Pearl,https://epg.pw/stream/71166eef439819ec642842626350556e77063f3f206f1221f56e415f62e49e9d.ctv
 Viu TV,https://epg.pw/stream/44fb8f7cbce4cd77722c6e084c04b96cf06cf08014a5054d7265015d6adaba5a.cctv
@@ -1375,9 +1374,9 @@ RTHK33,https://epg.pw/stream/b6a5f89266b740a43b7231afcffc2cce5c46e8dc2f3b8d8df3b
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
 无线新闻,https://i.125011.xyz/tvb.php?id=0&hq
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=1&hq
-J2,https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv
-J2,https://epg.pw/stream/822a2f16e6587aa1a36016417edd4c726ccb1a13562aebfe1a400560de8a249d.m3u8
-J2,http://tv.sevenlive.top/gt2cd/gtiptv2.php?id=5
+J2台,https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv
+J2台,https://epg.pw/stream/822a2f16e6587aa1a36016417edd4c726ccb1a13562aebfe1a400560de8a249d.m3u8
+J2台,http://tv.sevenlive.top/gt2cd/gtiptv2.php?id=5
 凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Phoenix_Chinese
 广东影视,mitv://generationnexxxt.com:19806/f2dbc62d3b0b4af3ac2420174eadf202
 广东影视,http://yuju666888.x3322.net:808/hls/24/index.m3u8
