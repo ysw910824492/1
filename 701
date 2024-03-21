@@ -256,6 +256,16 @@ CCTV14,mitv://generationnexxxt.com:19806/5ce5a7ff03b541cc8ef405312b4fec09
 CCTV15,mitv://generationnexxxt.com:19806/8914df6967f546eb8cf20ea35946ad8d
 
 卫视,#genre#
+
+16,http://58.254.14.14:808/hls/16/index.m3u8
+江苏卫视,http://58.254.14.14:808/hls/17/index.m3u8
+浙江卫视,http://58.254.14.14:808/hls/18/index.m3u8
+广东卫视,http://58.254.14.14:808/hls/21/index.m3u8
+北京卫视,http://58.254.14.14:808/hls/22/index.m3u8
+安徽卫视,http://58.254.14.14:808/hls/23/index.m3u8
+黑龙江卫视,http://58.254.14.14:808/hls/24/index.m3u
+
+
 湖南卫视,http://221.232.105.110:8880/udp/239.254.96.139:8908
 浙江卫视,http://221.232.105.110:8880/udp/239.254.96.143:8932
 浙江卫视,http://202.103.213.192:8888/udp/239.81.0.108:4056
