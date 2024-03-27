@@ -36,15 +36,6 @@ CCTV14,http://182.149.106.41:8888/udp/239.93.1.29:6000
 CCTV15,http://182.149.106.41:8888/udp/239.93.0.103:5140
 CCTV17,http://182.149.106.41:8888/udp/239.93.0.92:5140
 
-CCTV1,http://110.72.86.230:808/hls/54/index.m3u8
-CCTV3,http://110.72.86.230:808/hls/37/index.m3u8
-CCTV5,http://110.72.86.230:808/hls/38/index.m3u8
-CCTV6,http://110.72.86.230:808/hls/39/index.m3u8
-CCTV8,http://110.72.86.230:808/hls/40/index.m3u8
-CCTV9,http://110.72.86.230:808/hls/119/index.m3u8
-CCTV7,http://110.72.86.230:808/hls/5/index.m3u8
-CCTV5+,http://110.72.86.230:808/hls/14/index.m3u8
-CCTV9,http://110.72.86.230:808/hls/119/index.m3u8
 
 CCTV1,http://cyz32.livehbindex.hbcatv.cn/live/50000020935c4d59965a1cbf159c9be9.m3u8?bitrate=2300&pt=5
 CCTV2,http://cyz32.livehbindex.hbcatv.cn/live/50000020d7ae404dbd55b5d0ba6fe735.m3u8?bitrate=2300&pt=5
