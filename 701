@@ -182,7 +182,6 @@ CCTV15,mitv://generationnexxxt.com:19806/8914df6967f546eb8cf20ea35946ad8d
 
 
 浙江卫视,http://nas.mfparking.com:4022/udp/233.50.201.100:5140
-浙江卫视,http://nas.mfparking.com:4022/udp/233.50.201.108:5140
 深圳卫视,http://nas.mfparking.com:4022/udp/233.50.201.101:5140
 广东卫视,http://nas.mfparking.com:4022/udp/233.50.201.102:5140
 湖南卫视,http://nas.mfparking.com:4022/udp/233.50.201.103:5140
@@ -207,7 +206,6 @@ CCTV15,mitv://generationnexxxt.com:19806/8914df6967f546eb8cf20ea35946ad8d
 
 湖南卫视,http://221.232.105.110:8880/udp/239.254.96.139:8908
 浙江卫视,http://221.232.105.110:8880/udp/239.254.96.143:8932
-浙江卫视,http://202.103.213.192:8888/udp/239.81.0.108:4056
 江苏卫视,http://221.232.105.110:8880/udp/239.254.96.144:8938
 北京卫视,http://221.232.105.110:8880/udp/239.254.96.141:8920
 东方卫视,http://221.232.105.110:8880/udp/239.254.96.142:8926
@@ -279,7 +277,7 @@ CCTV15,mitv://generationnexxxt.com:19806/8914df6967f546eb8cf20ea35946ad8d
 东方财经,http://gzly.hkychina.com:6005/udp/239.252.219.57:5140
 茶频道,http://gzly.hkychina.com:6005/udp/239.252.220.160:5140
 快乐垂钓,http://gzly.hkychina.com:6005/udp/239.252.220.177:5140
-CHC高清,http://gzly.hkychina.com:6005/udp/239.252.219.83:5140
+CHC高清电影,http://gzly.hkychina.com:6005/udp/239.252.219.83:5140
 电影测试,http://gzly.hkychina.com:6005/udp/239.252.220.212:5140
 
 
