@@ -16,6 +16,28 @@ CCTV4K,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv4k.m3u8
 
 央视,#genre#
 
+CCTV1,http://cyz32.livehbindex.hbcatv.cn/live/50000020935c4d59965a1cbf159c9be9.m3u8?bitrate=2300&pt=5
+CCTV2,http://cyz32.livehbindex.hbcatv.cn/live/50000020d7ae404dbd55b5d0ba6fe735.m3u8?bitrate=2300&pt=5
+CCTV3,http://cyz32.livehbindex.hbcatv.cn/live/50000020425540c3b4e7c41ca3eabb76.m3u8?bitrate=2300&pt=5
+CCTV4,http://cyz32.livehbindex.hbcatv.cn/live/5b0dff5235e94ba8bff8731427145289.m3u8?bitrate=2300&pt=5
+CCTV5,http://cyz32.livehbindex.hbcatv.cn/live/500000206cd748d58f41b13aa2754139.m3u8?bitrate=2300&pt=5
+CCTV5+,http://cyz32.livehbindex.hbcatv.cn/live/50000020484943edba96ac9f93f858ce.m3u8?bitrate=2300&pt=5
+CCTV6,http://cyz32.livehbindex.hbcatv.cn/live/50000020da6d4c40a2ca3b1bdc786016.m3u8?bitrate=2300&pt=5
+CCTV7,http://cyz32.livehbindex.hbcatv.cn/live/500000204daa45af99b5800a528fac21.m3u8?bitrate=2300&pt=5
+CCTV8,http://cyz32.livehbindex.hbcatv.cn/live/500000202d8c4f56ba03e623caa09f1b.m3u8?bitrate=2300&pt=5
+CCTV9,http://cyz32.livehbindex.hbcatv.cn/live/50000020edf54f6c92778d0ccdfcca30.m3u8?bitrate=2300&pt=5
+CCTV10,http://cyz32.livehbindex.hbcatv.cn/live/a66832f3323643189c3a0e91f9fad3e3.m3u8?bitrate=2300&pt=5
+CCTV11,http://39.134.67.110/PLTV/88888888/224/3221225517/index.m3u8$超清1080P
+CCTV11,http://cyz32.livehbindex.hbcatv.cn/live/5000002086444f0886ad7032ad8f756b.m3u8?bitrate=2300&pt=5
+CCTV12,http://cyz32.livehbindex.hbcatv.cn/live/fbe7688bc539461da71ff649e4ba1d75.m3u8?bitrate=2300&pt=5
+CCTV13,http://39.134.67.110/PLTV/88888888/224/3221225812/index.m3u8$高清1080P
+CCTV14,http://cyz32.livehbindex.hbcatv.cn/live/8a22035194884b1eb5515aac434c313c.m3u8?bitrate=2300&pt=5
+CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
+CCTV15,http://cyz32.livehbindex.hbcatv.cn/live/50000020f44f4f4b8aa33925dba216df.m3u8?bitrate=2300&pt=5
+CCTV16,https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
+CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
+CCTV16,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8? 
+CCTV17,http://cyz32.livehbindex.hbcatv.cn/live/500000208b8d41c4b436ef32428c229d.m3u8?bitrate=2300&pt=5
 
 
 3 20240313
@@ -32,7 +54,7 @@ CCTV10,http://182.149.106.41:8888/udp/239.93.1.28:5140
 CCTV11,http://182.149.106.41:8888/udp/239.93.0.102:5140
 CCTV12,http://182.149.106.41:8888/udp/239.93.1.30:8124
 CCTV13,http://182.149.106.41:8888/udp/239.93.0.66:5140
-CCTV少儿,http://182.149.106.41:8888/udp/239.93.1.29:6000
+CCTV14,http://182.149.106.41:8888/udp/239.93.1.29:6000
 CCTV15,http://182.149.106.41:8888/udp/239.93.0.103:5140
 CCTV17,http://182.149.106.41:8888/udp/239.93.0.92:5140
 
@@ -213,6 +235,25 @@ CCTV15,mitv://generationnexxxt.com:19806/8914df6967f546eb8cf20ea35946ad8d
 江西卫视,http://221.232.105.110:8880/udp/239.69.1.126:10394
 吉林卫视,http://221.232.105.110:8880/udp/239.69.1.212:10914
 四川卫视,http://221.232.105.110:8880/udp/239.69.1.169:10650
+
+江苏卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000201708473e9f4e1dbb0361de6b.m3u8?bitrate=2300&pt=5
+东方卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000203860417eb7f08f9270fc1155.m3u8?bitrate=2300&pt=5
+北京卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020539e48f392fbcbba5cf7f245.m3u8?bitrate=2300&pt=5
+湖南卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020c9ea4ce4bf3cfbbb7f8b8bb7.m3u8?bitrate=2300&pt=5
+湖北卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020273747628129718a5717b2dd.m3u8?bitrate=2300&pt=5
+浙江卫视,http://cyz32.livehbindex.hbcatv.cn/live/5000002045414da0bcca7fb08fd34c8a.m3u8?bitrate=2300&pt=5
+天津卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020bbc84ee1afd7177a073393d7.m3u8?bitrate=2300&pt=5
+黑龙江卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020281749ed995f2824759051fa.m3u8?bitrate=2300&pt=5
+辽宁卫视,http://cyz32.livehbindex.hbcatv.cn/live/5000002019d84b0ba201007677bbf28c.m3u8?bitrate=2300&pt=5
+吉林卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000205c15461b956f19f9b6896ad6.m3u8?bitrate=2300&pt=5
+河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+河南卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000201d7c47a8b9b127d69fb816ac.m3u8?bitrate=2300&pt=5
+山东卫视,http://cyz32.livehbindex.hbcatv.cn/live/5000002013f84d40a0393b8549e48805.m3u8?bitrate=2300&pt=5
+山西卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020ed0a4b74afc7e496c1bcc45c.m3u8?bitrate=2300&pt=5
+江西卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020728a439baf65ce94f8cf3e30.m3u8?bitrate=2300&pt=5
+安徽卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020d0ab40578faaa8a023ce4d5c.m3u8?bitrate=2300&pt=5
+广东卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000206bc6413cb38dc9ca586ffe3f.m3u8?bitrate=2300&pt=5
+
 
 江西IPTV
 江西卫视,http://gzly.hkychina.com:6005/udp/239.252.220.63:5140
@@ -1640,6 +1681,42 @@ CF,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAuth=63d571
 斗鱼电影38,http://epg.112114.xyz/douyu/6003761
 斗鱼电影39,http://epg.112114.xyz/douyu/9683979
 
+鬼片恐怖,http://43.138.170.29:35455/douyu/2935323
+恐怖故事,http://43.138.170.29:35455/douyu/2337939
+科幻动作,http://43.138.170.29:35455/douyu/4332
+午夜故事,http://43.138.170.29:35455/douyu/8722254
+译制国语,http://43.138.170.29:35455/douyu/2436390
+蚂蚱影院,http://43.138.170.29:35455/douyu/6079455
+纪录片,http://43.138.170.29:35455/douyu/4360438
+贝爷求生,http://43.138.170.29:35455/douyu/454867
+恐怖丧尸鬼片,http://43.138.170.29:35455/douyu/263824
+荒野建造者,http://43.138.170.29:35455/douyu/9611578
+邦德影院,http://43.138.170.29:35455/douyu/9292499
+特辑影院,http://43.138.170.29:35455/douyu/3637778
+惊悚影院,http://43.138.170.29:35455/douyu/96577
+吃米滴虫,http://43.138.170.29:35455/douyu/315457
+漫威影片,http://43.138.170.29:35455/douyu/6140589
+刘德华电影1,http://43.138.170.29:35455/douyu/2516864
+豆瓣高分,http://43.138.170.29:35455/douyu/8770422
+林正英电影2,http://43.138.170.29:35455/douyu/7356023
+宇哥电影,http://43.138.170.29:35455/douyu/413573
+贝爷影厅2,http://43.138.170.29:35455/douyu/36337
+霍格影片,http://43.138.170.29:35455/douyu/8814650
+冰冰经典电影,http://43.138.170.29:35455/douyu/74374
+避风港影院,http://43.138.170.29:35455/douyu/9826611
+恐怖经典,http://43.138.170.29:35455/douyu/1165374
+华语电影,http://43.138.170.29:35455/douyu/3928
+喜剧电影,http://43.138.170.29:35455/douyu/9292492
+一起看恐怖片,http://43.138.170.29:35455/douyu/9412287
+片荒的日子,http://43.138.170.29:35455/douyu/4258555
+大胡子魏,http://43.138.170.29:35455/douyu/8792763
+童年回忆,http://43.138.170.29:35455/douyu/8915074
+下饭神剧,http://43.138.170.29:35455/douyu/276200
+悬疑犯罪,http://43.138.170.29:35455/douyu/9171887
+不一样的电影,http://43.138.170.29:35455/douyu/2632223
+开心锤锤,http://43.138.170.29:35455/douyu/9018297
+凛冬之地,http://43.138.170.29:35455/douyu/8945323
+看美剧,http://43.138.170.29:35455/douyu/8869614
 
 国外资源_520,#genre#
 
