@@ -1154,8 +1154,8 @@ CCTV16,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226413/1.m3u8
 凤凰香港,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-
-
+广东体育,mitv://generationnexxxt.com:19806/bb744a1252da46a6a2ae5546f4da7c72
+广东影视,mitv://generationnexxxt.com:19806/f2dbc62d3b0b4af3ac2420174eadf202
 广东珠江,http://sxd.nyxg.vip:40000/udp/239.77.0.1:5146
 广东珠江,http://sxd.nyxg.vip:40000/udp/239.77.0.3:5146
 广东珠江,http://iptv.eatuo.com:9901/tsfile/live/1001_1.m3u8
@@ -1198,7 +1198,15 @@ CCTV16,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226413/1.m3u8
 台視,rtmp://f13h.mine.nu/sat/tv071
 民視,rtmp://f13h.mine.nu/sat/tv051
 
-
+緯來日本,rtmp://f13h.mine.nu/sat/tv771
+緯來育樂,rtmp://f13h.mine.nu/sat/tv701
+緯來體育,rtmp://f13h.mine.nu/sat/tv721
+大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱1,https://pulltv2.wanfudaluye.com/live/tv1.m3u8
+大爱2,http://pulltv1.wanfudaluye.com/live/tv2.m3u8
+大爱2,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大爱2,http://pulltv2.wanfudaluye.com/live/tv2.m3u8
 J2台,https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.cctv
 Viu TV,https://epg.pw/stream/4c88025ced2e3e2354180f93d2292f6c561ada9c062921993dceea0bd6d8cb2c.ctv
 RTHK31,https://epg.pw/stream/8722fa716c27f2cb06b7e5e358bfeff5217167a47018364fcf05567da8f571e5.ctv
@@ -1247,15 +1255,6 @@ J2台,https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc
 J2台,https://epg.pw/stream/822a2f16e6587aa1a36016417edd4c726ccb1a13562aebfe1a400560de8a249d.m3u8
 J2台,http://tv.sevenlive.top/gt2cd/gtiptv2.php?id=5
 凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Phoenix_Chinese
-广东影视,mitv://generationnexxxt.com:19806/f2dbc62d3b0b4af3ac2420174eadf202
-广东影视,http://yuju666888.x3322.net:808/hls/24/index.m3u8
-广东体育,http://yuju666888.x3322.net:808/hls/22/index.m3u8
-广东体育,mitv://generationnexxxt.com:19806/bb744a1252da46a6a2ae5546f4da7c72
-广州综合,https://yang-1989.eu.org/gz/zh
-广州新闻,https://yang-1989.eu.org/gz/xw
-广州竞赛,https://yang-1989.eu.org/gz/jj
-广州影视,https://yang-1989.eu.org/gz/ys
-广东法治,https://yang-1989.eu.org/gz/fz
 
 香港跑马搅珠
 有线18台,mitv://generationnexxxt.com:19806/8bf8f53c61944785b13817297101af20
