@@ -1190,6 +1190,8 @@ CCTV16,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226413/1.m3u8
 凤凰中文,http://171.88.134.186:3333/udp/239.93.1.9:2192
 凤凰资讯,http://171.88.134.186:3333/udp/239.93.0.118:2191
 凤凰资讯,http://171.88.134.186:3333/udp/239.93.1.4:2191
+
+无线新闻,http://nz189l149.bb27109.ctm.net:8892/bysid/83
 无线新闻,https://s2.pub/cctv-12
 
 
@@ -1203,7 +1205,7 @@ CCTV16,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226413/1.m3u8
 
 
 翡翠台,https://s2.pub/cctv-4#http://hksc.vnetidc.hk:61281/bysid/1
-无线新闻,https://s2.pub/cctv-12#http://hksc.vnetidc.hk:61282/bysid/83#http://nz189l149.bb27109.ctm.net:8892/bysid/83
+无线新闻,https://s2.pub/cctv-12#http://hksc.vnetidc.hk:61282/bysid/83
 TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 J2,https://s2.pub/cctv-5#https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv#http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e#http://hksc.vnetidc.hk:61282/bysid/82#http://nz189l149.bb27109.ctm.net:8892/bysid/82
 明珠台,https://s2.pub/cctv-6#http://hksc.vnetidc.hk:61282/bysid/2#http://nz189l149.bb27109.ctm.net:8892/bysid/2
