@@ -205,6 +205,33 @@ CHC高清电影,http://gzly.hkychina.com:6005/udp/239.252.219.83:5140
 HEVC以下卡
 山东卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
 
+辽宁卫视,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=058
+江苏卫视,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=085
+天津卫视,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=084
+湖南卫视,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=086
+北京卫视,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=083
+黑龙江卫视,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=095
+广东卫视,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=092
+东方卫视,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=093
+浙江卫视,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=094
+吉林卫视,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=097
+安徽卫视,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=096
+江西卫视,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=098
+山东卫视,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=099
+贵州卫视,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=101
+深圳卫视,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=100
+湖北卫视,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=102
+四川卫视,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=103
+陕西卫视,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=512
+河南卫视,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=339
+海南卫视,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=473
+云南卫视,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=482
+东南卫视,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=483
+河南卫视,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=104
+重庆卫视,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=107
+甘肃卫视,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=119
+河北卫视,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=108
+
 
 北京卫视,mitv://generationnexxxt.com:19806/8d7d0547db754c32bca6011693893b40
 天津卫视,mitv://generationnexxxt.com:19806/0d7fa1ec8c4348e29bc3f09a38ae3691
@@ -1347,6 +1374,12 @@ CCTV16,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226413/1.m3u8
 凤凰资讯,http://182.149.106.41:8888/udp/239.93.1.4:2191
 
 
+凤凰中文,http://tvbox6.com/tv/fhzw.m3u8
+凤凰资讯,http://tvbox6.com/tv/fhzx.m3u8
+凤凰香港,http://tvbox6.com/tv/fhhk.m3u8
+
+
+
 凤凰中文,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰资讯,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
 凤凰香港,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
@@ -1779,8 +1812,32 @@ CF,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAuth=63d571
 
 斗鱼电影,#genre#
 
-周星驰,http://cfss.cc/cdn/hy/11342412.flv#http://cfss.cc/cdn/hy/11336587.flv
-
+喜剧电影,http://mywlkj.ddns.net:754/tv/douyu.php?id=9292492
+战争电影,https://live.metshop.top/yy/1382736865
+恐怖经典,http://mywlkj.ddns.net:754/tv/douyu.php?id=1165374
+宇哥电影,http://mywlkj.ddns.net:754/tv/douyu.php?id=413573
+特辑影院,http://mywlkj.ddns.net:754/tv/douyu.php?id=3637778
+胥渡吧,http://mywlkj.ddns.net:754/tv/douyu.php?id=2040822
+电影剧场,http://mywlkj.ddns.net:754/tv/douyu.php?id=7575350
+老烟斗鬼,http://mywlkj.ddns.net:754/tv/douyu.php?id=2337939
+鬼兄奇谈,http://mywlkj.ddns.net:754/tv/douyu.php?id=8722254
+恐怖惊悚,http://mywlkj.ddns.net:754/tv/douyu.php?id=2935323
+悬疑犯罪,http://mywlkj.ddns.net:754/tv/douyu.php?id=9171887
+科学放映,http://mywlkj.ddns.net:754/tv/douyu.php?id=9439712
+火龙电影,http://mywlkj.ddns.net:754/tv/douyu.php?id=9559158
+大胡子魏,http://mywlkj.ddns.net:754/tv/douyu.php?id=8792763
+童年回忆,http://mywlkj.ddns.net:754/tv/douyu.php?id=8915074
+漫威影片,http://mywlkj.ddns.net:754/tv/douyu.php?id=6140589
+看美剧,http://mywlkj.ddns.net:754/tv/douyu.php?id=8869614
+代娱美剧,http://mywlkj.ddns.net:754/tv/douyu.php?id=9123570
+霍格影片,http://mywlkj.ddns.net:754/tv/douyu.php?id=8814650
+爆笑解说,http://mywlkj.ddns.net:754/tv/douyu.php?id=2660125
+科幻解说,http://mywlkj.ddns.net:754/tv/douyu.php?id=3508304
+史君说剧1,http://mywlkj.ddns.net:754/tv/douyu.php?id=297689
+史君说剧2,http://mywlkj.ddns.net:754/tv/douyu.php?id=9419771
+小品轮播,http://tc-tct.douyucdn2.cn/dyliveflv1a/10153463r0oBSmAG.m3u8
+周星驰,https://live.metshop.top/yy/1382736808
+成龙,https://live.metshop.top/yy/1354888751
 鬼片恐怖,http://43.138.170.29:35455/douyu/2935323
 恐怖故事,http://43.138.170.29:35455/douyu/2337939
 科幻动作,http://43.138.170.29:35455/douyu/4332
