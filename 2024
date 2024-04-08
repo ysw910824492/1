@@ -1,4 +1,4 @@
-4k频道,#genre#
+4K频道,#genre#
 CCTV4K,http://112.17.52.85/PLTV/88888888/224/3221233679/index.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksznorecord/csztv4k_4k.m3u8
 CCTV4K,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv4k.m3u8
@@ -12,7 +12,6 @@ CCTV4K,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv4k.m3u8
 爱上4K,http://111.193.234.103:8800/rtp/239.3.1.236:2000
 
 央视,#genre#
-
 nas
 CCTV1,http://nas.mfparking.com:4022/udp/233.50.201.118:5140
 CCTV2,http://nas.mfparking.com:4022/udp/233.50.201.119:5140
@@ -69,8 +68,6 @@ CCTV-15,http://121.24.99.64:8090/hls/23/index.m3u8
 广东卫视,http://121.24.99.64:8090/hls/82/index.m3u8
 深圳卫视,http://121.24.99.64:8090/hls/84/index.m3u8
 广西卫视,http://121.24.99.64:8090/hls/85/index.m3u8
-
-
 
 3 20240313
 CCTV1,http://182.149.106.41:8888/udp/239.93.0.184:5140
@@ -198,9 +195,6 @@ CCTV15,mitv://generationnexxxt.com:19806/8914df6967f546eb8cf20ea35946ad8d
 云南卫视,http://nas.mfparking.com:4022/udp/233.50.200.115:5140
 东南卫视,http://nas.mfparking.com:4022/udp/233.50.201.146:5140
 
-
-
-
 江西IPTV
 江西卫视,http://gzly.hkychina.com:6005/udp/239.252.220.63:5140
 浙江卫视,http://gzly.hkychina.com:6005/udp/239.252.219.210:5140
@@ -234,10 +228,6 @@ CCTV15,mitv://generationnexxxt.com:19806/8914df6967f546eb8cf20ea35946ad8d
 快乐垂钓,http://gzly.hkychina.com:6005/udp/239.252.220.177:5140
 CHC高清电影,http://gzly.hkychina.com:6005/udp/239.252.219.83:5140
 电影测试,http://gzly.hkychina.com:6005/udp/239.252.220.212:5140
-
-
-
-
 金鹰卡通,http://221.232.105.110:8880/udp/239.69.1.248:11130
 
 HEVC以下卡
@@ -269,7 +259,6 @@ HEVC以下卡
 重庆卫视,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=107
 甘肃卫视,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=119
 河北卫视,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=108
-
 
 北京卫视,mitv://generationnexxxt.com:19806/8d7d0547db754c32bca6011693893b40
 天津卫视,mitv://generationnexxxt.com:19806/0d7fa1ec8c4348e29bc3f09a38ae3691
