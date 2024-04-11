@@ -16,7 +16,7 @@ CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226231/index
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226224/index.m3u8
 CCTV3,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226397/index.m3u8
 CCTV4,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226191/index.m3u8
-CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226395/index.m3u8
+CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226395/index.m3u8
 CCTV5,http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
 CCTV6,http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
 CCTV7,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226192/index.m3u8
@@ -30,9 +30,6 @@ CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226193/inde
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225785/index.m3u8
 CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226921/index.m3u8
 CCTV17,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226198/index.m3u8
-
-
-
 nas
 CCTV1,http://nas.mfparking.com:4022/udp/233.50.201.118:5140
 CCTV2,http://nas.mfparking.com:4022/udp/233.50.201.119:5140
