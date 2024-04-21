@@ -1020,6 +1020,10 @@ CCTV17,http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8
 中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 
 IPV6专享,#genre#
+CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
+CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
+CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
+
 CCTV1,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUU6FFmRK8Hl0ytyd5e5kWGEwoDIwMxbrlyyVy9x6ZDKnldIYKOjBOUjRyoym5n7Kg0yIYstFTUfqtC14fzxhy5Y
 CCTV2,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000036BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfGVSARKsxkWGZw7vFUuOj2QZHeRzosIxVbl7i2QHFATHA3k5wDWG1qHkZQAleNv%2FbI
 CCTV3,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727c125355/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSPTZ4CK5oLfjaEYe9dogNMUNNEYLCPUtKY62j1Wp5u04wipypKUQ1TTuR2lXvBl5YpHqBJmlA19x22TD9bUOjk
@@ -1441,6 +1445,21 @@ CF,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAuth=63d571
 网络热门歌曲点击切换,https://api.vvhan.com/api/rand.music?sort=%E7%83%AD%E6%AD%8C%E6%A6%9C
 
 斗鱼电影,#genre#
+电视剧频道1,http://zby.xjqxz.top/dsdsj1/live.m3u8
+电视剧频道2,http://zby.xjqxz.top/dsdsj2/live.m3u8
+电视剧频道3,http://zby.xjqxz.top/dsdsj3/live.m3u8
+电视剧频道4,http://zby.xjqxz.top/gzwxj/live.m3u8
+电视剧频道5,http://zby.xjqxz.top/gzgdj/live.m3u8
+电视剧频道6,http://zby.xjqxz.top/gzdsj1/live.m3u8
+电视剧频道7,http://zby.xjqxz.top/gzdsj2/live.m3u8
+电视剧频道8,http://zby.xjqxz.top/gzdsj3/live.m3u8
+电视剧频道9,http://zby.xjqxz.top/gzdsj4/live.m3u8
+电视剧频道10,http://zby.xjqxz.top/gzdsj5/live.m3u8
+电视剧频道11,http://zby.xjqxz.top/kzzypd2/live.m3u8
+电视剧频道12,http://zby.xjqxz.top/kzzypd/live.m3u8
+电视剧频道13,http://zby.xjqxz.top/dzzypd/live.m3u8
+电视剧频道14,http://zby.xjqxz.top/dzzypd2/live.m3u8
+电视剧频道15,http://zby.xjqxz.top/dzzypd3/live.m3u8
 斗鱼电影10,http://43.138.170.29:35455/douyu/2935323
 斗鱼电影22,http://43.138.170.29:35455/douyu/1979257
 斗鱼电影26,http://43.138.170.29:35455/douyu/8413092
