@@ -2,11 +2,12 @@
 CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV4K,http://159.75.85.63:5679/cctv4k.php
 CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
-爱上4K-ipv6,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 苏州4K,http://liveshowbak2.kan0512.com/ksznorecord/csztv4k_4k.m3u8
 Love4K NaTURe,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8 
 
 港澳台,#genre#
+
 凤凰资讯,http://e2.woc.iiiya.cn:8888/rtp/239.61.2.183:9086
 凤凰中文,http://e2.woc.iiiya.cn:8888/rtp/239.61.2.184:9092
 凤凰资讯,http://kuanglong.vicp.hk:2121/udp/239.93.16.118:8708
