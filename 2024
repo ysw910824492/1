@@ -1,5 +1,6 @@
 
 4K频道,#genre#
+
 CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV4K,http://159.75.85.63:5679/cctv4k.php
 CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
@@ -8,6 +9,7 @@ CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
 Love4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8 
 
 港澳台,#genre#
+
 凤凰中文,http://113.64.145.195:8081/hls/37/index.m3u8
 凤凰资讯,http://113.64.145.195:8081/hls/36/index.m3u8
 凤凰资讯,http://kuanglong.vicp.hk:2121/udp/239.93.16.118:8708
@@ -249,6 +251,7 @@ CCTV17,http://113.15.184.96:8181/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&a
 上海卫视,http://113.15.184.96:8181/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://113.15.184.96:8181/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://113.15.184.96:8181/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV1,http://mtw.so/6heoTA
 CCTV2,http://mtw.so/6oKBGx
 CCTV3,http://mtw.so/6wgOLe
