@@ -213,7 +213,6 @@ CCTV17,http://nas.mfparking.com:4022/udp/233.50.200.113:5140
 云南卫视,http://nas.mfparking.com:4022/udp/233.50.200.115:5140
 东南卫视,http://nas.mfparking.com:4022/udp/233.50.201.146:5140
 
-
 113.15.184.
 CCTV1,http://113.15.184.96:8181/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://113.15.184.96:8181/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -275,7 +274,6 @@ CCTV15,http://mtw.so/69Ic2B
 浙江卫视,http://mtw.so/5GnVmf
 湖南卫视,http://mtw.so/6oKBYh
 
-
 CCTV1,http://zby.xjqxz.top/xpgtv/cctv/cctv1.m3u8
 CCTV2,http://zby.xjqxz.top/xpgtv/cctv/cctv2.m3u8
 CCTV3,http://zby.xjqxz.top/xpgtv/cctv/cctv3.m3u8
@@ -313,7 +311,6 @@ CCTV15,http://zby.xjqxz.top/xpgtv/cctv/cctv15.m3u8
 河北卫视,http://zby.xjqxz.top/xpgtv/cctv/hebws.m3u8
 山东卫视,http://zby.xjqxz.top/xpgtv/cctv/sdws.m3u8
 深圳卫视,http://zby.xjqxz.top/xpgtv/cctv/szws.m3u8
-
 
 fxgm 8M码率
 CCTV1,http://fxgm.fxjf.work:19901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
