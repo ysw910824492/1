@@ -1,7 +1,9 @@
 4K频道,#genre#
+CCTV4K,http://159.75.85.63:5679/cctv4k.php
 
 CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-CCTV4K,http://159.75.85.63:5679/cctv4k.php
+CCTV4K,http://113.64.145.195:8081/hls/144/index.m3u8
+广东综艺4K,http://113.64.145.195:8081/hls/145/index.m3u8
 CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
 爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 苏州4K,http://liveshowbak2.kan0512.com/ksznorecord/csztv4k_4k.m3u8
@@ -11,7 +13,7 @@ Love4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 凤凰中文,http://113.64.145.195:8081/hls/37/index.m3u8
 凤凰资讯,http://113.64.145.195:8081/hls/36/index.m3u8
-未知,http://113.64.145.195:8081/hls/38/index.m3u8
+凤凰香港,http://113.64.145.195:8081/hls/38/index.m3u8
 凤凰资讯,http://kuanglong.vicp.hk:2121/udp/239.93.16.118:8708
 凤凰资讯,http://giwon.ddns.net:5555/udp/239.93.0.118:2191
 凤凰资讯,http://e2.woc.iiiya.cn:8888/rtp/239.61.2.183:9086
@@ -42,7 +44,7 @@ ViuTV,https://epg.pw/stream/e0aab9aab1e920e6b8a58cf554cb894167d14600cc796be0ba30
 无线新闻,https://epg.pw/stream/cf9a086284373e6083058ffee13a822e2e193f5e19d3ff25b6e90062e4109c89.ctv
 无线财经,https://epg.pw/stream/9a5717216f8e5e6563211d66d2867374bfdfdd8a9ee8c48b0de2ddcb3a1f9b0d.ctv
 TVBS,mitv://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
-
+TVB星河,http://113.64.145.195:8081/hls/135/index.m3u8
 startv365
 TVBS新闻台,http://startv365.com:80/live/9794783213/6955630461/5499.m3u8
 TVBS欢乐台,http://startv365.com:80/live/9794783213/6955630461/5498.m3u8
@@ -212,6 +214,21 @@ CCTV17,http://nas.mfparking.com:4022/udp/233.50.200.113:5140
 江西卫视,http://nas.mfparking.com:4022/udp/233.50.201.145:5140
 云南卫视,http://nas.mfparking.com:4022/udp/233.50.200.115:5140
 东南卫视,http://nas.mfparking.com:4022/udp/233.50.201.146:5140
+
+北京卫视,http://113.64.145.195:8081/hls/45/index.m3u8
+天津卫视,http://113.64.145.195:8081/hls/48/index.m3u8
+黑龙江卫视,http://113.64.145.195:8081/hls/50/index.m3u8
+广西卫视,http://113.64.145.195:8081/hls/60/index.m3u8
+山东卫视,http://113.64.145.195:8081/hls/75/index.m3u8
+广东卫视,http://113.64.145.195:8081/hls/140/index.m3u8
+揭阳,http://113.64.145.195:8081/hls/39/index.m3u8
+乐游,http://113.64.145.195:8081/hls/66/index.m3u8
+都市频道,http://113.64.145.195:8081/hls/68/index.m3u8
+电视剧频道,http://113.64.145.195:8081/hls/69/index.m3u8
+体育健康,http://113.64.145.195:8081/hls/70/index.m3u8
+风云音乐,http://113.64.145.195:8081/hls/117/index.m3u8
+电视剧频道,http://113.64.145.195:8081/hls/141/index.m3u8
+体育健康,http://113.64.145.195:8081/hls/142/index.m3u8
 
 113.15.184.
 CCTV1,http://113.15.184.96:8181/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
