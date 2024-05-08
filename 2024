@@ -1,4 +1,5 @@
 4K频道,#genre#
+
 CCTV4K,http://159.75.85.63:5679/cctv4k.php
 CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV4K,http://113.64.145.195:8081/hls/144/index.m3u8
@@ -263,7 +264,6 @@ RTHK33,https://epg.pw/stream/b6a5f89266b740a43b7231afcffc2cce5c46e8dc2f3b8d8df3b
 无线新闻,https://epg.pw/stream/7673962ca22c9a4a0c3082d40a3374943c5d26c4113634b42306933c642ebc08.ctv
 
 央视卫视,#genre#
-
 nas 8M码率
 CCTV1,http://nas.mfparking.com:4022/udp/233.50.201.118:5140
 CCTV2,http://nas.mfparking.com:4022/udp/233.50.201.119:5140
@@ -305,6 +305,7 @@ CCTV17,http://nas.mfparking.com:4022/udp/233.50.200.113:5140
 云南卫视,http://nas.mfparking.com:4022/udp/233.50.200.115:5140
 东南卫视,http://nas.mfparking.com:4022/udp/233.50.201.146:5140
 
+60源
 CCTV1,http://60.208.104.234:352/tsfile/live/0001_1.m3u8
 CCTV2,http://60.208.104.234:352/tsfile/live/0002_1.m3u8
 CCTV4,http://60.208.104.234:352/tsfile/live/0004_1.m3u8
@@ -343,6 +344,7 @@ CCTV17,http://60.208.104.234:352/tsfile/live/0019_1.m3u8
 重庆卫视,http://60.208.104.234:352/tsfile/live/0142_1.m3u8
 黑龙江卫视,http://60.208.104.234:352/tsfile/live/0143_1.m3u8
 
+223央视
 CCTV1,http://223.151.51.74:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://223.151.51.74:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://223.151.51.74:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
