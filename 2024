@@ -1,5 +1,4 @@
 4K频道,#genre#
-
 CCTV4K,http://159.75.85.63:5679/cctv4k.php
 CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV4K,http://113.64.145.195:8081/hls/144/index.m3u8
@@ -391,7 +390,6 @@ CCTV15,http://mtw.so/69Ic2B
 浙江卫视,http://mtw.so/5GnVmf
 湖南卫视,http://mtw.so/6oKBYh
 
-
 720P
 CCTV1,http://125.210.150.58:9090/live/hzgq-cctv1gq-h264.m3u8
 CCTV2,http://125.210.150.58:9090/live/hzgq-cctv2gq-h264.m3u8
@@ -430,7 +428,6 @@ CCTV17,http://125.210.150.58:9090/live/hzgq-cctv17gq-h264.m3u8
 深圳卫视,http://125.210.150.58:9090/live/hzgq-szwsgq-h264.m3u8
 贵州卫视,http://125.210.150.58:9090/live/hzgq-gzwsgq-h264.m3u8
 四川卫视,http://125.210.150.58:9090/live/hzgq-scwsgq-h264.m3u8
-
 
 CCTV1,http://116.128.243.121:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://116.128.243.121:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
