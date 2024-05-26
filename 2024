@@ -9,7 +9,6 @@ CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
 苏州4Khttp://39.77.3.5:8989/udp/239.253.254.102:8000
 CCTV4K,http://113.64.145.231:8081/hls/144/index.m3u8
 
-测试台,#genre#
 47
 CCTV1,http://219.159.194.47:8181/tsfile/live/0001_1.m3u8
 CCTV2,http://219.159.194.47:8181/tsfile/live/0002_1.m3u8
@@ -67,7 +66,8 @@ CCTV17,http://219.159.194.47:8181/tsfile/live/0019_1.m3u8
 南宁综合,http://219.159.194.47:8181/tsfile/live/0143_1.m3u8
 广东科教,http://219.159.194.47:8181/tsfile/live/1003_1.m3u8
 广东影视,http://219.159.194.47:8181/tsfile/live/1004_1.m3u8
-39源
+
+测试源,#genre#
 CCTV1,http://39.77.3.5:8989/udp/239.253.254.77:8000
 CCTV2,http://39.77.3.5:8989/udp/239.253.254.232:8000
 CCTV3,http://39.77.3.5:8989/udp/239.253.254.191:8000
@@ -439,7 +439,6 @@ TVB星河,https://epg.pw/stream/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e397
 RTHK32,https://epg.pw/stream/32c03d40ac25db200f05551ace248b8cf2b807859aab2888e78227870ebadf67.ctv
 RTHK33,https://epg.pw/stream/3cd84be1fb3623f1c3ba7d3d26e3d607331255d6559bd3e6ded774a1ff7c2b89.m3u8
 RTHK33,https://epg.pw/stream/b6a5f89266b740a43b7231afcffc2cce5c46e8dc2f3b8d8df3b9efd3c9460c20.ctv
-央视卫视,#genre#
 nas 8M码率
 CCTV1,http://nas.mfparking.com:4022/udp/233.50.201.118:5140
 CCTV2,http://nas.mfparking.com:4022/udp/233.50.201.119:5140
@@ -480,7 +479,7 @@ CCTV17,http://nas.mfparking.com:4022/udp/233.50.200.113:5140
 江西卫视,http://nas.mfparking.com:4022/udp/233.50.201.145:5140
 云南卫视,http://nas.mfparking.com:4022/udp/233.50.200.115:5140
 东南卫视,http://nas.mfparking.com:4022/udp/233.50.201.146:5140
-
+央视卫视,#genre#
 60源
 CCTV1,http://60.208.104.234:352/tsfile/live/0001_1.m3u8
 CCTV2,http://60.208.104.234:352/tsfile/live/0002_1.m3u8
