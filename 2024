@@ -491,7 +491,7 @@ CCTV15,http://59.62.8.250:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&aut
 湖南卫视,http://59.62.8.250:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://59.62.8.250:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://59.62.8.250:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-223央视
+223央视失效
 CCTV1,http://223.151.51.74:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://223.151.51.74:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://223.151.51.74:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -572,7 +572,7 @@ CHC家庭影院,mitv://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21
 湖南公共,http://113.240.139.144:8082/hls/19/index.m3u8
 湖南电影,http://113.240.139.144:8082/hls/18/index.m3u8
 以下备用
-biaozhun114
+biaozhun114失效
 CCTV1,http://biaozhun114.com/tv/vip1.php?id=1
 CCTV2,http://biaozhun114.com/tv/vip1.php?id=2
 CCTV3,http://biaozhun114.com/tv/vip1.php?id=3
@@ -607,7 +607,7 @@ CCTV14,http://biaozhun114.com/tv/vip1.php?id=15
 湖南都市,http://biaozhun114.com/tv/vip1.php?id=48
 湖南电视剧,http://biaozhun114.com/tv/vip1.php?id=49
 快乐垂钓,http://biaozhun114.com/tv/vip1.php?id=50
-gzcyl001.3322
+gzcyl001.3322失效
 广东卫视,http://gzcyl001.3322.org:8081/hls/29/index.m3u8
 广东珠江,http://gzcyl001.3322.org:8081/hls/23/index.m3u8
 广州影视,http://gzcyl001.3322.org:8081/hls/20/index.m3u8
@@ -912,9 +912,7 @@ CCTV14,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3949788BESTVSM
 CCTV15,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000055BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0Tdo%2FUL80msfbhDYvoWpNl31Dy7jHvMl%2FzVUrNxhL1ek1YEGVDZ7lCg0LtKJY4Ku%2B8
 CCTV17,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728afa13b4/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdDh4EPdDnvGlSBkYaxFdaz%2FyAI9to%2FMBBt%2FivcdSfljJ1%2FqqamWUjAiBAxNssfyBlZUDSXAIMtStS86hRHFuJM
 
-
 CCTV1,http://[2409:8087:1a0b:df::4005]/TVOD/88888888/224/3221225816/index.m3u8
-CCTV1,http://[2409:8087:1a0b:df::4005]/TVOD/88888888/224/3221226119/index.m3u8
 CCTV2,http://[2409:8087:1a0b:df::4005]/TVOD/88888888/224/3221226079/index.m3u8
 CCTV3,http://[2409:8087:1a0b:df::4005]/TVOD/88888888/224/3221225799/index.m3u8
 CCTV4,http://[2409:8087:1a0b:df::4005]/TVOD/88888888/224/3221226092/index.m3u8
