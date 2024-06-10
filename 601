@@ -732,189 +732,78 @@ http://39.77.3.5:8989/udp/239.253.254.141:8000
 #EXTINF:-1 group-title="测试源",武术世界
 http://39.77.3.5:8989/udp/239.253.254.140:8000
 #EXTINF:-1 group-title="测试源",游戏风云
-http://39.77.3.5:8989/udp/239.253.254.95:8000
-#EXTINF:-1 group-title="凤凰资讯台",凤凰资讯台
-http://113.64.145.121:8081/hls/36/index.m3u8
-#EXTINF:-1 group-title="凤凰资讯台",凤凰资讯台
-http://113.64.145.98:8081/hls/36/index.m3u8
-#EXTINF:-1 group-title="凤凰资讯台",凤凰资讯台
-http://113.64.145.105:8081/hls/36/index.m3u8
-#EXTINF:-1 group-title="凤凰资讯台",凤凰资讯台
-http://113.64.145.195:8081/hls/36/index.m3u8
-#EXTINF:-1 group-title="凤凰资讯台",凤凰资讯台
-http://113.64.145.55:8081/hls/36/index.m3u8
 #EXTINF:-1 group-title="凤凰资讯台",凤凰资讯台
 http://113.64.145.132:8081/hls/36/index.m3u8
 #EXTINF:-1 group-title="凤凰资讯台",凤凰资讯台
-http://113.64.145.34:8081/hls/36/index.m3u8
-#EXTINF:-1 group-title="凤凰资讯台",凤凰资讯台
-http://113.64.145.224:8081/hls/36/index.m3u8
-#EXTINF:-1 group-title="凤凰资讯台",凤凰资讯台
-http://113.64.145.214:8081/hls/36/index.m3u8
-#EXTINF:-1 group-title="凤凰资讯台",凤凰资讯台
-http://113.64.145.204:8081/hls/36/index.m3u8
-#EXTINF:-1 group-title="凤凰资讯台",凤凰资讯台
-http://113.64.145.187:8081/hls/36/index.m3u8
-#EXTINF:-1 group-title="凤凰资讯台",凤凰资讯台
-http://113.64.145.100:8081/hls/36/index.m3u8
-#EXTINF:-1 group-title="凤凰资讯台",凤凰资讯台
-http://113.64.145.91:8081/hls/36/index.m3u8
-#EXTINF:-1 group-title="凤凰资讯台",凤凰资讯台
-http://113.64.145.61:8081/hls/36/index.m3u8
-#EXTINF:-1 group-title="凤凰资讯台",凤凰资讯台
-http://113.64.145.86:8081/hls/36/index.m3u8
-#EXTINF:-1 group-title="凤凰资讯台",凤凰资讯台
 http://113.64.145.229:8081/hls/36/index.m3u8
+#EXTINF:-1 group-title="凤凰资讯台",凤凰资讯台
+http://113.64.145.34:8081/hls/36/index.m3u8
 #EXTINF:-1 group-title="凤凰资讯台",凤凰资讯台
 http://113.64.145.93:8081/hls/36/index.m3u8
 #EXTINF:-1 group-title="凤凰资讯台",凤凰资讯台
+http://113.64.145.55:8081/hls/36/index.m3u8
+#EXTINF:-1 group-title="凤凰资讯台",凤凰资讯台
+http://113.64.145.224:8081/hls/36/index.m3u8
+#EXTINF:-1 group-title="凤凰资讯台",凤凰资讯台
 http://113.64.145.231:8081/hls/36/index.m3u8
-#EXTINF:-1 group-title="凤凰资讯台",凤凰资讯
-http://kuanglong.vicp.hk:2121/udp/239.93.16.118:8708
-#EXTINF:-1 group-title="凤凰资讯台",凤凰资讯
-http://43.141.130.51/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
-#EXTINF:-1 group-title="凤凰资讯台",凤凰资讯
-http://125.210.150.58:9090/live/hszx-fhzx-h264.m3u8
-#EXTINF:-1 group-title="凤凰资讯台",凤凰资讯
-http://tvbox.netsite.cc/proxy/1650326537/1650326537.m3u8
-#EXTINF:-1 group-title="凤凰资讯台",凤凰资讯
-http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 group-title="凤凰资讯台",凤凰资讯
-http://giwon.ddns.net:5555/udp/239.93.0.118:2191
-#EXTINF:-1 group-title="凤凰资讯台",凤凰资讯
-http://e2.woc.iiiya.cn:8888/rtp/239.61.2.183:9086
-#EXTINF:-1 group-title="凤凰资讯台",凤凰资讯
-http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
-#EXTINF:-1 group-title="凤凰资讯台",凤凰资讯
-https://tv.sd.cn/sichuan?id=239.93.0.118:2191
-#EXTINF:-1 group-title="凤凰资讯台",凤凰资讯
-http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 group-title="凤凰资讯台",凤凰资讯
-http://mywlkj.ddns.net:754/tv/fhzx.m3u8
-#EXTINF:-1 group-title="凤凰资讯台",凤凰资讯
-http://112.19.171.156:9999/udp/239.93.0.118:2191
-#EXTINF:-1 group-title="凤凰资讯台",凤凰资讯
-https://edge2.laotv.la/live/PhoenixNews/index.m3u8
-#EXTINF:-1 group-title="凤凰资讯台",凤凰资讯
-http://tvbox6.com/tv/fhzx.m3u8
-#EXTINF:-1 group-title="凤凰中文台",凤凰中文台
-http://113.64.145.98:8081/hls/37/index.m3u8
-#EXTINF:-1 group-title="凤凰中文台",凤凰中文台
-http://113.64.145.204:8081/hls/37/index.m3u8
-#EXTINF:-1 group-title="凤凰中文台",凤凰中文台
-http://113.64.145.231:8081/hls/37/index.m3u8
-#EXTINF:-1 group-title="凤凰中文台",凤凰中文台
-http://113.64.145.187:8081/hls/37/index.m3u8
-#EXTINF:-1 group-title="凤凰中文台",凤凰中文台
-http://113.64.145.224:8081/hls/37/index.m3u8
-#EXTINF:-1 group-title="凤凰中文台",凤凰中文台
-http://113.64.145.195:8081/hls/37/index.m3u8
-#EXTINF:-1 group-title="凤凰中文台",凤凰中文台
-http://113.64.145.34:8081/hls/37/index.m3u8
-#EXTINF:-1 group-title="凤凰中文台",凤凰中文台
-http://113.64.145.229:8081/hls/37/index.m3u8
-#EXTINF:-1 group-title="凤凰中文台",凤凰中文台
-http://113.64.145.93:8081/hls/37/index.m3u8
-#EXTINF:-1 group-title="凤凰中文台",凤凰中文台
-http://113.64.145.121:8081/hls/37/index.m3u8
-#EXTINF:-1 group-title="凤凰中文台",凤凰中文台
-http://113.64.145.100:8081/hls/37/index.m3u8
+#EXTINF:-1 group-title="凤凰资讯台",凤凰资讯台
+http://113.64.145.86:8081/hls/36/index.m3u8
+#EXTINF:-1 group-title="凤凰资讯台",凤凰资讯台
+http://113.64.145.195:8081/hls/36/index.m3u8
+#EXTINF:-1 group-title="凤凰资讯台",凤凰资讯台
+http://113.64.145.105:8081/hls/36/index.m3u8
+#EXTINF:-1 group-title="凤凰资讯台",凤凰资讯台
+http://113.64.145.91:8081/hls/36/index.m3u8
+#EXTINF:-1 group-title="凤凰资讯台",凤凰资讯台
+http://113.64.145.204:8081/hls/36/index.m3u8
 #EXTINF:-1 group-title="凤凰中文台",凤凰中文台
 http://113.64.145.105:8081/hls/37/index.m3u8
 #EXTINF:-1 group-title="凤凰中文台",凤凰中文台
 http://113.64.145.132:8081/hls/37/index.m3u8
 #EXTINF:-1 group-title="凤凰中文台",凤凰中文台
-http://113.64.145.86:8081/hls/37/index.m3u8
+http://113.64.145.229:8081/hls/37/index.m3u8
 #EXTINF:-1 group-title="凤凰中文台",凤凰中文台
-http://113.64.145.61:8081/hls/37/index.m3u8
+http://113.64.145.93:8081/hls/37/index.m3u8
+#EXTINF:-1 group-title="凤凰中文台",凤凰中文台
+http://113.64.145.34:8081/hls/37/index.m3u8
+#EXTINF:-1 group-title="凤凰中文台",凤凰中文台
+http://113.64.145.231:8081/hls/37/index.m3u8
+#EXTINF:-1 group-title="凤凰中文台",凤凰中文台
+http://113.64.145.195:8081/hls/37/index.m3u8
 #EXTINF:-1 group-title="凤凰中文台",凤凰中文台
 http://113.64.145.55:8081/hls/37/index.m3u8
 #EXTINF:-1 group-title="凤凰中文台",凤凰中文台
+http://113.64.145.224:8081/hls/37/index.m3u8
+#EXTINF:-1 group-title="凤凰中文台",凤凰中文台
+http://113.64.145.86:8081/hls/37/index.m3u8
+#EXTINF:-1 group-title="凤凰中文台",凤凰中文台
 http://113.64.145.91:8081/hls/37/index.m3u8
 #EXTINF:-1 group-title="凤凰中文台",凤凰中文台
-http://113.64.145.214:8081/hls/37/index.m3u8
-#EXTINF:-1 group-title="凤凰中文台",凤凰中文
-http://kuanglong.vicp.hk:2121/udp/239.93.16.31:8012
-#EXTINF:-1 group-title="凤凰中文台",凤凰中文
-http://43.141.130.51/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
-#EXTINF:-1 group-title="凤凰中文台",凤凰中文
-http://125.210.150.58:9090/live/hszx-fhzw-h264.m3u8
-#EXTINF:-1 group-title="凤凰中文台",凤凰中文
-http://tvbox.netsite.cc/proxy/1846789161/1846789161.m3u8
-#EXTINF:-1 group-title="凤凰中文台",凤凰中文
-http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 group-title="凤凰中文台",凤凰中文
-http://e2.woc.iiiya.cn:8888/rtp/239.61.2.184:9092
-#EXTINF:-1 group-title="凤凰中文台",凤凰中文
-http://giwon.ddns.net:5555/udp/239.93.0.162:2192
-#EXTINF:-1 group-title="凤凰中文台",凤凰中文
-https://tv.sd.cn/sichuan?id=239.93.0.162:2192
-#EXTINF:-1 group-title="凤凰中文台",凤凰中文
-http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 group-title="凤凰中文台",凤凰中文
-http://mywlkj.ddns.net:754/tv/fhzw.m3u8
-#EXTINF:-1 group-title="凤凰中文台",凤凰中文
-http://112.19.171.156:9999/udp/239.93.0.162:2192
-#EXTINF:-1 group-title="凤凰中文台",凤凰中文
-http://tvbox6.com/tv/fhzw.m3u8
-#EXTINF:-1 group-title="凤凰中文台",凤凰中文
-https://epg.pw/stream/4449f787f5ea0c3b693485107c2f18722fb73ffe25173e86b3a6c88ee50f8f28.m3u8
-#EXTINF:-1 group-title="凤凰中文台",凤凰中文
-https://epg.pw/stream/aa98dcd3447197ff2a08c7605c93929ee0b5df9e0975a1b60f454f543317ff1e.m3u8
-#EXTINF:-1 group-title="凤凰中文台",凤凰中文
-https://epg.pw/stream/bed861174ca3f5d4dd96d8bfc52fd0e2990a69c3e02324ef736495435192d7fa.m3u8
-#EXTINF:-1 group-title="凤凰中文台",凤凰中文
-https://epg.pw/stream/e6886dbde2158fbb51da8cd6db21e2bb5fb68f4e5aa4db51e3589f30c20a13d8.m3u8
-#EXTINF:-1 group-title="凤凰中文台",凤凰中文
-https://epg.pw/stream/c77a6c3e914fd27b23140776fce89ecf408b6e3adb44621bef4ffce24931d730.m3u8
-#EXTINF:-1 group-title="凤凰香港台",凤凰香港台
-http://113.64.145.105:8081/hls/38/index.m3u8
-#EXTINF:-1 group-title="凤凰香港台",凤凰香港台
-http://113.64.145.121:8081/hls/38/index.m3u8
+http://113.64.145.204:8081/hls/37/index.m3u8
 #EXTINF:-1 group-title="凤凰香港台",凤凰香港台
 http://113.64.145.55:8081/hls/38/index.m3u8
 #EXTINF:-1 group-title="凤凰香港台",凤凰香港台
-http://113.64.145.214:8081/hls/38/index.m3u8
-#EXTINF:-1 group-title="凤凰香港台",凤凰香港台
-http://113.64.145.187:8081/hls/38/index.m3u8
-#EXTINF:-1 group-title="凤凰香港台",凤凰香港台
-http://113.64.145.98:8081/hls/38/index.m3u8
-#EXTINF:-1 group-title="凤凰香港台",凤凰香港台
 http://113.64.145.132:8081/hls/38/index.m3u8
-#EXTINF:-1 group-title="凤凰香港台",凤凰香港台
-http://113.64.145.91:8081/hls/38/index.m3u8
-#EXTINF:-1 group-title="凤凰香港台",凤凰香港台
-http://113.64.145.195:8081/hls/38/index.m3u8
 #EXTINF:-1 group-title="凤凰香港台",凤凰香港台
 http://113.64.145.86:8081/hls/38/index.m3u8
 #EXTINF:-1 group-title="凤凰香港台",凤凰香港台
 http://113.64.145.229:8081/hls/38/index.m3u8
 #EXTINF:-1 group-title="凤凰香港台",凤凰香港台
-http://113.64.145.100:8081/hls/38/index.m3u8
-#EXTINF:-1 group-title="凤凰香港台",凤凰香港台
-http://113.64.145.34:8081/hls/38/index.m3u8
+http://113.64.145.91:8081/hls/38/index.m3u8
 #EXTINF:-1 group-title="凤凰香港台",凤凰香港台
 http://113.64.145.224:8081/hls/38/index.m3u8
 #EXTINF:-1 group-title="凤凰香港台",凤凰香港台
-http://113.64.145.61:8081/hls/38/index.m3u8
-#EXTINF:-1 group-title="凤凰香港台",凤凰香港台
-http://113.64.145.93:8081/hls/38/index.m3u8
+http://113.64.145.195:8081/hls/38/index.m3u8
 #EXTINF:-1 group-title="凤凰香港台",凤凰香港台
 http://113.64.145.231:8081/hls/38/index.m3u8
 #EXTINF:-1 group-title="凤凰香港台",凤凰香港台
+http://113.64.145.34:8081/hls/38/index.m3u8
+#EXTINF:-1 group-title="凤凰香港台",凤凰香港台
+http://113.64.145.93:8081/hls/38/index.m3u8
+#EXTINF:-1 group-title="凤凰香港台",凤凰香港台
+http://113.64.145.105:8081/hls/38/index.m3u8
+#EXTINF:-1 group-title="凤凰香港台",凤凰香港台
 http://113.64.145.204:8081/hls/38/index.m3u8
-#EXTINF:-1 group-title="凤凰香港台",凤凰香港
-http://43.141.130.51/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
-#EXTINF:-1 group-title="凤凰香港台",凤凰香港
-https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
-#EXTINF:-1 group-title="凤凰香港台",凤凰香港
-https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
-#EXTINF:-1 group-title="凤凰香港台",凤凰香港
-https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
-#EXTINF:-1 group-title="凤凰香港台",凤凰香港
-http://mywlkj.ddns.net:754/tv/fhhk.m3u8
-#EXTINF:-1 group-title="凤凰香港台",凤凰香港
-http://tvbox6.com/tv/fhhk.m3u8
 #EXTINF:-1 group-title="港澳台",无线新闻
 http://live.cooltv.top/tv/tvb.php?id=0&hq
 #EXTINF:-1 group-title="港澳台",无线新闻
