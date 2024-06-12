@@ -333,6 +333,7 @@ CCTV17,http://58.63.64.254:8888/rtp/239.77.0.198:5146$广州1080P
 
 港澳台,#genre#
 凤凰资讯台
+凤凰资讯台,http://113.64.145.126:8081/hls/36/index.m3u8 
 凤凰资讯台,http://113.64.145.132:8081/hls/36/index.m3u8
 凤凰资讯台,http://113.64.145.229:8081/hls/36/index.m3u8
 凤凰资讯台,http://113.64.145.34:8081/hls/36/index.m3u8
@@ -346,6 +347,7 @@ CCTV17,http://58.63.64.254:8888/rtp/239.77.0.198:5146$广州1080P
 凤凰资讯台,http://113.64.145.91:8081/hls/36/index.m3u8
 凤凰资讯台,http://113.64.145.204:8081/hls/36/index.m3u8
 凤凰中文台
+凤凰中文台,http://113.64.145.126:8081/hls/37/index.m3u8 
 凤凰中文台,http://113.64.145.105:8081/hls/37/index.m3u8
 凤凰中文台,http://113.64.145.132:8081/hls/37/index.m3u8
 凤凰中文台,http://113.64.145.229:8081/hls/37/index.m3u8
@@ -359,6 +361,7 @@ CCTV17,http://58.63.64.254:8888/rtp/239.77.0.198:5146$广州1080P
 凤凰中文台,http://113.64.145.91:8081/hls/37/index.m3u8
 凤凰中文台,http://113.64.145.204:8081/hls/37/index.m3u8
 凤凰香港台
+凤凰香港台,http://113.64.145.126:8081/hls/38/index.m3u8 
 凤凰香港台,http://113.64.145.55:8081/hls/38/index.m3u8
 凤凰香港台,http://113.64.145.132:8081/hls/38/index.m3u8
 凤凰香港台,http://113.64.145.86:8081/hls/38/index.m3u8
@@ -371,27 +374,20 @@ CCTV17,http://58.63.64.254:8888/rtp/239.77.0.198:5146$广州1080P
 凤凰香港台,http://113.64.145.93:8081/hls/38/index.m3u8
 凤凰香港台,http://113.64.145.105:8081/hls/38/index.m3u8
 凤凰香港台,http://113.64.145.204:8081/hls/38/index.m3u8
+
 J2台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
+无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn 
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn 
+翡翠台,http://histar-proxy.isus.cc/feicui 
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv 
-无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8 
-明珠台,https://pi.0472.org/tv/mzt.php?auth=230918 
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn 
-凤凰资讯,http://113.64.145.34:8081/hls/36/index.m3u8 
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8 
-
-翡翠台,http://histar-proxy.isus.cc/feicui 
-
 凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd 
-
 凤凰资讯,http://histar-proxy.isus.cc/phtv-info 
-
 明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn 
-
-凤凰资讯,http://113.64.145.126:8081/hls/36/index.m3u8 
-
+明珠台,https://pi.0472.org/tv/mzt.php?auth=230918 
 凤凰中文,http://2fc574.netsite.cc/proxy/1650326537/1650326537.
 凤凰中文,http://kuanglong.vicp.hk:2121/udp/239.93.16.31:8012
 凤凰资讯,http://kuanglong.vicp.hk:2121/udp/239.93.16.118:8708
