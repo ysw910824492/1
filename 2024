@@ -401,13 +401,13 @@ TVB星河,https://epg.pw/stream/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e397
 60源
 CCTV1,http://60.208.104.234:352/tsfile/live/0001_1.m3u8
 CCTV2,http://60.208.104.234:352/tsfile/live/0002_1.m3u8
-CCTV3,http://59.62.8.250:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://183.66.13.82:60033/tsfile/live/0003_1.m3u8?key=txiptv
 CCTV4,http://60.208.104.234:352/tsfile/live/0004_1.m3u8
-CCTV5,http://59.62.8.250:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://183.66.13.82:60033/tsfile/live/0005_1.m3u8?key=txiptv
 CCTV5+,http://60.208.104.234:352/tsfile/live/0016_1.m3u8
-CCTV6,http://59.62.8.250:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://183.66.13.82:60033/tsfile/live/0006_1.m3u8?key=txiptv
 CCTV7,http://60.208.104.234:352/tsfile/live/0007_1.m3u8
-CCTV8,http://59.62.8.250:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://183.66.13.82:60033/tsfile/live/0008_1.m3u8?key=txiptv
 CCTV9,http://60.208.104.234:352/tsfile/live/0009_1.m3u8
 CCTV10,http://60.208.104.234:352/tsfile/live/0010_1.m3u8
 CCTV11,http://60.208.104.234:352/tsfile/live/0011_1.m3u8
@@ -437,12 +437,8 @@ CCTV17,http://60.208.104.234:352/tsfile/live/0019_1.m3u8
 
 CCTV1,http://183.66.13.82:60033/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV2,http://183.66.13.82:60033/tsfile/live/0002_1.m3u8?key=txiptv
-CCTV3,http://183.66.13.82:60033/tsfile/live/0003_1.m3u8?key=txiptv
 CCTV4,http://183.66.13.82:60033/tsfile/live/0004_1.m3u8?key=txiptv
-CCTV5,http://183.66.13.82:60033/tsfile/live/0005_1.m3u8?key=txiptv
-CCTV6,http://183.66.13.82:60033/tsfile/live/0006_1.m3u8?key=txiptv
 CCTV7,http://183.66.13.82:60033/tsfile/live/0007_1.m3u8?key=txiptv
-CCTV8,http://183.66.13.82:60033/tsfile/live/0008_1.m3u8?key=txiptv
 CCTV9,http://183.66.13.82:60033/tsfile/live/0009_1.m3u8?key=txiptv
 CCTV10,http://183.66.13.82:60033/tsfile/live/0010_1.m3u8?key=txiptv
 CCTV12,http://183.66.13.82:60033/tsfile/live/0012_1.m3u8?key=txiptv
