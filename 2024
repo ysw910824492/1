@@ -8,7 +8,6 @@ CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksznorecord/csztv4k_4k.m3u8
 苏州4Khttp://39.77.3.5:8989/udp/239.253.254.102:8000
 CCTV4K,http://113.64.145.231:8081/hls/144/index.m3u8
-
 新闻频道P2P,#genre#
 台视新闻,P2p://generationnexxxt.com:19806/9817b59742464113bd5656fcc7dced84
 台视新闻,P2p://generationnexxxt.com:19806/9817b59742464113bd5656fcc7dced84
@@ -31,7 +30,6 @@ now新闻台,P2p://generationnexxxt.com:19806/d7a5bbf5664945cc8589b36b8434d68d
 now新闻台,P2p://generationnexxxt.com:19806/d7a5bbf5664945cc8589b36b8434d68d
 TVB娱乐新闻台,P2p://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5f428c
 NHK新闻资讯台,P2p://generationnexxxt.com:19806/c2da55d84a72418c8f1876c25ec97a1d
-
 香港频道P2P,#genre#
 港台电视31,P2p://generationnexxxt.com:19806/e4b56cb972e940ee8be694602294d242
 港台电视32,P2p://generationnexxxt.com:19806/9c0a161f9c59476584fe4d8effc125b6
@@ -66,7 +64,6 @@ Hands Up,P2p://generationnexxxt.com:19806/7a79a82b627a417f897895b4adf874aa
 香港国际财经台,P2p://generationnexxxt.com:19806/6aa47af091b54d618d1513b1bc23b0b9
 黄金翡翠台,P2p://generationnexxxt.com:19806/864714d6ebe847edaa948e9104107f12
 TVB Plus,http://tvbox.mhfs.eu.org/tv/tvbplus.m3u8
-
 台湾频道P2P,#genre#
 民视,P2p://generationnexxxt.com:19806/7b662823ed634f1fad66ab442b177118
 台视,P2p://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
@@ -236,7 +233,6 @@ MOMO综合台,P2p://generationnexxxt.com:19806/659391fc000353d298b54dbe4b486dab
 东森新闻台(备),P2p://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d
 镜新闻,P2p://generationnexxxt.com:19806/668a0abb880a496d8f57fad2f580566b
 MTV,P2p://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
-
 体育频道P2P,#genre#
 ArenaBola,P2p://generationnexxxt.com:19806/6597c3de0009a0efa91838f96fd623b1
 AstroArena,mitv://generationnexxxt.com:19806/c046c74b43184a9bac5b0e402944aca5
@@ -326,12 +322,9 @@ myTVSUPER18,http://8.217.151.173:7777/hktask.php?id=mytvsuper-18&mac=9865373AAA4
 老澳21:32播放,https://vdm6-ali.kavimmensucat.com/live/2032-2.flv
 老澳21:32开始,https://aa.jmied.com/aa/aa.flv?auth_key=1661059701-0-0-18edbe2ace26cc97f5e86aaee951497e
 老澳21:32官方,https://vdm6-ali.oujinghb.com/live/2032-2.flv
-
-
 港澳台,#genre#
 凤凰中文,https://tv.sd.cn/sichuan?id=239.93.0.162:2192
 凤凰资讯,https://tv.sd.cn/sichuan?id=239.93.0.118:2191
-
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8$fmm
@@ -342,7 +335,6 @@ J2台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn 
 翡翠台,http://bziyunshao.synology.me:8889/bysid/1
 翡翠台,http://histar-proxy.isus.cc/feicui 
-
 凤凰中文,http://biaozhun114.com/tv/fengshows.php?id=1
 凤凰资讯,http://biaozhun114.com/tv/fengshows.php?id=2
 凤凰香港,http://biaozhun114.com/tv/fengshows.php?id=3
@@ -383,7 +375,6 @@ CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 [无分类]
 凤凰中文,http://giwon.ddns.net:5555/udp/239.93.0.162:2192
-
 明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
 凤凰香港,https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
