@@ -168,7 +168,7 @@ CCTV4,http://neucn.asuscomm.cn:23234/rtp/239.3.1.213:4220
 CCTV4,http://neucn.asuscomm.cn:23234/rtp/239.3.1.214:4220
 CCTV4,http://neucn.asuscomm.cn:23234/rtp/239.3.1.245:2000
 CCTV5,http://neucn.asuscomm.cn:23234/rtp/239.3.1.173:8001
-CCTV5,http://neucn.asuscomm.cn:23234/rtp/239.3.1.130:8004
+CCTV5+,http://neucn.asuscomm.cn:23234/rtp/239.3.1.130:8004
 CCTV6,http://neucn.asuscomm.cn:23234/rtp/239.3.1.174:8001
 CCTV7,http://neucn.asuscomm.cn:23234/rtp/239.3.1.61:8104
 CCTV8,http://neucn.asuscomm.cn:23234/rtp/239.3.1.175:8001
