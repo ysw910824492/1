@@ -70,7 +70,6 @@ CGTN,http://27.11.55.145:8002/udp/225.0.4.12:7980
 
 重庆卫视,http://27.11.55.145:8002/udp/225.0.4.187:7980
 
-移动联通,#genre#
 CCTV1,http://neucn.asuscomm.cn:23234/rtp/239.3.1.129:8008
 CCTV2,http://neucn.asuscomm.cn:23234/rtp/239.3.1.60:8084
 CCTV3,http://neucn.asuscomm.cn:23234/rtp/239.3.1.172:8001
@@ -118,7 +117,7 @@ CETV1,http://neucn.asuscomm.cn:23234/rtp/239.3.1.57:8152
 贵州卫视,http://neucn.asuscomm.cn:23234/rtp/239.3.1.149:8076
 东南卫视,http://neucn.asuscomm.cn:23234/rtp/239.3.1.156:8148
 江西卫视,http://neucn.asuscomm.cn:23234/rtp/239.3.1.123:8164
-
+移动联通,#genre#
 ottrrs
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
